@@ -7,28 +7,42 @@ const fetchStaticSchedule = async (ctx) => {
 };
 
 const fetchSiteSchedule = async (ctx) => {
-  const { loginCookie } = ctx.request.body;
+  if (ctx) {
+    // from server
+    const { loginCookie } = ctx.request.body;
 
-  await axios
-    .post(
-      "https://flowtaipei.com/php/personcheckinclasstables.php",
-      {
-        pagetype: "listall",
-      },
-      {
-        headers: {
-          "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
-          Cookie: `wordpress_logged_in_020ece90047cac4af73cbc81ae477f5a=${loginCookie}`,
-        },
-      }
-    )
-    .then((response) => {
-      ctx.status = 201;
-      ctx.body = { result: response.data };
-    })
-    .catch((error) => {
-      console.error("Error:", error);
-    });
+    await axios
+      .post(
+        "https://flowtaipei.com/php/personcheckinclasstables.php",
+        { pagetype: "listall" },
+        {
+          headers: {
+            "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+            Cookie: `wordpress_logged_in_020ece90047cac4af73cbc81ae477f5a=${loginCookie}`,
+          },
+        }
+      )
+      .then((res) => {
+        ctx.status = 201;
+        ctx.body = { result: res.data };
+      })
+      .catch((error) => {
+        console.error("Error:", error);
+      });
+  } else {
+    // crawler use
+    return await axios
+      .post(
+        "https://flowtaipei.com/php/personcheckinclasstables.php",
+        { pagetype: "listall" },
+        {
+          headers: {
+            "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+          },
+        }
+      )
+      .then((res) => res.data);
+  }
 };
 
 const checkInClass = async (ctx) => {

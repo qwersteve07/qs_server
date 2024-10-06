@@ -2,21 +2,7 @@ const fetch = require("node-fetch");
 const cheerio = require("cheerio");
 const fs = require("fs");
 const dayjs = require("dayjs");
-
-async function fetchFromFlowWebsite() {
-  return await fetch(
-    "https://flowtaipei.com/php/personcheckinclasstables.php",
-    {
-      method: "POST",
-      headers: {
-        "Content-type": "application/x-www-form-urlencoded; charset=UTF-8",
-      },
-      body: new URLSearchParams({
-        pagetype: "listall",
-      }),
-    }
-  ).then((res) => res.text());
-}
+const { fetchSiteSchedule } = require("./controller/flow");
 
 function parseWithCheerio(html) {
   const $ = cheerio.load(html);
@@ -95,8 +81,8 @@ function parseWithCheerio(html) {
   return result;
 }
 
-(async () => {
-  const htmlString = await fetchFromFlowWebsite();
+async function runFlowCrawler() {
+  const htmlString = await fetchSiteSchedule();
   const data = parseWithCheerio(htmlString);
   fs.writeFile("./data/flow-schedule.json", JSON.stringify(data), (err) => {
     if (err) console.log(err);
@@ -104,4 +90,6 @@ function parseWithCheerio(html) {
       console.log("File written successfully");
     }
   });
-})();
+}
+
+module.exports = runFlowCrawler;

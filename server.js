@@ -3,11 +3,15 @@ const { koaBody } = require("koa-body");
 const cors = require("@koa/cors");
 const router = require("./router");
 const redisService = require("./redis");
+const runCron = require("./cron");
 const app = new Koa();
 const port = 8080;
 
 (async () => {
   await redisService.init();
+
+  runCron();
+
   app
     .use(cors())
     .use(koaBody({ multipart: true }))
