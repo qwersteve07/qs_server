@@ -4,8 +4,7 @@ const flowController = require("./controller/flow");
 const router = new Router();
 
 router.get("/", (ctx) => {
-  ctx.body = "hello";
-  ctx.status = 200;
+  ctx.status = 404;
 });
 router.post("/generateUrl", urlController.generateUrl);
 router.get("/search/:hash", urlController.searchHash);
