@@ -1,5 +1,5 @@
 const cron = require("node-cron");
-const runFlowCrawler = require("./flow-crawler");
+const runFlowCrawler = require("./utils/flow-crawler");
 
 const runCron = () => {
   cron.schedule("0 0 * * *", () => {

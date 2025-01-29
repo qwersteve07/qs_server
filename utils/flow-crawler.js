@@ -1,8 +1,7 @@
-const fetch = require("node-fetch");
 const cheerio = require("cheerio");
 const fs = require("fs");
 const dayjs = require("dayjs");
-const { fetchSiteSchedule } = require("./controller/flow");
+const { fetchSiteSchedule } = require("../controller/flow");
 
 function parseWithCheerio(html) {
   const $ = cheerio.load(html);
