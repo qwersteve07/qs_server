@@ -44,6 +44,12 @@ function run() {
     4
   );
 
+  const outdoorSalsaConcertEvents = getEventInSingleWeek(
+		"outdoor-salsa-concert",
+		0,
+		1
+	);
+
   const flowZoukSocialEvents = getEventInEveryWeek("flow-zouk-social", 4);
   const CopaFridaySocialEvents = getEventInEveryWeek("copa-friday-social", 5);
 
@@ -58,6 +64,7 @@ function run() {
     ...BarcadeBachataNightEvents,
     ...flowZoukSocialEvents,
     ...CopaFridaySocialEvents,
+    ...outdoorSalsaConcertEvents,
     ...customEvents,
   ]);
 }
