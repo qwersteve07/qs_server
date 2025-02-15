@@ -3,6 +3,8 @@ const socialData = require("../custom/social.json");
 var weekOfYear = require("dayjs/plugin/weekOfYear");
 var utc = require("dayjs/plugin/utc");
 var timezone = require("dayjs/plugin/timezone");
+const { v4: uuidv4 } = require("uuid");
+
 dayjs.extend(utc);
 dayjs.extend(timezone);
 dayjs.extend(weekOfYear);
@@ -23,7 +25,8 @@ function getEventInEveryWeek(name, weekday) {
 
   while (currentDay.year() === currentYear) {
     list.push({
-      //   title: selectSocial.title,
+      id: uuidv4(),
+      title: selectSocial.name,
       start: `${currentDay.format("YYYY-MM-DDT")}${selectSocial["startAt"]}`,
       end: `${currentDay.format("YYYY-MM-DDT")}${selectSocial["endAt"]}`,
       ...selectSocial,
@@ -67,6 +70,7 @@ function getEventInSingleWeek(name, weekday, weekCount) {
     }
 
     list.push({
+      id: uuidv4(),
       title: selectSocial.name,
       start: `${currentDay.format("YYYY-MM-DDT")}${selectSocial["startAt"]}`,
       end: `${currentDay.format("YYYY-MM-DDT")}${selectSocial["endAt"]}`,
