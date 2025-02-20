@@ -5,6 +5,7 @@ const {
   getEventInSingleWeek,
 } = require("./getStaticEvents");
 const customEvents = require("../custom/latin-dance-events.json");
+const { sortEvents } = require("./sortEvents");
 
 function run() {
   const flowMiniSocialEvents = getEventInEveryWeek("flow-mini-social", 1);
@@ -45,15 +46,15 @@ function run() {
   );
 
   const outdoorSalsaConcertEvents = getEventInSingleWeek(
-		"outdoor-salsa-concert",
-		0,
-		1
-	);
+    "outdoor-salsa-concert",
+    0,
+    1
+  );
 
   const flowZoukSocialEvents = getEventInEveryWeek("flow-zouk-social", 4);
   const CopaFridaySocialEvents = getEventInEveryWeek("copa-friday-social", 5);
 
-  writeFile([
+  const result = [
     ...flowMiniSocialEvents,
     ...flowFridaySocialEvents1,
     ...flowBachataMiAmorEvents,
@@ -66,7 +67,9 @@ function run() {
     ...CopaFridaySocialEvents,
     ...outdoorSalsaConcertEvents,
     ...customEvents,
-  ]);
+  ];
+
+  writeFile(sortEvents(result));
 }
 
 function writeFile(data) {

@@ -1,5 +1,5 @@
 const dayjs = require("dayjs");
-const socialData = require("../custom/social.json");
+const socialData = require("../template/social.json");
 var weekOfYear = require("dayjs/plugin/weekOfYear");
 var utc = require("dayjs/plugin/utc");
 var timezone = require("dayjs/plugin/timezone");
@@ -10,12 +10,12 @@ dayjs.extend(timezone);
 dayjs.extend(weekOfYear);
 dayjs.tz.setDefault("Asia/Taipei");
 
-function getEventInEveryWeek(name, weekday) {
+function getEventInEveryWeek(socialName, weekday) {
   const currentYear = dayjs().year();
   const currentWeek = dayjs().week(1);
   let currentDay = currentWeek.day(weekday);
   const list = [];
-  const selectSocial = socialData[name];
+  const selectSocial = socialData[socialName];
 
   // 透過 dayjs().week(1) 選到的第一天可能為前年
   // 需要在 +7 到當年的第一個 weekday
@@ -26,9 +26,8 @@ function getEventInEveryWeek(name, weekday) {
   while (currentDay.year() === currentYear) {
     list.push({
       id: uuidv4(),
-      title: selectSocial.name,
-      start: `${currentDay.format("YYYY-MM-DDT")}${selectSocial["startAt"]}`,
-      end: `${currentDay.format("YYYY-MM-DDT")}${selectSocial["endAt"]}`,
+      date: currentDay,
+      content: "",
       ...selectSocial,
     });
 
@@ -38,13 +37,13 @@ function getEventInEveryWeek(name, weekday) {
   return list;
 }
 
-function getEventInSingleWeek(name, weekday, weekCount) {
+function getEventInSingleWeek(socialName, weekday, weekCount) {
   const currentYear = dayjs().year();
   let currentMonth = dayjs().month(0);
   let currentDay = currentMonth.date(1);
   let currentWeekCount = 1;
   const list = [];
-  const selectSocial = socialData[name];
+  const selectSocial = socialData[socialName];
   let loopContinue = false;
 
   while (currentDay.year() === currentYear) {
@@ -71,9 +70,8 @@ function getEventInSingleWeek(name, weekday, weekCount) {
 
     list.push({
       id: uuidv4(),
-      title: selectSocial.name,
-      start: `${currentDay.format("YYYY-MM-DDT")}${selectSocial["startAt"]}`,
-      end: `${currentDay.format("YYYY-MM-DDT")}${selectSocial["endAt"]}`,
+      date: currentDay,
+      content: "",
       ...selectSocial,
     });
 
