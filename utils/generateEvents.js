@@ -1,4 +1,5 @@
 const fs = require("fs");
+const { v4: uuidv4 } = require("uuid");
 
 const {
   getEventInEveryWeek,
@@ -64,9 +65,9 @@ function run() {
     ...brassMonkeySocialEvents,
     ...BarcadeBachataNightEvents,
     ...flowZoukSocialEvents,
-    ...CopaFridaySocialEvents,
     ...outdoorSalsaConcertEvents,
-    ...customEvents,
+    ...CopaFridaySocialEvents,
+    ...customEvents.map((event) => ({ ...event, id: uuidv4() })),
   ];
 
   writeFile(sortEvents(result));
