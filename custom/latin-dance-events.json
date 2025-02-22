@@ -119,5 +119,16 @@
     "startAt": "19:30",
     "endAt": "23:00",
     "fee": "400TWD"
+  },
+  {
+    "title": "Copa Performance Party",
+    "date": "2025-02-23T00:00",
+    "host": "copa-taiwan",
+    "locate": "ba-basement",
+    "rate": "90%up Salsa Room + 100% Bachata Room",
+    "startAt": "20:00",
+    "endAt": "23:00",
+    "fee": "300TWD",
+    "note": ""
   }
 ]

@@ -15,7 +15,7 @@
     "rate": "100% Bachata",
     "startAt": "22:00",
     "endAt": "23:30",
-    "fee": "250TWD or 0.5 point(當日上課學生免費)"
+    "fee": "250TWD or 0.5 flow point(當日上課學生免費)"
   },
   "brass-monkey-latin-night": {
     "title": "Brass Monkey Latin Night",
@@ -51,7 +51,7 @@
     "rate": "Salsa:Bachata 3-4:1 + 100% Bachata Room",
     "startAt": "21:00",
     "endAt": "00:30",
-    "fee": "450TWD"
+    "fee": "450TWD or 1 flow point"
   },
   "flow-bachata-mi-amor": {
     "title": "Flow Bachata Mi Amor",
@@ -60,7 +60,7 @@
     "rate": "Salsa:Bachata 2:6 + 100% Salsa Room",
     "startAt": "21:00",
     "endAt": "00:30",
-    "fee": "450TWD"
+    "fee": "450TWD or 1 flow point"
   },
   "copa-friday-social": {
     "title": "Copa friday Social",
