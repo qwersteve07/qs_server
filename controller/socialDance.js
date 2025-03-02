@@ -6,6 +6,7 @@ const path = require("path");
 const filePath = path.join(__dirname, "..", "/data/social-dance-events.json");
 const dayjs = require("dayjs");
 const isSameOrAfter = require("dayjs/plugin/isSameOrAfter");
+const { sortEvents } = require("../utils/sortEvents");
 dayjs.extend(isSameOrAfter);
 
 const users = [
@@ -67,7 +68,7 @@ const fetchEventsJson = async () => {
 };
 
 const writeEventsJson = async (json) => {
-  fs.writeFile(filePath, JSON.stringify(json, null, 2));
+  fs.writeFile(filePath, JSON.stringify(sortEvents(json), null, 2));
 };
 
 const fetchEvents = async (ctx) => {
@@ -87,7 +88,7 @@ const createEvent = async (ctx) => {
   const body = ctx.request.body;
   jsonData.push({ ...JSON.parse(body), id: uuidv4() });
 
-  fs.writeFile(filePath, JSON.stringify(jsonData, null, 2));
+  writeEventsJson(jsonData);
   ctx.status = 201;
   ctx.body = { result: jsonData };
 };
