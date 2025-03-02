@@ -28,14 +28,12 @@ const fetchEvents = async (ctx) => {
 
 const createEvent = async (ctx) => {
   const jsonData = await fetchEventsJson();
-
+  const body = ctx.request.body;
   jsonData.push({ ...JSON.parse(body), id: uuidv4() });
-
-  jsonData[index] = { ...jsonData[index], ...JSON.parse(body) };
 
   fs.writeFile(filePath, JSON.stringify(jsonData, null, 2));
   ctx.status = 201;
-  ctx.body = { result: jsonData[index] };
+  ctx.body = { result: jsonData };
 };
 
 const fetchEvent = async (ctx) => {
