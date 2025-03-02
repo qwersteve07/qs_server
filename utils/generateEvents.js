@@ -5,7 +5,7 @@ const {
   getEventInEveryWeek,
   getEventInSingleWeek,
 } = require("./getStaticEvents");
-const customEvents = require("../custom/latin-dance-events.json");
+const customEvents = require("../custom/social-dance-events.json");
 const { sortEvents } = require("./sortEvents");
 
 function run() {
@@ -75,7 +75,7 @@ function run() {
 
 function writeFile(data) {
   fs.writeFile(
-    "./data/latin-dance-events.json",
+    "./data/social-dance-events.json",
     JSON.stringify(data),
     (err) => {
       if (err) console.log(err);

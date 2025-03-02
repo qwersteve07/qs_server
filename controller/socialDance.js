@@ -1,7 +1,7 @@
 const { v4: uuidv4 } = require("uuid");
 const fs = require("fs").promises;
 const path = require("path");
-const filePath = path.join(__dirname, "..", "/data/latin-dance-events.json");
+const filePath = path.join(__dirname, "..", "/data/social-dance-events.json");
 const dayjs = require("dayjs");
 const isSameOrAfter = require("dayjs/plugin/isSameOrAfter");
 dayjs.extend(isSameOrAfter);
