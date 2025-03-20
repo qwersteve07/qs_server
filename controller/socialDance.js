@@ -60,11 +60,7 @@ const login = async (ctx) => {
 const fetchEventsJson = async () => {
   const fileData = await fs.readFile(filePath, "utf-8");
   const data = JSON.parse(fileData);
-  // 因為要透過 format 才會轉為正確時區
-  // 為了能夠將當天的資料也傳遞回來，須先往前推一天
-  return data.filter((d) =>
-    dayjs(d.date).isSameOrAfter(dayjs().subtract(1, "day"))
-  );
+  return data;
 };
 
 const writeEventsJson = async (json) => {
