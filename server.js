@@ -13,8 +13,8 @@ const port = 8080;
   runCron();
 
   const allowedOrigins = [
-    "https://fast-flow-three.vercel.app/",
-    "http://fast-flow-three.vercel.app/",
+    "https://fast-flow-three.vercel.app",
+    "http://fast-flow-three.vercel.app",
     "https://social-dance.tw",
     "http://social-dance.tw",
     "http://localhost:8000",
