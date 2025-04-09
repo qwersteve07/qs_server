@@ -58,9 +58,23 @@ const login = async (ctx) => {
 };
 
 const fetchEventsJson = async () => {
+  // const data = await fetch("https://api.qs07-lee.com/social-dance/events").then(
+  //   (data) => data.json()
+  // );
+
+  // console.log(data.result);
+
+  // return data.result.filter((d) => {
+  //   return dayjs(d.date).isSameOrAfter(dayjs().subtract(1, "d"));
+  // });
+  // return data.result;
+
   const fileData = await fs.readFile(filePath, "utf-8");
   const data = JSON.parse(fileData);
-  return data;
+
+  return data.result.filter((d) => {
+    return dayjs(d.date).isSameOrAfter(dayjs().subtract(1, "d"));
+  });
 };
 
 const writeEventsJson = async (json) => {
