@@ -72,7 +72,7 @@ const fetchEventsJson = async () => {
   const fileData = await fs.readFile(filePath, "utf-8");
   const data = JSON.parse(fileData);
 
-  return data.result.filter((d) => {
+  return data.filter((d) => {
     return dayjs(d.date).isSameOrAfter(dayjs().subtract(1, "d"));
   });
 };
