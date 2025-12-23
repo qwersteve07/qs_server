@@ -1,9 +1,8 @@
-const Koa = require("koa");
-const { koaBody } = require("koa-body");
-const cors = require("@koa/cors");
-const router = require("./router");
-// const redisService = require("./redis");
-const runCron = require("./cron");
+import Koa from "koa";
+import { koaBody } from "koa-body";
+import cors from "@koa/cors";
+import router from "./router.js";
+import runCron from "./cron.js";
 const app = new Koa();
 const port = 8080;
 

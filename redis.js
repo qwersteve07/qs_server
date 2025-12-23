@@ -1,4 +1,4 @@
-const { createClient } = require("redis");
+import { createClient } from "redis";
 
 class RedisService {
   _client;
@@ -32,4 +32,4 @@ class RedisService {
   }
 }
 
-module.exports = new RedisService();
+export default new RedisService();

@@ -1,12 +1,9 @@
-const fs = require("fs");
-const { v4: uuidv4 } = require("uuid");
+import fs from "fs";
+import { v4 as uuidv4 } from "uuid";
 
-const {
-  getEventInEveryWeek,
-  getEventInSingleWeek,
-} = require("./getStaticEvents");
-const customEvents = require("../custom/social-dance-events.json");
-const { sortEvents } = require("./sortEvents");
+import { getEventInEveryWeek, getEventInSingleWeek } from "./getStaticEvents";
+import customEvents from "../custom/social-dance-events.json";
+import { sortEvents } from "./sortEvents";
 
 function run() {
   const flowMiniSocialEvents = getEventInEveryWeek("flow-mini-social", 1);

@@ -1,7 +1,6 @@
-const Router = require("koa-router");
-// const urlController = require("./controller/url");
-const flowController = require("./controller/flow");
-const socialDanceController = require("./controller/socialDance");
+import Router from "koa-router";
+import flowController from "./controller/flow.js";
+import socialDanceController from "./controller/socialDance.js";
 const router = new Router();
 
 router.get("/", (ctx) => {
@@ -23,4 +22,4 @@ router.delete(`/social-dance/events/:id`, socialDanceController.deleteEvent);
 router.post("/social-dance/login", socialDanceController.login);
 router.post("/social-dance/refresh", socialDanceController.refresh);
 
-module.exports = router;
+export default router;

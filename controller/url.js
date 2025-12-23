@@ -1,5 +1,5 @@
-const redisService = require("../redis");
-const crypto = require("crypto");
+import redisService from "../redis";
+import crypto from "crypto";
 
 const generateUrl = async (ctx) => {
   const body = ctx.request.body;
@@ -30,7 +30,4 @@ const generateFixedLengthHash = (url) => {
   return hash.substring(0, 10);
 };
 
-module.exports = {
-  generateUrl,
-  searchHash,
-};
+export { generateUrl, searchHash };

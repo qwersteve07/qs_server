@@ -1,9 +1,9 @@
-const dayjs = require("dayjs");
-const socialData = require("../template/social.json");
-var weekOfYear = require("dayjs/plugin/weekOfYear");
-var utc = require("dayjs/plugin/utc");
-var timezone = require("dayjs/plugin/timezone");
-const { v4: uuidv4 } = require("uuid");
+import dayjs from "dayjs";
+import socialData from "../template/social.json";
+import weekOfYear from "dayjs/plugin/weekOfYear";
+import utc from "dayjs/plugin/utc";
+import timezone from "dayjs/plugin/timezone";
+import { v4 as uuidv4 } from "uuid";
 
 dayjs.extend(utc);
 dayjs.extend(timezone);
@@ -83,7 +83,4 @@ function getEventInSingleWeek(socialName, weekday, weekCount) {
   return list;
 }
 
-module.exports = {
-  getEventInEveryWeek,
-  getEventInSingleWeek,
-};
+export { getEventInEveryWeek, getEventInSingleWeek };

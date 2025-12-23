@@ -1,7 +1,7 @@
-const cheerio = require("cheerio");
-const fs = require("fs");
-const dayjs = require("dayjs");
-const { fetchSiteSchedule } = require("../controller/flow");
+import * as cheerio from "cheerio";
+import fs from "fs";
+import dayjs from "dayjs";
+import flowController from "../controller/flow.js";
 
 function parseWithCheerio(html) {
   const $ = cheerio.load(html);
@@ -81,7 +81,7 @@ function parseWithCheerio(html) {
 }
 
 async function runFlowCrawler() {
-  const htmlString = await fetchSiteSchedule();
+  const htmlString = await flowController.fetchSiteSchedule();
   const data = parseWithCheerio(htmlString);
   fs.writeFile("./data/flow-schedule.json", JSON.stringify(data), (err) => {
     if (err) console.log(err);
@@ -91,4 +91,4 @@ async function runFlowCrawler() {
   });
 }
 
-module.exports = runFlowCrawler;
+export default runFlowCrawler;

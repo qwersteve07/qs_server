@@ -1,5 +1,5 @@
-const axios = require("axios");
-const flowScheduleData = require("../data/flow-schedule.json");
+import axios from "axios";
+import flowScheduleData from "../data/flow-schedule.json" with { type: "json" };;
 
 const fetchStaticSchedule = async (ctx) => {
   ctx.status = 201;
@@ -95,9 +95,4 @@ const checkOutClass = async (ctx) => {
     });
 };
 
-module.exports = {
-  fetchStaticSchedule,
-  fetchSiteSchedule,
-  checkInClass,
-  checkOutClass,
-};
+export default { fetchStaticSchedule, fetchSiteSchedule, checkInClass, checkOutClass };
