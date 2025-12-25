@@ -114,10 +114,30 @@ const fetchEventsData = (query) => {
   if (!query || Object.keys(query).length === 0) return db.data.events;
 
   const result = db.data.events.filter((event) => {
-    return (
-      dayjs(event.date).year() === parseInt(query.year) &&
-      dayjs(event.date).month() + 1 === parseInt(query.month)
-    );
+    const eventYear = dayjs(event.date).year();
+    const eventMonth = dayjs(event.date).month() + 1;
+    const requestYear = parseInt(query.year);
+    const requestMonth = parseInt(query.month);
+
+    const matchCurrentMonth =
+      eventYear === requestYear && eventMonth === requestMonth;
+    const matchLastMonth =
+      eventYear === requestYear && eventMonth === requestMonth - 1;
+    const matchNextMonth =
+      eventYear === requestYear && eventMonth === requestMonth + 1;
+    const matchNextYearFirstMonth =
+      eventYear === requestYear + 1 && eventMonth === 1;
+    const matchLastYearLastMonth =
+      eventYear === requestYear - 1 && eventMonth === 12;
+
+    if (requestMonth === 12) {
+      // 要取得後一年一月的 event
+      return matchCurrentMonth || matchLastMonth || matchNextYearFirstMonth;
+    } else if (requestMonth === 1) {
+      return matchCurrentMonth || matchNextMonth || matchLastYearLastMonth;
+    } else {
+      return matchCurrentMonth || matchLastMonth || matchNextMonth;
+    }
   });
 
   return result;
