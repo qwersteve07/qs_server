@@ -1,207 +1,226 @@
 {
-	"outdoor-salsa-concert": {
-		"title": "戶外 Salsa Concert",
-		"host": "dance-salsa-under-sky",
-		"locate": "maji-square",
-		"rate": "Salsa、Bachata、Kizomba",
-		"startAt": "18:30",
-		"endAt": "22:00",
-		"fee": "免費"
-	},
-	"flow-mini-social": {
-		"title": "Bachata Mini Social",
-		"host": "flow-taipei",
-		"locate": "flow-taipei",
-		"rate": "100% Bachata",
-		"startAt": "22:00",
-		"endAt": "23:30",
-		"fee": "250TWD or 0.5 flow point(當日上課學生免費)"
-	},
-	"brass-monkey-latin-night": {
-		"title": "Brass Monkey Latin Night",
-		"host": "brass-monkey",
-		"locate": "brass-monkey",
-		"rate": "Salsa:Bachata 3:2",
-		"startAt": "21:00",
-		"endAt": "01:00",
-		"fee": "250TWD (含一杯飲料)"
-	},
-	"barcade-bachata-night": {
-		"title": "Barcade Bachata Night",
-		"host": "bachata-taiwan",
-		"locate": "barcade-taiwan",
-		"rate": "100% Bachata",
-		"startAt": "21:00",
-		"endAt": "01:00",
-		"fee": "250TWD (含一杯飲料)"
-	},
-	"flow-zouk-social": {
-		"title": "Flow Zouk Social",
-		"host": "flow-taipei",
-		"locate": "flow-taipei",
-		"rate": "100% Zouk",
-		"startAt": "22:00",
-		"endAt": "23:30",
-		"fee": "200TWD"
-	},
-	"flow-friday-social": {
-		"title": "Flow Friday Social",
-		"host": "flow-taipei",
-		"locate": "flow-taipei",
-		"rate": "Salsa:Bachata 3-4:1 + 100% Bachata Room",
-		"startAt": "21:00",
-		"endAt": "00:30",
-		"fee": "450TWD or 1 flow point"
-	},
-	"flow-bachata-mi-amor": {
-		"title": "Flow Bachata Mi Amor",
-		"host": "flow-taipei",
-		"locate": "flow-taipei",
-		"rate": "Salsa:Bachata 2:6 + 100% Salsa Room",
-		"startAt": "21:00",
-		"endAt": "00:30",
-		"fee": "450TWD or 1 flow point"
-	},
-	"copa-friday-social": {
-		"title": "Copa friday Social",
-		"host": "copa-taiwan",
-		"locate": "ba-basement",
-		"rate": "100% Salsa Room + 100% Bachata Room",
-		"startAt": "21:30",
-		"endAt": "00:40",
-		"fee": "300TWD"
-	},
-	"la-happy-hour": {
-		"title": "La Happy Hour",
-		"host": "la-salsa-taipei",
-		"locate": "la-salsa-taipei",
-		"rate": "Salsa:Bachata 50%:50%",
-		"startAt": "20:00",
-		"endAt": "00:00",
-		"fee": "400TWD",
-		"note": "9pm前入場 兩人同行 一人免費"
-	},
-	"la-ba-sa-social": {
-		"title": "La BA-SA Social",
-		"host": "la-salsa-taipei",
-		"locate": "la-salsa-taipei",
-		"rate": "Salsa:Bachata 50%:50%",
-		"startAt": "20:00",
-		"endAt": "00:00",
-		"fee": "400TWD"
-	},
-	"la-bachata-social": {
-		"title": "La Bachata Social",
-		"host": "la-salsa-taipei",
-		"locate": "la-salsa-taipei",
-		"rate": "Salsa:Bachata 30%:70%",
-		"startAt": "20:00",
-		"endAt": "00:00",
-		"fee": "400TWD"
-	},
-	"lasalsa-social": {
-		"title": "La Social",
-		"host": "la-salsa-taipei",
-		"locate": "la-salsa-taipei",
-		"rate": "Salsa:Bachata 50%:50%",
-		"startAt": "20:00",
-		"endAt": "00:00",
-		"fee": "400TWD"
-	},
-	"bailalo-sunday-social": {
-		"title": "Bailalo Sunday Social",
-		"host": "bailalo-dance-studio",
-		"locate": "tanguisimo",
-		"rate": "Salsa:Bachata 50%:50%",
-		"startAt": "19:00",
-		"endAt": "22:30",
-		"fee": "400TWD"
-	},
-	"bailalo-just-salsa": {
-		"title": "Bailalo Just Salsa",
-		"host": "bailalo-dance-studio",
-		"locate": "bailalo-dance-studio",
-		"rate": "Salsa 100%",
-		"startAt": "18:30",
-		"endAt": "21:00",
-		"fee": "250TWD"
-	},
-	"bailalo-bachata-social": {
-		"title": "Bailalo Bachata Social",
-		"host": "bailalo-dance-studio",
-		"locate": "bailalo-dance-studio",
-		"rate": "Bachata 100%",
-		"startAt": "18:30",
-		"endAt": "21:00",
-		"fee": "250TWD"
-	},
-	"bailalo-lambada-zouk-social": {
-		"title": "Bailalo Lambada & Zouk Social",
-		"host": "bailalo-dance-studio",
-		"locate": "skyco-nanjing-fuxing-6f",
-		"rate": "Lambada & Zouk",
-		"startAt": "19:30",
-		"endAt": "23:00",
-		"fee": "400TWD"
-	},
-	"el-colmado-social": {
-		"title": "El Colmado Social",
-		"host": "el-colmado-social-taiwan",
-		"locate": "la-salsa-taipei",
-		"rate": "Bachata 4 : Salsa 2",
-		"types": ["bachata", "salsa"],
-		"startAt": "20:00",
-		"endAt": "00:00",
-		"fee": "400TWD",
-		"content": "Bachata Free lesson at 8:00pm",
-		"note": "兩人同行 一人250NTD"
-	},
-	"la-havanita-party": {
-		"title": "小哈瓦那 Party",
-		"host": "la-havanita-dance-academy",
-		"locate": "la-havanita-dance-academy",
-		"rate": "Salsa 2 : Bachata 2 : Kizomba 2",
-		"types": ["salsa", "bachata", "kizomba"],
-		"startAt": "20:30",
-		"endAt": "23:30",
-		"fee": "400TWD",
-		"content": "",
-		"note": ""
-	},
-	"zouk-it-party": {
-		"title": "Zouk IT Party",
-		"host": "zouk-it",
-		"locate": "sunny-side",
-		"rate": "Zouk & Lambada",
-		"types": ["zouk", "lambada"],
-		"startAt": "20:00",
-		"endAt": "00:00",
-		"fee": "400TWD",
-		"content": "",
-		"note": ""
-	},
-	"salud-friday-bachata-social": {
-		"title": "Salud Friday Bachata Social",
-		"host": "salud-salsa-party",
-		"locate": "salud-salsa-party",
-		"rate": "Bachata Main + Salsa",
-		"types": ["bachata", "salsa"],
-		"startAt": "21:00",
-		"endAt": "00:00",
-		"fee": "300TWD",
-		"content": "",
-		"note": ""
-	},
-	"salud-friday-social": {
-		"title": "Salud Friday Social",
-		"host": "salud-salsa-party",
-		"locate": "salud-salsa-party",
-		"rate": "Bachata Salsa + Bachata",
-		"types": ["bachata", "salsa"],
-		"startAt": "21:00",
-		"endAt": "00:00",
-		"fee": "300TWD",
-		"content": "",
-		"note": ""
-	}
+  "outdoor-salsa-concert": {
+    "title": "戶外 Salsa Concert",
+    "host": "dance-salsa-under-sky",
+    "locate": "maji-square",
+    "rate": "Salsa、Bachata、Kizomba",
+    "types": ["salsa on 1", "salsa on 2", "bachata", "kizomba"],
+    "startAt": "18:30",
+    "endAt": "22:00",
+    "fee": "免費"
+  },
+  "flow-mini-social": {
+    "title": "Bachata Mini Social",
+    "host": "flow-taipei",
+    "locate": "flow-taipei",
+    "rate": "100% Bachata",
+    "types": ["bachata"],
+    "startAt": "22:00",
+    "endAt": "23:30",
+    "fee": "250TWD or 0.5 flow point(當日上課學生免費)"
+  },
+  "brass-monkey-latin-night": {
+    "title": "Brass Monkey Latin Night",
+    "host": "brass-monkey",
+    "locate": "brass-monkey",
+    "rate": "Salsa:Bachata 3:2",
+    "types": ["salsa on 1", "salsa on 2", "bachata"],
+    "startAt": "21:00",
+    "endAt": "01:00",
+    "fee": "250TWD (含一杯飲料)"
+  },
+  "barcade-bachata-night": {
+    "title": "Barcade Bachata Night",
+    "host": "bachata-taiwan",
+    "locate": "barcade-taiwan",
+    "rate": "100% Bachata",
+    "types": ["bachata"],
+    "startAt": "21:00",
+    "endAt": "01:00",
+    "fee": "250TWD (含一杯飲料)"
+  },
+  "flow-zouk-social": {
+    "title": "Flow Zouk Social",
+    "host": "flow-taipei",
+    "locate": "flow-taipei",
+    "rate": "100% Zouk",
+    "types": ["zouk"],
+    "startAt": "22:00",
+    "endAt": "23:30",
+    "fee": "200TWD"
+  },
+  "flow-friday-social": {
+    "title": "Flow Friday Social",
+    "host": "flow-taipei",
+    "locate": "flow-taipei",
+    "rate": "2S:3B + Zouk room",
+    "types": ["salsa on 2", "bachata", "zouk"],
+    "startAt": "21:00",
+    "endAt": "00:30",
+    "fee": "450 TWD or 1 flow point",
+    "content": "Buddy Pass, 2 person $600 before 10pm"
+  },
+  "flow-bachata-mi-amor": {
+    "title": "Flow Bachata Mi Amor",
+    "host": "flow-taipei",
+    "locate": "flow-taipei",
+    "rate": "Salsa:Bachata 2:6 + 100% Salsa Room",
+    "types": ["bachata"],
+    "startAt": "21:00",
+    "endAt": "00:30",
+    "fee": "450TWD or 1 flow point"
+  },
+  "copa-friday-social": {
+    "title": "Copa friday Social",
+    "host": "copa-taiwan",
+    "locate": "ba-basement",
+    "rate": "100% Salsa Room + 100% Bachata Room",
+    "types": ["salsa on 2", "bachata"],
+    "startAt": "21:30",
+    "endAt": "00:40",
+    "fee": "300TWD"
+  },
+  "la-happy-hour": {
+    "title": "La Happy Hour",
+    "host": "la-salsa-taipei",
+    "locate": "la-salsa-taipei",
+    "rate": "Salsa:Bachata 50%:50%",
+    "types": ["salsa on 2", "bachata"],
+    "startAt": "20:00",
+    "endAt": "00:00",
+    "fee": "400TWD",
+    "note": "9pm前入場 兩人同行 一人免費"
+  },
+  "la-ba-sa-social": {
+    "title": "La BA-SA Social",
+    "host": "la-salsa-taipei",
+    "locate": "la-salsa-taipei",
+    "rate": "Salsa:Bachata 50%:50%",
+    "types": ["salsa on 2", "bachata"],
+    "startAt": "20:00",
+    "endAt": "00:00",
+    "fee": "400TWD"
+  },
+  "la-bachata-social": {
+    "title": "La Bachata Social",
+    "host": "la-salsa-taipei",
+    "locate": "la-salsa-taipei",
+    "rate": "Salsa:Bachata 30%:70%",
+    "types": ["salsa on 2", "bachata"],
+    "startAt": "20:00",
+    "endAt": "00:00",
+    "fee": "400TWD"
+  },
+  "bailalo-sunday-social": {
+    "title": "Bailalo Sunday Social",
+    "host": "bailalo-dance-studio",
+    "locate": "tanguisimo",
+    "rate": "Salsa:Bachata 50%:50%",
+    "types": ["salsa on 2", "bachata"],
+    "startAt": "19:00",
+    "endAt": "22:30",
+    "fee": "400TWD"
+  },
+  "bailalo-just-salsa": {
+    "title": "Bailalo Just Salsa",
+    "host": "bailalo-dance-studio",
+    "locate": "bailalo-dance-studio",
+    "rate": "Salsa 100%",
+    "types": ["salsa on 2"],
+    "startAt": "18:30",
+    "endAt": "21:00",
+    "fee": "250TWD"
+  },
+  "bailalo-bachata-social": {
+    "title": "Bailalo Bachata Social",
+    "host": "bailalo-dance-studio",
+    "locate": "bailalo-dance-studio",
+    "rate": "Bachata 100%",
+    "types": ["bachata"],
+    "startAt": "18:30",
+    "endAt": "21:00",
+    "fee": "250TWD"
+  },
+  "bailalo-lambada-zouk-social": {
+    "title": "Bailalo Lambada & Zouk Social",
+    "host": "bailalo-dance-studio",
+    "locate": "skyco-nanjing-fuxing-6f",
+    "rate": "Lambada & Zouk",
+    "types": ["zouk", "lambada"],
+    "startAt": "19:30",
+    "endAt": "23:00",
+    "fee": "400TWD"
+  },
+  "el-colmado-social": {
+    "title": "El Colmado Social",
+    "host": "el-colmado-social-taiwan",
+    "locate": "la-salsa-taipei",
+    "rate": "Bachata 4 : Salsa 2",
+    "types": ["bachata", "salsa"],
+    "startAt": "20:00",
+    "endAt": "00:00",
+    "fee": "400TWD",
+    "content": "Bachata Free lesson at 8:00pm",
+    "note": "兩人同行 一人250NTD"
+  },
+  "la-havanita-party": {
+    "title": "小哈瓦那 Party",
+    "host": "la-havanita-dance-academy",
+    "locate": "la-havanita-dance-academy",
+    "rate": "Salsa 2 : Bachata 2 : Kizomba 2",
+    "types": ["salsa", "bachata", "kizomba"],
+    "startAt": "20:30",
+    "endAt": "23:30",
+    "fee": "400TWD",
+    "content": "",
+    "note": ""
+  },
+  "zouk-it-party": {
+    "title": "Zouk IT Party",
+    "host": "zouk-it",
+    "locate": "sunny-side",
+    "rate": "Zouk & Lambada",
+    "types": ["zouk", "lambada"],
+    "startAt": "20:00",
+    "endAt": "00:00",
+    "fee": "400TWD",
+    "content": "",
+    "note": ""
+  },
+  "salud-friday-bachata-social": {
+    "title": "Salud Friday Bachata Social",
+    "host": "salud-salsa-party",
+    "locate": "salud-salsa-party",
+    "rate": "Bachata Main + Salsa",
+    "types": ["bachata", "salsa"],
+    "startAt": "21:00",
+    "endAt": "00:00",
+    "fee": "300TWD",
+    "content": "",
+    "note": ""
+  },
+  "salud-friday-social": {
+    "title": "Salud Friday Social",
+    "host": "salud-salsa-party",
+    "locate": "salud-salsa-party",
+    "rate": "Bachata Salsa + Bachata",
+    "types": ["bachata", "salsa"],
+    "startAt": "21:00",
+    "endAt": "00:00",
+    "fee": "300TWD",
+    "content": "",
+    "note": ""
+  },
+  "suave-latin-social": {
+    "title": "Suave Latin Social",
+    "host": "rams",
+    "locate": "here-taipei",
+    "rate": "Salsa:Bachata:Kizomba 1:2:1",
+    "types": ["salsa on 1", "salsa on 2", "bachata", "kizomba"],
+    "startAt": "21:00",
+    "endAt": "00:00",
+    "fee": "300 TWD",
+    "content": "",
+    "note": ""
+  }
 }

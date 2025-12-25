@@ -1,13 +1,14 @@
-const jwt = require("jsonwebtoken");
-const bcrypt = require("bcryptjs");
-const { v4: uuidv4 } = require("uuid");
-const fs = require("fs").promises;
-const path = require("path");
-const filePath = path.join(__dirname, "..", "/data/social-dance-events.json");
-const dayjs = require("dayjs");
-const isSameOrAfter = require("dayjs/plugin/isSameOrAfter");
-const { sortEvents } = require("../utils/sortEvents");
+import jwt from "jsonwebtoken";
+import bcrypt from "bcryptjs";
+import { v4 as uuidv4 } from "uuid";
+import dayjs from "dayjs";
+import isSameOrAfter from "dayjs/plugin/isSameOrAfter.js";
+import { sortEventsMethod } from "../utils/sortEvents.js";
+import { JSONFilePreset } from "lowdb/node";
 dayjs.extend(isSameOrAfter);
+
+const socialData = { events: [], classes: [] };
+const db = await JSONFilePreset("social-db.json", socialData);
 
 const users = [
   {
@@ -109,119 +110,129 @@ const refresh = async (ctx) => {
   }
 };
 
-const fetchEventsJson = async () => {
-  // const data = await fetch("https://api.qs07-lee.com/social-dance/events").then(
-  //   (data) => data.json()
-  // );
+const fetchEventsData = (query) => {
+  if (!query || Object.keys(query).length === 0) return db.data.events;
 
-  // console.log(data.result);
+  const result = db.data.events.filter((event) => {
+    return (
+      dayjs(event.date).year() === parseInt(query.year) &&
+      dayjs(event.date).month() + 1 === parseInt(query.month)
+    );
+  });
 
-  // return data.result.filter((d) => {
-  //   return dayjs(d.date).isSameOrAfter(dayjs().subtract(1, "d"));
-  // });
-  // return data.result;
-
-  const fileData = await fs.readFile(filePath, "utf-8");
-  const data = JSON.parse(fileData);
-
-  return data;
+  return result;
 };
 
-const writeEventsJson = async (json) => {
-  fs.writeFile(filePath, JSON.stringify(sortEvents(json), null, 2));
+const writeEventsData = async (data) => {
+  let { events } = db.data;
+  let targetIndex = events.findIndex((event) => event.id === data.id);
+  if (targetIndex !== -1) {
+    events[targetIndex] = data;
+  } else {
+    events.push(data);
+  }
+
+  const result = events.toSorted(sortEventsMethod);
+  db.data.events = result;
+  await db.write();
+  return db.data.events;
 };
 
+// 前台 event
 const fetchEvents = async (ctx) => {
-  const result = await fetchEventsJson();
+  console.log(ctx.request.query);
+  const query = ctx.request.query;
+  const result = fetchEventsData(query);
   ctx.status = 201;
   ctx.body = { result };
 };
 
+// 後台 event，加上 auth驗證
 const fetchEventsList = async (ctx) => {
-  const validateResult = validateAuth(ctx);
+  const validateAuthResult = validateAuth(ctx);
 
-  if (!validateResult?.ok) {
-    return validateResult;
+  if (!validateAuthResult?.ok) {
+    return validateAuthResult;
   }
 
-  const result = await fetchEventsJson();
+  const result = fetchEventsData();
   ctx.status = 201;
   ctx.body = { result };
 };
 
 const createEvent = async (ctx) => {
-  const validateResult = validateAuth(ctx);
+  const validateAuthResult = validateAuth(ctx);
 
-  if (!validateResult?.ok) {
-    return validateResult;
+  if (!validateAuthResult?.ok) {
+    return validateAuthResult;
   }
 
-  const jsonData = await fetchEventsJson();
   const body = ctx.request.body;
-  jsonData.push({ ...JSON.parse(body), id: uuidv4() });
+  const newData = {
+    ...JSON.parse(body),
+    id: uuidv4(),
+  };
 
-  writeEventsJson(jsonData);
+  const result = await writeEventsData(newData);
   ctx.status = 201;
-  ctx.body = { result: jsonData };
+  ctx.body = { result };
 };
 
 const fetchEvent = async (ctx) => {
-  const jsonData = await fetchEventsJson();
+  const eventsData = fetchEventsData();
   const id = ctx.request.params.id;
+  const result = eventsData.find((event) => event.id === id);
   ctx.status = 201;
-  ctx.body = { result: jsonData.find((x) => x.id === id) };
+  ctx.body = { result };
 };
 
 const updateEvent = async (ctx) => {
-  const validateResult = validateAuth(ctx);
+  const validateAuthResult = validateAuth(ctx);
 
-  if (!validateResult?.ok) {
-    return validateResult;
+  if (!validateAuthResult?.ok) {
+    return validateAuthResult;
   }
 
   const id = ctx.request.params.id;
   const body = ctx.request.body;
-  const jsonData = await fetchEventsJson();
+  const eventsData = fetchEventsData();
 
-  const index = jsonData.findIndex((event) => event.id === id);
-  if (index === -1) {
+  const target = eventsData.find((event) => event.id === id);
+  if (!target) {
     ctx.status = 500;
     ctx.body = { result: "event not found" };
     return;
   }
 
-  jsonData[index] = { ...jsonData[index], ...JSON.parse(body) };
-  writeEventsJson(jsonData);
-
+  const result = writeEventsData({ ...JSON.parse(body), id });
   ctx.status = 201;
-  ctx.body = { result: jsonData[index] };
+  ctx.body = { result };
 };
 
 const deleteEvent = async (ctx) => {
-  const validateResult = validateAuth(ctx);
+  const validateAuthResult = validateAuth(ctx);
 
-  if (!validateResult?.ok) {
-    return validateResult;
+  if (!validateAuthResult?.ok) {
+    return validateAuthResult;
   }
 
   const id = ctx.request.params.id;
-  const jsonData = await fetchEventsJson();
-
-  const index = jsonData.findIndex((user) => user.id === id);
-  if (index === -1) {
+  const eventsData = fetchEventsData();
+  const targetIndex = eventsData.findIndex((event) => event.id === id);
+  if (targetIndex === -1) {
     ctx.status = 500;
     ctx.body = { result: "event not found" };
     return;
   }
 
-  jsonData.splice(index, 1);
-  writeEventsJson(jsonData);
+  eventsData.splice(targetIndex, 1);
 
+  const result = fetchEventsData();
   ctx.status = 201;
-  ctx.body = { result: jsonData[index] };
+  ctx.body = { result };
 };
 
-module.exports = {
+export default {
   fetchEvents,
   fetchEventsList,
   fetchEvent,
