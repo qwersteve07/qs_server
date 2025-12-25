@@ -58,6 +58,10 @@ async function run() {
 
   const suaveSocialEvents = getEventInEveryWeek("suave-latin-social", 3);
 
+  const laCalleEvents = getEventInEveryWeek("la-calle", 3);
+
+  const bailaloFreePratica = getEventInEveryWeek("bailalo-free-practica", 4);
+
   const events = [
     ...flowMiniSocialEvents,
     ...flowFridaySocialEvents1,
@@ -71,6 +75,8 @@ async function run() {
     ...outdoorSalsaConcertEvents,
     ...CopaFridaySocialEvents,
     ...suaveSocialEvents,
+    ...laCalleEvents,
+    ...bailaloFreePratica,
   ];
 
   const result = events.toSorted(sortEventsMethod);
