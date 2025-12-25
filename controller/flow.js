@@ -1,5 +1,5 @@
 import axios from "axios";
-import flowScheduleData from "../data/flow-schedule.json" with { type: "json" };;
+import flowScheduleData from "../data/flow-schedule.json" with { type: "json" };
 
 const fetchStaticSchedule = async (ctx) => {
   ctx.status = 201;
