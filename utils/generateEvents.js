@@ -1,11 +1,14 @@
-import fs from "fs";
-import { v4 as uuidv4 } from "uuid";
+import {
+  getEventInEveryWeek,
+  getEventInSingleWeek,
+} from "./getStaticEvents.js";
+import { sortEventsMethod } from "./sortEvents.js";
+import { JSONFilePreset } from "lowdb/node";
 
-import { getEventInEveryWeek, getEventInSingleWeek } from "./getStaticEvents";
-import customEvents from "../custom/social-dance-events.json";
-import { sortEvents } from "./sortEvents";
+async function run() {
+  const socialData = { events: [], classes: [] };
+  const db = await JSONFilePreset("social-db2.json", socialData);
 
-function run() {
   const flowMiniSocialEvents = getEventInEveryWeek("flow-mini-social", 1);
   const flowFridaySocialEvents1 = getEventInSingleWeek(
     "flow-friday-social",
@@ -50,9 +53,12 @@ function run() {
   );
 
   const flowZoukSocialEvents = getEventInEveryWeek("flow-zouk-social", 4);
+
   const CopaFridaySocialEvents = getEventInEveryWeek("copa-friday-social", 5);
 
-  const result = [
+  const suaveSocialEvents = getEventInEveryWeek("suave-latin-social", 3);
+
+  const events = [
     ...flowMiniSocialEvents,
     ...flowFridaySocialEvents1,
     ...flowBachataMiAmorEvents,
@@ -64,23 +70,12 @@ function run() {
     ...flowZoukSocialEvents,
     ...outdoorSalsaConcertEvents,
     ...CopaFridaySocialEvents,
-    ...customEvents.map((event) => ({ ...event, id: uuidv4() })),
+    ...suaveSocialEvents,
   ];
 
-  writeFile(sortEvents(result));
-}
-
-function writeFile(data) {
-  fs.writeFile(
-    "./data/social-dance-events.json",
-    JSON.stringify(data),
-    (err) => {
-      if (err) console.log(err);
-      else {
-        console.log("File written successfully");
-      }
-    }
-  );
+  const result = events.toSorted(sortEventsMethod);
+  db.data.events = result;
+  await db.write();
 }
 
 run();

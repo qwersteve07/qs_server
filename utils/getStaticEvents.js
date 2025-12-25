@@ -1,8 +1,8 @@
 import dayjs from "dayjs";
-import socialData from "../template/social.json";
-import weekOfYear from "dayjs/plugin/weekOfYear";
-import utc from "dayjs/plugin/utc";
-import timezone from "dayjs/plugin/timezone";
+import socialData from "../template/social.json" with { type: "json" };;
+import weekOfYear from "dayjs/plugin/weekOfYear.js";
+import utc from "dayjs/plugin/utc.js";
+import timezone from "dayjs/plugin/timezone.js";
 import { v4 as uuidv4 } from "uuid";
 
 dayjs.extend(utc);
@@ -11,8 +11,8 @@ dayjs.extend(weekOfYear);
 dayjs.tz.setDefault("Asia/Taipei");
 
 function getEventInEveryWeek(socialName, weekday) {
-  const currentYear = dayjs().year();
-  const currentWeek = dayjs().week(1);
+  const currentYear = dayjs('2026-01-01').year();
+  const currentWeek = dayjs('2026-01-01').week(1);
   let currentDay = currentWeek.day(weekday);
   const list = [];
   const selectSocial = socialData[socialName];
@@ -38,8 +38,8 @@ function getEventInEveryWeek(socialName, weekday) {
 }
 
 function getEventInSingleWeek(socialName, weekday, weekCount) {
-  const currentYear = dayjs().year();
-  let currentMonth = dayjs().month(0);
+  const currentYear = dayjs('2026-01-01').year();
+  let currentMonth = dayjs('2026-01-01').month(0);
   let currentDay = currentMonth.date(1);
   let currentWeekCount = 1;
   const list = [];
