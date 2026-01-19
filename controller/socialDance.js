@@ -15,6 +15,37 @@ const users = [
     id: 1,
     username: "qwersteve07",
     password: bcrypt.hashSync("asdfjames07", 10),
+    role: "superUser",
+  },
+  {
+    id: 2,
+    username: "j606888",
+    password: bcrypt.hashSync("test1234", 10),
+    role: "user",
+  },
+  {
+    id: 3,
+    username: "crazyvicky",
+    password: bcrypt.hashSync("test1234", 10),
+    role: "user",
+  },
+  {
+    id: 4,
+    username: "bailalo",
+    password: bcrypt.hashSync("bailalo", 10),
+    role: "bailalo-dance-studio",
+  },
+  {
+    id: 5,
+    username: "flow",
+    password: bcrypt.hashSync("flow", 10),
+    role: "flow-taipei",
+  },
+  {
+    id: 6,
+    username: "lasalsa",
+    password: bcrypt.hashSync("lasalsa", 10),
+    role: "la-salsa-taipei",
   },
 ];
 const ACCESS_TOKEN_SECRET = "this-is-my-damn-access-token-secret";
@@ -24,14 +55,14 @@ let refreshTokens = [];
 
 function generateTokens(user) {
   const accessToken = jwt.sign(
-    { id: user.id, username: user.username },
+    { id: user.id, username: user.username, role: user.role },
     ACCESS_TOKEN_SECRET,
     {
       expiresIn: "1d",
     }
   );
   const refreshToken = jwt.sign(
-    { id: user.id, username: user.username },
+    { id: user.id, username: user.username, role: user.role },
     REFRESH_TOKEN_SECRET,
     {
       expiresIn: "7d",
@@ -58,7 +89,7 @@ function validateAuth(ctx) {
     const result = jwt.verify(token, ACCESS_TOKEN_SECRET);
 
     if (!result) throw "";
-    return { ok: true };
+    return { ok: true, data: result };
   } catch (error) {
     ctx.status = 401;
     ctx.body = { error: "Invalid token" };
@@ -158,9 +189,19 @@ const writeEventsData = async (data) => {
   return db.data.events;
 };
 
+const fetchMe = async (ctx) => {
+  const validateAuthResult = validateAuth(ctx);
+
+  if (!validateAuthResult?.ok) {
+    return validateAuthResult;
+  }
+
+  ctx.status = 201;
+  ctx.body = { result: validateAuthResult.data };
+};
+
 // 前台 event
 const fetchEvents = async (ctx) => {
-  console.log(ctx.request.query);
   const query = ctx.request.query;
   const result = fetchEventsData(query);
   ctx.status = 201;
@@ -253,6 +294,7 @@ const deleteEvent = async (ctx) => {
 };
 
 export default {
+  fetchMe,
   fetchEvents,
   fetchEventsList,
   fetchEvent,

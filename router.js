@@ -13,6 +13,7 @@ router.post("/flow/fetch-site-schedule", flowController.fetchSiteSchedule);
 router.post("/flow/check-in-class", flowController.checkInClass);
 router.post("/flow/check-out-class", flowController.checkOutClass);
 
+router.get("/social-dance/me", socialDanceController.fetchMe);
 router.get("/social-dance/events", socialDanceController.fetchEvents);
 router.get("/social-dance/eventsList", socialDanceController.fetchEventsList);
 router.post(`/social-dance/events`, socialDanceController.createEvent);
