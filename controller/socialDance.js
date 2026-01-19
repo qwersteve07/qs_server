@@ -5,49 +5,12 @@ import dayjs from "dayjs";
 import isSameOrAfter from "dayjs/plugin/isSameOrAfter.js";
 import { sortEventsMethod } from "../utils/sortEvents.js";
 import { JSONFilePreset } from "lowdb/node";
+import { socialDanceUsers } from "../social-dance-user.js";
 dayjs.extend(isSameOrAfter);
 
 const socialData = { events: [], classes: [] };
 const db = await JSONFilePreset("social-db.json", socialData);
 
-const users = [
-  {
-    id: 1,
-    username: "qwersteve07",
-    password: bcrypt.hashSync("asdfjames07", 10),
-    role: "superUser",
-  },
-  {
-    id: 2,
-    username: "j606888",
-    password: bcrypt.hashSync("test1234", 10),
-    role: "user",
-  },
-  {
-    id: 3,
-    username: "crazyvicky",
-    password: bcrypt.hashSync("test1234", 10),
-    role: "user",
-  },
-  {
-    id: 4,
-    username: "bailalo",
-    password: bcrypt.hashSync("bailalo", 10),
-    role: "bailalo-dance-studio",
-  },
-  {
-    id: 5,
-    username: "flow",
-    password: bcrypt.hashSync("flow", 10),
-    role: "flow-taipei",
-  },
-  {
-    id: 6,
-    username: "lasalsa",
-    password: bcrypt.hashSync("lasalsa", 10),
-    role: "la-salsa-taipei",
-  },
-];
 const ACCESS_TOKEN_SECRET = "this-is-my-damn-access-token-secret";
 const REFRESH_TOKEN_SECRET = "this-is-my-damn-refresh-token-secret";
 
@@ -59,14 +22,14 @@ function generateTokens(user) {
     ACCESS_TOKEN_SECRET,
     {
       expiresIn: "1d",
-    }
+    },
   );
   const refreshToken = jwt.sign(
     { id: user.id, username: user.username, role: user.role },
     REFRESH_TOKEN_SECRET,
     {
       expiresIn: "7d",
-    }
+    },
   );
 
   refreshTokens.push(refreshToken);
@@ -99,7 +62,7 @@ function validateAuth(ctx) {
 const login = async (ctx) => {
   const body = ctx.request.body;
   const parseData = JSON.parse(body);
-  const user = users.find((u) => u.username === parseData.username);
+  const user = socialDanceUsers.find((u) => u.username === parseData.username);
 
   if (!user || !bcrypt.compareSync(parseData.password, user.password)) {
     ctx.status = 401;
@@ -129,7 +92,7 @@ const refresh = async (ctx) => {
     const user = jwt.verify(parseData.refreshToken, REFRESH_TOKEN_SECRET);
     const tokens = generateTokens(user);
     refreshTokens = refreshTokens.filter(
-      (token) => token !== parseData.refreshToken
+      (token) => token !== parseData.refreshToken,
     );
     refreshTokens.push(tokens.refreshToken);
     ctx.status = 200;
