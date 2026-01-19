@@ -47,7 +47,7 @@
     "types": ["zouk"],
     "startAt": "22:00",
     "endAt": "23:30",
-    "fee": "200TWD"
+    "fee": "250TWD or 0.5 flow point(當日上課學生免費)"
   },
   "flow-friday-social": {
     "title": "Flow Friday Social",
@@ -68,7 +68,8 @@
     "types": ["bachata"],
     "startAt": "21:00",
     "endAt": "00:30",
-    "fee": "450TWD or 1 flow point"
+    "fee": "450TWD or 1 flow point",
+    "content": "Buddy Pass, 2 person $600 before 10pm"
   },
   "copa-friday-social": {
     "title": "Copa friday Social",
@@ -129,7 +130,7 @@
     "types": ["salsa on 2"],
     "startAt": "18:30",
     "endAt": "21:00",
-    "fee": "250TWD"
+    "fee": "300 TWD"
   },
   "bailalo-bachata-social": {
     "title": "Bailalo Bachata Social",
@@ -139,7 +140,7 @@
     "types": ["bachata"],
     "startAt": "18:30",
     "endAt": "21:00",
-    "fee": "250TWD"
+    "fee": "300 TWD"
   },
   "bailalo-lambada-zouk-social": {
     "title": "Bailalo Lambada & Zouk Social",
