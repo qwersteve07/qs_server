@@ -6,4 +6,4 @@ const receiveMessage = async (ctx) => {
 	ctx.body = { message: "Data received", data: parseData };
 };
 
-export { receiveMessage };
+export default { receiveMessage };
