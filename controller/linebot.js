@@ -1,5 +1,6 @@
 const receiveMessage = async (ctx) => {
 	const body = ctx.request.body;
+	console.log(body);
 	const parseData = JSON.parse(body);
 
 	ctx.status = 200;
