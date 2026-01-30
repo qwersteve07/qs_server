@@ -1,10 +1,12 @@
 import Router from "koa-router";
 import flowController from "./controller/flow.js";
 import socialDanceController from "./controller/socialDance.js";
+import linebotController from "./controller/linebot.js";
+
 const router = new Router();
 
 router.get("/", (ctx) => {
-  ctx.status = 404;
+	ctx.status = 404;
 });
 // router.post("/generateUrl", urlController.generateUrl);
 // router.get("/search/:hash", urlController.searchHash);
@@ -22,5 +24,7 @@ router.put(`/social-dance/events/:id`, socialDanceController.updateEvent);
 router.delete(`/social-dance/events/:id`, socialDanceController.deleteEvent);
 router.post("/social-dance/login", socialDanceController.login);
 router.post("/social-dance/refresh", socialDanceController.refresh);
+// line bot
+router.post("/linebot", linebotController.receiveMessage);
 
 export default router;
