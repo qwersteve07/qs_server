@@ -11276,19 +11276,6 @@
 			"id": "58e95d33-131e-428c-af2f-ed0933a6bfc3"
 		},
 		{
-			"id": "9a25ab6e-05e6-4d3e-90b0-5918a837e2a1",
-			"date": "2026-02-01T00:00:00.000Z",
-			"content": "",
-			"title": "戶外 Salsa Concert",
-			"host": "dance-salsa-under-sky",
-			"locate": "maji-square",
-			"rate": "Salsa、Bachata、Kizomba",
-			"types": ["salsa on 1", "salsa on 2", "bachata", "kizomba"],
-			"startAt": "18:30",
-			"endAt": "22:00",
-			"fee": "免費"
-		},
-		{
 			"date": "2026-02-01T00:00:00",
 			"title": "Sunday SBK Night- feat. Bachata Class",
 			"host": "sbk-taiwan",
@@ -11302,6 +11289,19 @@
 			"content": "本周日特別邀請客座Bachata 老師，小Eric 賞諺，將為大家帶來1小時的浪漫Bachata舞蹈教學！ 3.5小時舞會+1小時Bachata教學只要💲300❗️ 快揪想學bachata的朋友一起來體驗或是想更進步的舞者來讓你的舞技更精湛吧‼️",
 			"note": "",
 			"id": "1878dec1-4e10-4ce7-aa0d-606e9de81d03"
+		},
+		{
+			"id": "9a25ab6e-05e6-4d3e-90b0-5918a837e2a1",
+			"date": "2026-02-01T00:00:00.000Z",
+			"content": "",
+			"title": "戶外 Salsa Concert",
+			"host": "dance-salsa-under-sky",
+			"locate": "maji-square",
+			"rate": "Salsa、Bachata、Kizomba",
+			"types": ["salsa on 1", "salsa on 2", "bachata", "kizomba"],
+			"startAt": "18:30",
+			"endAt": "22:00",
+			"fee": "免費"
 		},
 		{
 			"id": "ff20851f-f674-4652-92c8-c109e2227298",
@@ -11329,7 +11329,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "67fc172b-c63e-4bdb-8578-43f6b3046aa2",
 			"date": "2026-02-04T00:00:00.000Z",
@@ -11385,32 +11384,6 @@
 			"note": ""
 		},
 		{
-			"id": "ca8b5784-1fca-4224-9b0d-73d849beda12",
-			"date": "2026-02-06T00:00:00.000Z",
-			"content": "Buddy Pass, 2 person $600 before 10pm",
-			"title": "Flow Friday Social",
-			"host": "flow-taipei",
-			"locate": "flow-taipei",
-			"rate": "2S:3B + Zouk room",
-			"types": ["salsa on 2", "bachata", "zouk"],
-			"startAt": "21:00",
-			"endAt": "00:30",
-			"fee": "450 TWD or 1 flow point"
-		},
-		{
-			"id": "001f4a65-1199-42f5-a7ab-bd0c19b5c8e8",
-			"date": "2026-02-06T00:00:00.000Z",
-			"content": "",
-			"title": "Copa friday Social",
-			"host": "copa-taiwan",
-			"locate": "ba-basement",
-			"rate": "100% Salsa Room + 100% Bachata Room",
-			"types": ["salsa on 2", "bachata"],
-			"startAt": "21:30",
-			"endAt": "00:40",
-			"fee": "300TWD"
-		},
-		{
 			"date": "2026-02-06T00:00:00",
 			"title": "Salud Friday Social",
 			"host": "salud-salsa-party",
@@ -11439,6 +11412,32 @@
 			"content": "",
 			"note": "20:30-21:00 新手教學\n21:00-24:00 Party Time",
 			"id": "749dcd07-68fa-4416-899e-a656ec4f903f"
+		},
+		{
+			"id": "ca8b5784-1fca-4224-9b0d-73d849beda12",
+			"date": "2026-02-06T00:00:00.000Z",
+			"content": "Buddy Pass, 2 person $600 before 10pm",
+			"title": "Flow Friday Social",
+			"host": "flow-taipei",
+			"locate": "flow-taipei",
+			"rate": "2S:3B + Zouk room",
+			"types": ["salsa on 2", "bachata", "zouk"],
+			"startAt": "21:00",
+			"endAt": "00:30",
+			"fee": "450 TWD or 1 flow point"
+		},
+		{
+			"id": "001f4a65-1199-42f5-a7ab-bd0c19b5c8e8",
+			"date": "2026-02-06T00:00:00.000Z",
+			"content": "",
+			"title": "Copa friday Social",
+			"host": "copa-taiwan",
+			"locate": "ba-basement",
+			"rate": "100% Salsa Room + 100% Bachata Room",
+			"types": ["salsa on 2", "bachata"],
+			"startAt": "21:30",
+			"endAt": "00:40",
+			"fee": "300TWD"
 		},
 		{
 			"date": "2026-02-07T00:00:00",
@@ -11573,7 +11572,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "ad88e5c6-91bf-42df-84f9-161144ec3259",
 			"date": "2026-02-11T00:00:00.000Z",
@@ -11642,19 +11640,6 @@
 			"id": "1336ad03-3388-4782-978b-e032e2145cb9"
 		},
 		{
-			"id": "e5646861-ce35-475f-b066-103ae1ddc223",
-			"date": "2026-02-13T00:00:00.000Z",
-			"content": "",
-			"title": "Copa friday Social",
-			"host": "copa-taiwan",
-			"locate": "ba-basement",
-			"rate": "100% Salsa Room + 100% Bachata Room",
-			"types": ["salsa on 2", "bachata"],
-			"startAt": "21:30",
-			"endAt": "00:40",
-			"fee": "300TWD"
-		},
-		{
 			"date": "2026-02-13T00:00:00",
 			"title": "Salud Happy Valentine’s Party 2026",
 			"host": "salud-salsa-party",
@@ -11683,6 +11668,19 @@
 			"content": "",
 			"note": "20:30-21:00 新手教學\n21:00-24:00 Party Time",
 			"id": "739c07a3-ed6e-4512-89a0-69ad3b86bd75"
+		},
+		{
+			"id": "e5646861-ce35-475f-b066-103ae1ddc223",
+			"date": "2026-02-13T00:00:00.000Z",
+			"content": "",
+			"title": "Copa friday Social",
+			"host": "copa-taiwan",
+			"locate": "ba-basement",
+			"rate": "100% Salsa Room + 100% Bachata Room",
+			"types": ["salsa on 2", "bachata"],
+			"startAt": "21:30",
+			"endAt": "00:40",
+			"fee": "300TWD"
 		},
 		{
 			"date": "2026-02-14T00:00:00",
@@ -11745,22 +11743,6 @@
 			"id": "217fa0e7-29a6-4682-af99-6f0196f245b2"
 		},
 		{
-			"date": "2026-02-15T00:00:00",
-			"title": "Sunday SBK Night - feat. Salsa class",
-			"host": "sbk-taiwan",
-			"locate": "barcade-taiwan",
-			"startAt": "19:00",
-			"endAt": "23:30",
-			"rate": "S2B2K1",
-			"types": ["salsa on 2", "bachata", "kizomba"],
-			"fee": "250",
-			"canceled": "",
-			"content": "本周日2/22特別邀請客座Salsa 老師，騷莎迷SalsaMe的創辦老師，Thanasis，將為大家帶來1小時的Salsa舞蹈教學！\n 3.5小時舞會+1小時Salsa教學只要💲300❗️ 快揪想學Salsa的朋友一起來體驗或是想更進步的舞者來讓你的舞技更精湛吧‼️",
-			"note": "",
-			"eventUrl": "",
-			"id": "ba6618eb-c1ab-4fb2-8186-80ba93c16b24"
-		},
-		{
 			"id": "3177be4e-4778-4aa5-9bee-b35d6b65e6d4",
 			"date": "2026-02-16T00:00:00.000Z",
 			"content": "",
@@ -11786,7 +11768,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "24022b75-963f-45f9-b59c-392f5867eb8d",
 			"date": "2026-02-18T00:00:00.000Z",
@@ -11923,7 +11904,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "a77cb4af-f491-47aa-acad-0031afa15a61",
 			"date": "2026-02-25T00:00:00.000Z",
@@ -11979,32 +11959,6 @@
 			"note": ""
 		},
 		{
-			"id": "7778458d-cafb-44c3-b55c-f1def70a908a",
-			"date": "2026-02-27T00:00:00.000Z",
-			"content": "Buddy Pass, 2 person $600 before 10pm",
-			"title": "Flow Friday Social",
-			"host": "flow-taipei",
-			"locate": "flow-taipei",
-			"rate": "2S:3B + Zouk room",
-			"types": ["salsa on 2", "bachata", "zouk"],
-			"startAt": "21:00",
-			"endAt": "00:30",
-			"fee": "450 TWD or 1 flow point"
-		},
-		{
-			"id": "ca5016a6-dfa4-47fe-9694-0f05329dfab9",
-			"date": "2026-02-27T00:00:00.000Z",
-			"content": "",
-			"title": "Copa friday Social",
-			"host": "copa-taiwan",
-			"locate": "ba-basement",
-			"rate": "100% Salsa Room + 100% Bachata Room",
-			"types": ["salsa on 2", "bachata"],
-			"startAt": "21:30",
-			"endAt": "00:40",
-			"fee": "300TWD"
-		},
-		{
 			"date": "2026-02-27T00:00:00",
 			"title": "Salud Happy CNY Social",
 			"host": "salud-salsa-party",
@@ -12033,6 +11987,32 @@
 			"content": "",
 			"note": "20:30-21:00 新手教學\n21:00-24:00 Party Time",
 			"id": "ac22592d-969a-4496-90a6-2b415774b42c"
+		},
+		{
+			"id": "7778458d-cafb-44c3-b55c-f1def70a908a",
+			"date": "2026-02-27T00:00:00.000Z",
+			"content": "Buddy Pass, 2 person $600 before 10pm",
+			"title": "Flow Friday Social",
+			"host": "flow-taipei",
+			"locate": "flow-taipei",
+			"rate": "2S:3B + Zouk room",
+			"types": ["salsa on 2", "bachata", "zouk"],
+			"startAt": "21:00",
+			"endAt": "00:30",
+			"fee": "450 TWD or 1 flow point"
+		},
+		{
+			"id": "ca5016a6-dfa4-47fe-9694-0f05329dfab9",
+			"date": "2026-02-27T00:00:00.000Z",
+			"content": "",
+			"title": "Copa friday Social",
+			"host": "copa-taiwan",
+			"locate": "ba-basement",
+			"rate": "100% Salsa Room + 100% Bachata Room",
+			"types": ["salsa on 2", "bachata"],
+			"startAt": "21:30",
+			"endAt": "00:40",
+			"fee": "300TWD"
 		},
 		{
 			"date": "2026-02-28T00:00:00",
@@ -12065,19 +12045,6 @@
 			"id": "9e7eec00-32a6-42c0-8209-b75628cde354"
 		},
 		{
-			"id": "ed666c07-420d-4fef-b3bf-e04bb456cf19",
-			"date": "2026-03-01T00:00:00.000Z",
-			"content": "",
-			"title": "戶外 Salsa Concert",
-			"host": "dance-salsa-under-sky",
-			"locate": "maji-square",
-			"rate": "Salsa、Bachata、Kizomba",
-			"types": ["salsa on 1", "salsa on 2", "bachata", "kizomba"],
-			"startAt": "18:30",
-			"endAt": "22:00",
-			"fee": "免費"
-		},
-		{
 			"date": "2026-03-01T00:00:00",
 			"title": "iZØUK 3/1",
 			"host": "finn",
@@ -12091,6 +12058,19 @@
 			"content": "👉 English version is below the Chinese version.\n\n✨ iZØUK – 100% Zouk / Lambada Social Party（中文版） ✨\n\n📅 時間：3/1/（週日）20:00–23:30\n📍 地點：Sunny Side 敦化\n台北市大安區敦化南路一段205號4樓之6\n⚠️ 注意：實際在建築的 4 樓，但電梯按鈕是「5」樓，請按電梯 5 樓！\n\n🎟️ 門票：NT$350\n🎧 DJ：Finn\n\n🕗 20:00–21:00 新手時光\n每首歌之間會有停頓、節奏清楚、速度較慢，\n讓大家在更友善的氛圍中暖身、熟悉舞步。\n大家一起早點到可以跳得更盡興！🥳\n\n💃🕺 希望 iZØUK 成為固定每月舞會，\n讓大家有更多機會相聚跳舞，\n也讓台北的 Zouk / Lambada 社群 更加活躍成長。\n\n🎉 歡迎新手加入，一起享受音樂與舞動！\n\n🙏 如果你喜歡 Zouk / Lambada，\n請幫忙分享活動資訊，讓更多朋友知道。\n謝謝大家 ❤️\n\n=================================\n\n✨ iZØUK – 100% Zouk / Lambada Social Party (English Version) ✨\n\n📅 Date & Time: Sun, Mar 1 · 8:00–11:30 PM\n📍 Venue: Sunny Side Dunhua\n4F-6, No. 205, Sec. 1, Dunhua South Rd., Da’an Dist., Taipei City\n⚠️ Note: The studio is on the building’s 4th floor, but the elevator button says “5F”. Please press 5 in the elevator!\n(Search “Sunny Side 敦化” on Google Maps for the exact location)\n\n🎟️ Entry: NT$350\n🎧 DJ: Finn\n\n🕗 8:00–9:00 PM – Beginner’s Hour\nSongs won’t be played back-to-back; tempo will be clear and slower,\ncreating a friendly atmosphere for everyone to warm up and get comfortable.\nCome early, dance longer, and enjoy the vibes! 🥳\n\n💃🕺 Our goal is for iZØUK to become a monthly social party,\ngiving everyone more chances to dance together,\nand to keep the Zouk / Lambada community in Taipei growing and thriving.\n\n🎉 Beginners are especially welcome to join and have fun with us!\n\n🙏 If you love Zouk / Lambada,\nplease help share this event so more friends can know about it.\nThank you for supporting the community ❤️",
 			"note": "",
 			"id": "c2c1250c-20c3-48e7-93ed-3383845bb992"
+		},
+		{
+			"id": "ed666c07-420d-4fef-b3bf-e04bb456cf19",
+			"date": "2026-03-01T00:00:00.000Z",
+			"content": "",
+			"title": "戶外 Salsa Concert",
+			"host": "dance-salsa-under-sky",
+			"locate": "maji-square",
+			"rate": "Salsa、Bachata、Kizomba",
+			"types": ["salsa on 1", "salsa on 2", "bachata", "kizomba"],
+			"startAt": "18:30",
+			"endAt": "22:00",
+			"fee": "免費"
 		},
 		{
 			"id": "efa48d34-081d-4944-af43-22622da83626",
@@ -12118,7 +12098,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "8e61f5b4-6539-4a4f-bbeb-796b6f9989f6",
 			"date": "2026-03-04T00:00:00.000Z",
@@ -12240,7 +12219,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "22cb2839-485b-4313-89d2-ac7119a1e7c9",
 			"date": "2026-03-11T00:00:00.000Z",
@@ -12364,7 +12342,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "d904c802-a4b1-4a13-9b7c-52a9397792b2",
 			"date": "2026-03-18T00:00:00.000Z",
@@ -12501,7 +12478,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "37e8a6d7-9afc-457b-9a60-2c2c82f56c1e",
 			"date": "2026-03-25T00:00:00.000Z",
@@ -12623,7 +12599,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "acde2e68-0b5c-4ef1-b72d-430bfd06a86c",
 			"date": "2026-04-01T00:00:00.000Z",
@@ -12743,7 +12718,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "a4cc2129-58a9-4fd2-a7cd-dc50e1f14d6c",
 			"date": "2026-04-08T00:00:00.000Z",
@@ -12880,7 +12854,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "e3953f83-ca83-4681-afc1-92795286269e",
 			"date": "2026-04-15T00:00:00.000Z",
@@ -13002,7 +12975,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "4d536673-107d-44f2-894f-82096c8cdd26",
 			"date": "2026-04-22T00:00:00.000Z",
@@ -13109,7 +13081,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "33a5ade4-39be-470b-9262-557cd1f54fc7",
 			"date": "2026-04-29T00:00:00.000Z",
@@ -13229,7 +13200,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "4f1a9f3a-5585-40f8-aa7a-2a70a3afdee9",
 			"date": "2026-05-06T00:00:00.000Z",
@@ -13366,7 +13336,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "c02afe66-2204-42ce-b9d0-52bb0ae3970e",
 			"date": "2026-05-13T00:00:00.000Z",
@@ -13488,7 +13457,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "c63ce5ef-04ba-4a29-8362-01f1a3b52694",
 			"date": "2026-05-20T00:00:00.000Z",
@@ -13610,7 +13578,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "92edcad9-a745-4b3b-af3a-c9f1371dd593",
 			"date": "2026-05-27T00:00:00.000Z",
@@ -13717,7 +13684,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "f986bbc6-d981-4f42-b319-9b197498a604",
 			"date": "2026-06-03T00:00:00.000Z",
@@ -13867,7 +13833,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "aa68abf5-9445-449b-9164-7209cdd54898",
 			"date": "2026-06-10T00:00:00.000Z",
@@ -13989,7 +13954,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "5eaefcf8-95df-490c-a525-de71357d276b",
 			"date": "2026-06-17T00:00:00.000Z",
@@ -14096,7 +14060,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "6400e264-f06f-45d5-8db5-1f6ad098b8ff",
 			"date": "2026-06-24T00:00:00.000Z",
@@ -14218,7 +14181,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "5fc91067-a365-4bb1-b19b-b63b026205e7",
 			"date": "2026-07-01T00:00:00.000Z",
@@ -14338,7 +14300,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "0622a91f-44d9-45d9-ab9f-21e77f63db7e",
 			"date": "2026-07-08T00:00:00.000Z",
@@ -14445,7 +14406,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "042edff2-186f-4354-b0b0-7f001c84a3d4",
 			"date": "2026-07-15T00:00:00.000Z",
@@ -14552,7 +14512,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "83a72d8d-ed64-4763-8cc5-a8c13c253bb9",
 			"date": "2026-07-22T00:00:00.000Z",
@@ -14659,7 +14618,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "445a6ac6-2f67-49a4-a405-290e12e5eaf9",
 			"date": "2026-07-29T00:00:00.000Z",
@@ -14779,7 +14737,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "d081d24c-1b86-4969-841a-d00bf50c3387",
 			"date": "2026-08-05T00:00:00.000Z",
@@ -14886,7 +14843,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "11fc243a-ddc7-4cc9-9d2e-b71db4f58219",
 			"date": "2026-08-12T00:00:00.000Z",
@@ -14993,7 +14949,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "9780196d-445e-45ab-8e49-0ece148b44af",
 			"date": "2026-08-19T00:00:00.000Z",
@@ -15100,7 +15055,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "589d6412-28f5-4c77-89c7-c35391e21ed0",
 			"date": "2026-08-26T00:00:00.000Z",
@@ -15207,7 +15161,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "34de5348-bfb8-4fe1-a574-5c8a7d60df91",
 			"date": "2026-09-02T00:00:00.000Z",
@@ -15327,7 +15280,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "45fa6d59-a0f9-4c0c-a690-8b2f6994b5cd",
 			"date": "2026-09-09T00:00:00.000Z",
@@ -15434,7 +15386,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "e07bb62b-1c37-46ca-9c3a-aff098ad87be",
 			"date": "2026-09-16T00:00:00.000Z",
@@ -15541,7 +15492,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "d06ff75a-e125-423a-aefd-1783598c8080",
 			"date": "2026-09-23T00:00:00.000Z",
@@ -15648,7 +15598,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "e84baed5-e5d5-4b83-a93a-9f439ca96e4e",
 			"date": "2026-09-30T00:00:00.000Z",
@@ -15768,7 +15717,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "c3a2b836-5938-4c89-b79a-c0f466da3b87",
 			"date": "2026-10-07T00:00:00.000Z",
@@ -15875,7 +15823,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "5820e9a5-b532-4609-b6ac-e8dce552f785",
 			"date": "2026-10-14T00:00:00.000Z",
@@ -15982,7 +15929,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "774bb31c-eb64-4fcb-9a45-5ff69a837b52",
 			"date": "2026-10-21T00:00:00.000Z",
@@ -16089,7 +16035,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "fffe3931-eab4-4138-9933-4c7813b49860",
 			"date": "2026-10-28T00:00:00.000Z",
@@ -16209,7 +16154,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "e5cedd05-8d7e-4d7f-8984-4310130a055d",
 			"date": "2026-11-04T00:00:00.000Z",
@@ -16316,7 +16260,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "70bdb8de-9637-41a8-beab-b8c42bcae692",
 			"date": "2026-11-11T00:00:00.000Z",
@@ -16423,7 +16366,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "ffe7c50e-c3a1-469d-811a-881c78a6b37d",
 			"date": "2026-11-18T00:00:00.000Z",
@@ -16530,7 +16472,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "b1c8e072-6031-4262-968c-85e2567569ba",
 			"date": "2026-11-25T00:00:00.000Z",
@@ -16637,7 +16578,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "324e9e30-dfd3-4f9b-a806-3bfaa25f5ddb",
 			"date": "2026-12-02T00:00:00.000Z",
@@ -16757,7 +16697,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "79cee5f1-ef0e-43c8-bbbb-286b4b4e9f35",
 			"date": "2026-12-09T00:00:00.000Z",
@@ -16864,7 +16803,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "6a3096b6-6e5d-417e-a8fb-7a3ff0cbe711",
 			"date": "2026-12-16T00:00:00.000Z",
@@ -16971,7 +16909,6 @@
 			"endAt": "01:00",
 			"fee": "250TWD (含一杯飲料)"
 		},
-
 		{
 			"id": "02a79513-37f4-4b8f-87eb-67ca1c242b28",
 			"date": "2026-12-23T00:00:00.000Z",
@@ -17064,74 +17001,6 @@
 			"startAt": "22:00",
 			"endAt": "23:30",
 			"fee": "250TWD or 0.5 flow point(當日上課學生免費)"
-		},
-		{
-			"id": "8c4e4cbe-ebf4-4019-afc8-cd58de8c48d9",
-			"date": "2026-12-29T00:00:00.000Z",
-			"content": "",
-			"title": "Brass Monkey Latin Night",
-			"host": "brass-monkey",
-			"locate": "brass-monkey",
-			"rate": "Salsa:Bachata 3:2",
-			"types": ["salsa on 1", "salsa on 2", "bachata"],
-			"startAt": "21:00",
-			"endAt": "01:00",
-			"fee": "250TWD (含一杯飲料)"
-		},
-
-		{
-			"id": "66b06e82-8e1f-4032-9618-c9af926dfd4d",
-			"date": "2026-12-30T00:00:00.000Z",
-			"content": "",
-			"title": "La Calle",
-			"host": "leo",
-			"locate": "the-venue",
-			"rate": "70% Salsa, 30% Chacha, Merengue, Reggaeton, Hiphop, R&B, Bachata",
-			"types": ["salsa on 2", "bachata"],
-			"startAt": "21:30",
-			"endAt": "00:30",
-			"fee": "250 TWD",
-			"note": ""
-		},
-		{
-			"id": "8964fb9f-e444-4554-926c-a44261d83c75",
-			"date": "2026-12-31T00:00:00.000Z",
-			"content": "",
-			"title": "Barcade Bachata Night",
-			"host": "bachata-taiwan",
-			"locate": "barcade-taiwan",
-			"rate": "100% Bachata",
-			"types": ["bachata"],
-			"startAt": "21:00",
-			"endAt": "01:00",
-			"fee": "250TWD (含一杯飲料)"
-		},
-		{
-			"id": "e1bfc4a1-343d-4634-bf93-38dd63fb99f6",
-			"date": "2026-12-31T00:00:00.000Z",
-			"content": "",
-			"title": "Flow Zouk Social",
-			"host": "flow-taipei",
-			"locate": "flow-taipei",
-			"rate": "100% Zouk",
-			"types": ["zouk"],
-			"startAt": "22:00",
-			"endAt": "23:30",
-			"fee": "250TWD or 0.5 flow point(當日上課學生免費)"
-		},
-		{
-			"id": "125f383b-8682-4e39-9039-91f42bd58f7a",
-			"date": "2026-12-31T00:00:00.000Z",
-			"content": "",
-			"title": "Bailalo Free Practica",
-			"host": "bailalo-dance-studio",
-			"locate": "bailalo-dance-studio",
-			"rate": "Salsa:Bachata 50%:50%",
-			"types": ["salsa on 2", "bachata"],
-			"startAt": "20:40",
-			"endAt": "22:00",
-			"fee": "free",
-			"note": ""
 		}
 	]
 }
