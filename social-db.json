@@ -13670,6 +13670,26 @@
       "fee": "免費"
     },
     {
+      "date": "2026-02-01T00:00:00",
+      "title": "Sunday SBK Night- feat. Bachata Class",
+      "host": "sbk-taiwan",
+      "locate": "barcade-taiwan",
+      "startAt": "19:00",
+      "endAt": "23:30",
+      "rate": "S1B3K1",
+      "types": [
+        "salsa on 1",
+        "salsa on 2",
+        "bachata",
+        "kizomba"
+      ],
+      "fee": "250",
+      "canceled": "",
+      "content": "本周日特別邀請客座Bachata 老師，小Eric 賞諺，將為大家帶來1小時的浪漫Bachata舞蹈教學！ 3.5小時舞會+1小時Bachata教學只要💲300❗️ 快揪想學bachata的朋友一起來體驗或是想更進步的舞者來讓你的舞技更精湛吧‼️",
+      "note": "",
+      "id": "1878dec1-4e10-4ce7-aa0d-606e9de81d03"
+    },
+    {
       "id": "ff20851f-f674-4652-92c8-c109e2227298",
       "date": "2026-02-02T00:00:00.000Z",
       "content": "",
@@ -13818,6 +13838,41 @@
       "fee": "300TWD"
     },
     {
+      "date": "2026-02-06T00:00:00",
+      "title": "Salud Friday Social",
+      "host": "salud-salsa-party",
+      "locate": "salud-salsa-party",
+      "startAt": "21:00",
+      "endAt": "00:00",
+      "rate": "Salsa main + Bachata",
+      "types": [
+        "salsa on 1",
+        "bachata"
+      ],
+      "fee": "300  TWD",
+      "canceled": "",
+      "content": "",
+      "note": "",
+      "id": "d5faa2f4-8633-446f-ab7c-6772bf896e7c"
+    },
+    {
+      "date": "2026-02-06T00:00:00",
+      "title": "Hustle Night",
+      "host": "hustlehustletw",
+      "locate": "skyco-nanjing-fuxing-6f",
+      "startAt": "20:00",
+      "endAt": "22:00",
+      "rate": "hustle 100%",
+      "types": [
+        "hustle"
+      ],
+      "fee": "200",
+      "canceled": "",
+      "content": "",
+      "note": "20:30-21:00 新手教學\n21:00-24:00 Party Time",
+      "id": "749dcd07-68fa-4416-899e-a656ec4f903f"
+    },
+    {
       "date": "2026-02-07T00:00:00",
       "title": "La BA-SA Social",
       "host": "la-salsa-taipei",
@@ -13837,7 +13892,7 @@
     },
     {
       "date": "2026-02-07T00:00:00",
-      "title": "Flow Zouk Infinity",
+      "title": "Zouk Night Party",
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "startAt": "20:00",
@@ -13846,10 +13901,11 @@
       "types": [
         "zouk"
       ],
-      "fee": "450 TWD or 1 flow point",
+      "fee": "600 TWD",
       "canceled": "",
-      "content": "Buddy Pass, 2 person $600 before 09:00",
+      "content": "",
       "note": "",
+      "eventUrl": "https://flowtaipei.com/events/?specialeventid=91_Kuna-and-Julissa-Weekender",
       "id": "bd830b97-917a-4b03-bcc4-3820bfba3614"
     },
     {
@@ -13871,8 +13927,26 @@
       "id": "f88c3bad-ebd8-48c0-a7da-0db6d192516f"
     },
     {
+      "date": "2026-02-07T00:00:00",
+      "title": "Social Night Fever",
+      "host": "salsa_pier",
+      "locate": "social-hub",
+      "startAt": "20:00",
+      "endAt": "00:00",
+      "rate": "Salsa 2 / Bachata 4",
+      "types": [
+        "salsa on 2",
+        "bachata"
+      ],
+      "fee": "400 TWD",
+      "canceled": "",
+      "content": "https://forms.gle/1FvpDK4qbQgtkbiX7",
+      "note": "現場繳費 Cash on-site：400元/人\n早鳥報名 Early bird ：300元/人 (報名至 2/06 23:59)",
+      "id": "4514ef98-49ec-4c2c-9140-96d4df2d02be"
+    },
+    {
       "date": "2026-02-08T00:00:00",
-      "title": "Bailalo Just Salsa",
+      "title": "Bailalo Just Salsa+ Koko & Jinwei’s salsa class",
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "startAt": "18:30",
@@ -13881,15 +13955,15 @@
       "types": [
         "salsa on 2"
       ],
-      "fee": "300 TWD",
+      "fee": "300 TWD ~ 600 TWD",
       "canceled": "",
-      "content": "",
+      "content": "6:30pm - 7:30pm Jinwei & Koko’s salsa fusion workshop \n7:30pm - 9:30pm Just salsa party\nWorkshop+ party deal: NTD 600\nWorkshop 400 | party 300",
       "note": "",
       "id": "1ae0c765-7f85-4063-a0da-e2df75029042"
     },
     {
       "date": "2026-02-08T00:00:00",
-      "title": "Flow Sunset Zouk",
+      "title": "Zouk Day Party",
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "startAt": "16:00",
@@ -13898,10 +13972,11 @@
       "types": [
         "zouk"
       ],
-      "fee": "450 TWD or 1 flow point",
+      "fee": "600 TWD",
       "canceled": "",
-      "content": "Buddy Pass, 2 person $600 before 16:00",
+      "content": "",
       "note": "",
+      "eventUrl": "https://flowtaipei.com/events/?specialeventid=91_Kuna-and-Julissa-Weekender",
       "id": "47dc8a0e-f869-469b-a397-f6ef42a15c2b"
     },
     {
@@ -14070,6 +14145,41 @@
       "fee": "300TWD"
     },
     {
+      "date": "2026-02-13T00:00:00",
+      "title": "Salud Happy Valentine’s Party 2026",
+      "host": "salud-salsa-party",
+      "locate": "salud-salsa-party",
+      "startAt": "21:00",
+      "endAt": "00:00",
+      "rate": "Salsa main + Bachata",
+      "types": [
+        "salsa on 1",
+        "bachata"
+      ],
+      "fee": "300  TWD",
+      "canceled": "",
+      "content": "",
+      "note": "",
+      "id": "16103817-44dd-477b-a376-04ede090e629"
+    },
+    {
+      "date": "2026-02-13T00:00:00",
+      "title": "Hustle Night",
+      "host": "hustlehustletw",
+      "locate": "skyco-nanjing-fuxing-6f",
+      "startAt": "20:00",
+      "endAt": "22:00",
+      "rate": "hustle 100%",
+      "types": [
+        "hustle"
+      ],
+      "fee": "200",
+      "canceled": "",
+      "content": "",
+      "note": "20:30-21:00 新手教學\n21:00-24:00 Party Time",
+      "id": "739c07a3-ed6e-4512-89a0-69ad3b86bd75"
+    },
+    {
       "date": "2026-02-14T00:00:00",
       "title": "Lunar New Year Social 恭喜發財舞會",
       "host": "la-salsa-taipei",
@@ -14088,22 +14198,78 @@
       "id": "a94e4cd1-0a2d-46f6-a449-1a1e54c8143b"
     },
     {
+      "date": "2026-02-14T00:00:00",
+      "title": "iZØUK Valentine Party",
+      "host": "finn",
+      "locate": "ba-basement",
+      "startAt": "18:00",
+      "endAt": "22:00",
+      "rate": "100% Zouk / Lambada",
+      "types": [
+        "zouk",
+        "lambada"
+      ],
+      "fee": "350",
+      "canceled": "",
+      "content": "👉 English version is below the Chinese version.\n✨ iZØUK Evening – 100% Zouk / Lambada Social Party（中文版） ✨\n📅 時間：2/14（週六）18:00–22:00\n📍 地點：ODORO\n105臺北市松山區南京東路三段335巷5號B1\n\n🎟️ 門票：NT$350\n🎧 DJ：Finn\n🕗 18:00–19:00 新手時光\n每首歌之間會有停頓、節奏清楚、速度較慢，\n讓大家在更友善的氛圍中暖身、熟悉舞步。\n大家一起早點到可以跳得更盡興！🥳\n💃🕺 希望 iZØUK 成為固定每月舞會，\n讓大家有更多機會相聚跳舞，\n也讓台北的 Zouk / Lambada 社群 更加活躍成長。\n\n🎉 歡迎新手加入，一起享受音樂與舞動！\n🙏 如果你喜歡 Zouk / Lambada，\n請幫忙分享活動資訊，讓更多朋友知道。\n謝謝大家 💛\n=================================\n✨ iZØUK Evening – 100% Zouk / Lambada Social Party (English Version) ✨\n📅 Date & Time: Sat, Feb 14 · 6:00–10:00 PM\n📍 Venue: ODORO\nB1, No. 5, Lane 335, Section 3, Nanjing East Road, Songshan District, Taipei City 105, Taiwan\n\n🎟️ Entry: NT$350\n🎧 DJ: Finn\n🕗 6:00 – 7:00 PM – Beginner’s Hour\nSongs won’t be played back-to-back; tempo will be clear and slower,\ncreating a friendly atmosphere for everyone to warm up and get comfortable.\nCome early, dance longer, and enjoy the vibes! 🥳\n💃🕺 Our goal is for iZØUK to become a monthly social party,\ngiving everyone more chances to dance together,\nand to keep the Zouk / Lambada community in Taipei growing and thriving.\n\n🎉 Beginners are especially welcome to join and have fun with us!\n🙏 If you love Zouk / Lambada,\nplease help share this event so more friends can know about it.\nThank you for supporting the community 💛",
+      "note": "",
+      "id": "3776d9b4-9f0d-40b9-82cc-209253e9a7a4"
+    },
+    {
+      "date": "2026-02-14T00:00:00",
+      "title": "Bachata Fever Taichung",
+      "host": "dol",
+      "locate": "dol-dance-studio",
+      "startAt": "19:30",
+      "endAt": "23:00",
+      "rate": "Mostly Bachata",
+      "types": [
+        "bachata"
+      ],
+      "fee": "初次體驗400TWD（含一杯飲料），加入會員另有優惠",
+      "canceled": "",
+      "content": "台中最特別的Bachata之夜，限會員參與，音樂100%Bachata！！\n欲了解會員詳情，請洽📞\n手機：0912760531 (Kevin)\n📲 LINE ID：kevindol",
+      "note": "19:30-20:15 Bachata Lesson",
+      "id": "ff99c354-1e24-427b-9b4c-dfbb0e3647ca"
+    },
+    {
       "date": "2026-02-15T00:00:00",
       "title": "小年夜Salsa趴踢",
       "host": "copa-taiwan",
       "locate": "heart-valley",
       "startAt": "20:15",
       "endAt": "23:15",
-      "rate": "salsa 100%",
+      "rate": "",
       "types": [
         "salsa on 1",
-        "salsa on 2"
+        "salsa on 2",
+        "bachata"
       ],
-      "fee": "350TWD",
+      "fee": "400TWD",
       "canceled": "",
-      "content": "",
+      "content": "2/7前，優惠價350元\nhttps://copa.pse.is/Taichung0215",
       "note": "",
       "id": "217fa0e7-29a6-4682-af99-6f0196f245b2"
+    },
+    {
+      "date": "2026-02-15T00:00:00",
+      "title": "Sunday SBK Night - feat. Salsa class",
+      "host": "sbk-taiwan",
+      "locate": "barcade-taiwan",
+      "startAt": "19:00",
+      "endAt": "23:30",
+      "rate": "S2B2K1",
+      "types": [
+        "salsa on 2",
+        "bachata",
+        "kizomba"
+      ],
+      "fee": "250",
+      "canceled": "",
+      "content": "本周日2/22特別邀請客座Salsa 老師，騷莎迷SalsaMe的創辦老師，Thanasis，將為大家帶來1小時的Salsa舞蹈教學！\n 3.5小時舞會+1小時Salsa教學只要💲300❗️ 快揪想學Salsa的朋友一起來體驗或是想更進步的舞者來讓你的舞技更精湛吧‼️",
+      "note": "",
+      "eventUrl": "",
+      "id": "ba6618eb-c1ab-4fb2-8186-80ba93c16b24"
     },
     {
       "id": "3177be4e-4778-4aa5-9bee-b35d6b65e6d4",
@@ -14272,6 +14438,25 @@
       "id": "a6fd375a-d3eb-4a0c-9b4a-e0e1a3e1c0d2"
     },
     {
+      "date": "2026-02-22T00:00:00",
+      "title": "Sunday SBK Night - feat. Salsa class",
+      "host": "sbk-taiwan",
+      "locate": "barcade-taiwan",
+      "startAt": "19:00",
+      "endAt": "23:30",
+      "rate": "S2B2K1",
+      "types": [
+        "salsa on 2",
+        "bachata",
+        "kizomba"
+      ],
+      "fee": "250",
+      "canceled": "",
+      "content": "本周日2/22特別邀請客座Salsa 老師，騷莎迷SalsaMe的創辦老師，Thanasis，將為大家帶來1小時的Salsa舞蹈教學！\n 3.5小時舞會+1小時Salsa教學只要💲300❗️ 快揪想學Salsa的朋友一起來體驗或是想更進步的舞者來讓你的舞技更精湛吧‼️",
+      "note": "",
+      "id": "d939ca52-7e38-433e-bd69-7aa608729236"
+    },
+    {
       "id": "32459e0f-0a9f-4134-96f8-316207e2c7c0",
       "date": "2026-02-23T00:00:00.000Z",
       "content": "",
@@ -14420,6 +14605,41 @@
       "fee": "300TWD"
     },
     {
+      "date": "2026-02-27T00:00:00",
+      "title": "Salud Happy CNY Social",
+      "host": "salud-salsa-party",
+      "locate": "salud-salsa-party",
+      "startAt": "21:00",
+      "endAt": "00:00",
+      "rate": "Salsa main + Bachata",
+      "types": [
+        "salsa on 1",
+        "bachata"
+      ],
+      "fee": "300  TWD",
+      "canceled": "",
+      "content": "",
+      "note": "",
+      "id": "d9d993b3-057f-44e5-a073-5878c89e2cc1"
+    },
+    {
+      "date": "2026-02-27T00:00:00",
+      "title": "Hustle Night",
+      "host": "hustlehustletw",
+      "locate": "skyco-nanjing-fuxing-6f",
+      "startAt": "20:00",
+      "endAt": "22:00",
+      "rate": "hustle 100%",
+      "types": [
+        "hustle"
+      ],
+      "fee": "200",
+      "canceled": "",
+      "content": "",
+      "note": "20:30-21:00 新手教學\n21:00-24:00 Party Time",
+      "id": "ac22592d-969a-4496-90a6-2b415774b42c"
+    },
+    {
       "date": "2026-02-28T00:00:00",
       "title": "La Bachata Social",
       "host": "la-salsa-taipei",
@@ -14438,6 +14658,23 @@
       "id": "8e77401d-302a-48f6-802b-c4857027a98c"
     },
     {
+      "date": "2026-02-28T00:00:00",
+      "title": "Drop Da Hustl Vol.4",
+      "host": "hustlehustletw",
+      "locate": "flow-taipei",
+      "startAt": "20:00",
+      "endAt": "11:30",
+      "rate": "hustle 100%",
+      "types": [
+        "hustle"
+      ],
+      "fee": "450",
+      "canceled": "",
+      "content": "",
+      "note": "雙人同行 750",
+      "id": "9e7eec00-32a6-42c0-8209-b75628cde354"
+    },
+    {
       "id": "ed666c07-420d-4fef-b3bf-e04bb456cf19",
       "date": "2026-03-01T00:00:00.000Z",
       "content": "",
@@ -14454,6 +14691,24 @@
       "startAt": "18:30",
       "endAt": "22:00",
       "fee": "免費"
+    },
+    {
+      "date": "2026-03-01T00:00:00",
+      "title": "iZØUK 3/1",
+      "host": "finn",
+      "locate": "sunny-side",
+      "startAt": "20:00",
+      "endAt": "23:30",
+      "rate": "100% Zouk / Lambada",
+      "types": [
+        "zouk",
+        "lambada"
+      ],
+      "fee": "350",
+      "canceled": "",
+      "content": "👉 English version is below the Chinese version.\n\n✨ iZØUK – 100% Zouk / Lambada Social Party（中文版） ✨\n\n📅 時間：3/1/（週日）20:00–23:30\n📍 地點：Sunny Side 敦化\n台北市大安區敦化南路一段205號4樓之6\n⚠️ 注意：實際在建築的 4 樓，但電梯按鈕是「5」樓，請按電梯 5 樓！\n\n🎟️ 門票：NT$350\n🎧 DJ：Finn\n\n🕗 20:00–21:00 新手時光\n每首歌之間會有停頓、節奏清楚、速度較慢，\n讓大家在更友善的氛圍中暖身、熟悉舞步。\n大家一起早點到可以跳得更盡興！🥳\n\n💃🕺 希望 iZØUK 成為固定每月舞會，\n讓大家有更多機會相聚跳舞，\n也讓台北的 Zouk / Lambada 社群 更加活躍成長。\n\n🎉 歡迎新手加入，一起享受音樂與舞動！\n\n🙏 如果你喜歡 Zouk / Lambada，\n請幫忙分享活動資訊，讓更多朋友知道。\n謝謝大家 ❤️\n\n=================================\n\n✨ iZØUK – 100% Zouk / Lambada Social Party (English Version) ✨\n\n📅 Date & Time: Sun, Mar 1 · 8:00–11:30 PM\n📍 Venue: Sunny Side Dunhua\n4F-6, No. 205, Sec. 1, Dunhua South Rd., Da’an Dist., Taipei City\n⚠️ Note: The studio is on the building’s 4th floor, but the elevator button says “5F”. Please press 5 in the elevator!\n(Search “Sunny Side 敦化” on Google Maps for the exact location)\n\n🎟️ Entry: NT$350\n🎧 DJ: Finn\n\n🕗 8:00–9:00 PM – Beginner’s Hour\nSongs won’t be played back-to-back; tempo will be clear and slower,\ncreating a friendly atmosphere for everyone to warm up and get comfortable.\nCome early, dance longer, and enjoy the vibes! 🥳\n\n💃🕺 Our goal is for iZØUK to become a monthly social party,\ngiving everyone more chances to dance together,\nand to keep the Zouk / Lambada community in Taipei growing and thriving.\n\n🎉 Beginners are especially welcome to join and have fun with us!\n\n🙏 If you love Zouk / Lambada,\nplease help share this event so more friends can know about it.\nThank you for supporting the community ❤️",
+      "note": "",
+      "id": "c2c1250c-20c3-48e7-93ed-3383845bb992"
     },
     {
       "id": "efa48d34-081d-4944-af43-22622da83626",
@@ -14937,6 +15192,23 @@
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "300TWD"
+    },
+    {
+      "date": "2026-03-21T00:00:00",
+      "title": "Bachata Fever Taichung",
+      "host": "dol",
+      "locate": "dol-dance-studio",
+      "startAt": "19:30",
+      "endAt": "23:00",
+      "rate": "Mostly Bachata",
+      "types": [
+        "bachata"
+      ],
+      "fee": "初次體驗400TWD（含一杯飲料），加入會員另有優惠",
+      "canceled": "",
+      "content": "台中最特別的Bachata之夜，限會員參與，音樂100%Bachata！！\n欲了解會員詳情，請洽📞\n手機：0912760531 (Kevin)\n📲 LINE ID：kevindol",
+      "note": "19:30-20:15 Bachata Lesson",
+      "id": "25827b66-98b6-4785-b2a3-efcbe27c60f2"
     },
     {
       "date": "2026-03-22T00:00:00",
