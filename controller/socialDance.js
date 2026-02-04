@@ -158,11 +158,10 @@ const writeEventsData = async (data) => {
 	return db.data.events;
 };
 
-const deleteEventsData = async (dataId) => {
+const deleteEventsData = async (index) => {
 	let { events } = db.data;
-	let targetIndex = events.findIndex((event) => event.id === dataId);
 
-	events.splice(targetIndex, 1);
+	events.splice(index, 1);
 
 	const result = events.toSorted(sortEventsMethod);
 	db.data.events = result;
