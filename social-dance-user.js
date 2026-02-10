@@ -59,12 +59,12 @@ export const socialDanceUsers = [
 		id: 10,
 		username: "leo",
 		password: bcrypt.hashSync("leoleo", 10),
-		role: "sbk-taiwan",
+		role: "leo",
 	},
 	{
 		id: 11,
-		username: "trison",
-		password: bcrypt.hashSync("trisonBachata", 10),
-		role: "sbk-taiwan",
+		username: "bachata-taiwan",
+		password: bcrypt.hashSync("bachataTaiwan", 10),
+		role: "bachata-taiwan",
 	},
 ];
