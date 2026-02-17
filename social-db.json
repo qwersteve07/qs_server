@@ -20746,7 +20746,7 @@
       "links": [
         {
           "type": "facebook",
-          "url": "\"https://www.facebook.com/bailalodancestudio/\""
+          "url": "https://www.facebook.com/bailalodancestudio/"
         },
         {
           "type": "instagram",
@@ -20767,84 +20767,108 @@
           "name": "Salsa Lv1",
           "weekday": "monday",
           "level": "beginner",
-          "time": "19:15-20:30"
+          "time": "19:15-20:30",
+          "chosen": false,
+          "selected": false
         },
         {
           "type": "salsa",
           "name": "Salsa Advance",
           "weekday": "monday",
           "level": "advanced",
-          "time": "20:40-22:00"
+          "time": "20:40-22:00",
+          "chosen": false,
+          "selected": false
         },
         {
           "type": "salsa",
           "name": "Salsa Lv2.2",
           "weekday": "wednesday",
           "level": "intermediate",
-          "time": "19:15-20:30"
+          "time": "19:15-20:30",
+          "chosen": false,
+          "selected": false
         },
         {
           "type": "salsa",
           "name": "Salsa Lv4",
           "weekday": "wednesday",
           "level": "intermediate",
-          "time": "20:40-22:00"
+          "time": "20:40-22:00",
+          "chosen": false,
+          "selected": false
         },
         {
           "type": "bachata",
           "name": "Bachata Lv2.1",
           "weekday": "thursday",
           "level": "beginner",
-          "time": "19:15-20:30"
+          "time": "19:15-20:30",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "friday",
           "type": "zouk",
           "name": "Zouk Lv2.1",
           "level": "beginner",
-          "time": "19:15-20:30"
+          "time": "19:15-20:30",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "friday",
           "type": "zouk",
           "name": "Zouk Team Training",
           "level": "advanced",
-          "time": "20:40-22:00"
+          "time": "20:40-22:00",
+          "chosen": false,
+          "selected": false
         },
         {
           "type": "salsa",
           "name": "Salsa Lv3.1",
           "weekday": "saturday",
           "level": "intermediate",
-          "time": "15:00-16:20"
+          "time": "15:00-16:20",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "saturday",
           "type": "salsa",
           "name": "Salsa Lv2.1",
           "level": "beginner",
-          "time": "16:30-17:50"
+          "time": "16:30-17:50",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "sunday",
           "type": "zouk",
           "name": "Zouk Lv3",
           "level": "intermediate",
-          "time": "12:00-13:20"
+          "time": "12:00-13:20",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "sunday",
           "type": "lambada",
           "name": "Intro to Lambada",
           "level": "beginner",
-          "time": "13:30-15:00"
+          "time": "13:30-15:00",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "sunday",
           "type": "bachata",
           "name": "Bachata Lv3",
           "level": "intermediate",
-          "time": "16:30-17:50"
+          "time": "16:30-17:50",
+          "chosen": false,
+          "selected": false
         }
       ],
       "related": []
@@ -20856,10 +20880,11 @@
       "thumbnail": "/organizers/bachata-taiwan.jpg",
       "content": "Life is Simple\nDance and Keep it Real\n不只是生活，更要享受快樂",
       "classes": [],
+      "related": [],
       "links": [
         {
           "type": "facebook",
-          "url": "\"https://www.facebook.com/bachatataiwan/"
+          "url": "https://www.facebook.com/bachatataiwan/"
         },
         {
           "type": "instagram",
@@ -21212,6 +21237,7 @@
       ],
       "solo": false,
       "hide": false,
+      "classes": [],
       "related": []
     },
     {
@@ -21400,6 +21426,7 @@
           "url": "https://bio.site/Dancingmuse"
         }
       ],
+      "classes": [],
       "related": []
     },
     {
