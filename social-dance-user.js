@@ -73,4 +73,16 @@ export const socialDanceUsers = [
     password: bcrypt.hashSync("dolDanceStudio", 10),
     role: "dol",
   },
+  {
+	id: 13,
+	username: "hhtw",
+	password: bcrypt.hashSync("hustlehustleTw", 10),
+	role: "hustlehustletw",
+  },
+  {
+	id: 14,
+	username: "hhkh",
+	password: bcrypt.hashSync("hustlehustleKaohsiung", 10),
+	role: "hustlehustlekh",
+  },
 ];
