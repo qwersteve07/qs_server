@@ -22197,6 +22197,23 @@
       ]
     },
     {
+      "id": "vivian",
+      "name": "Vivian",
+      "hide": false,
+      "solo": true,
+      "city": "taipei",
+      "thumbnail": "https://ik.imagekit.io/8bhpp1r3a/Screenshot_2026-02-27_at_5.28.45_PM_oTwA3lX9T.png",
+      "content": "hi",
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/vivianan0115/"
+        }
+      ],
+      "classes": [],
+      "related": []
+    },
+    {
       "id": "yi-chia",
       "name": "Yi Chia",
       "hide": false,
