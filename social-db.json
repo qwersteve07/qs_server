@@ -14320,6 +14320,25 @@
     },
     {
       "date": "2026-02-21T00:00:00",
+      "title": "La Kick-off Party",
+      "host": "la-salsa-taipei",
+      "locate": "la-salsa-taipei",
+      "startAt": "20:00",
+      "endAt": "00:00",
+      "rate": "Salsa:Bachata 50%:50%",
+      "types": [
+        "salsa on 2",
+        "bachata"
+      ],
+      "fee": "400 TWD",
+      "canceled": false,
+      "content": "",
+      "note": "",
+      "eventUrl": "",
+      "id": "f02b45e8-abd0-4f7d-8238-b0134f72d68b"
+    },
+    {
+      "date": "2026-02-21T00:00:00",
       "title": "迎新年Party",
       "host": "group-amores-danza",
       "locate": "hopsquared",
@@ -14445,21 +14464,23 @@
       "fee": "250TWD (含一杯飲料)"
     },
     {
-      "id": "a77cb4af-f491-47aa-acad-0031afa15a61",
-      "date": "2026-02-25T00:00:00.000Z",
-      "content": "",
+      "date": "2026-02-25T00:00:00",
       "title": "La Calle",
       "host": "leo",
       "locate": "the-venue",
-      "rate": "70% Salsa, 30% Chacha, Merengue, Reggaeton, Hiphop, R&B, Bachata",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
       "startAt": "21:30",
       "endAt": "00:30",
+      "rate": "mostly salsa",
+      "types": [
+        "salsa on 2",
+        "salsa on 1"
+      ],
       "fee": "250 TWD",
-      "note": ""
+      "canceled": false,
+      "content": "",
+      "note": "",
+      "eventUrl": "",
+      "id": "a77cb4af-f491-47aa-acad-0031afa15a61"
     },
     {
       "id": "b54fc537-ca34-45ed-8365-f47951fb0be2",
@@ -14544,37 +14565,62 @@
       "id": "ac22592d-969a-4496-90a6-2b415774b42c"
     },
     {
-      "id": "7778458d-cafb-44c3-b55c-f1def70a908a",
-      "date": "2026-02-27T00:00:00.000Z",
-      "content": "Buddy Pass, 2 person $600 before 10pm",
+      "date": "2026-02-27T00:00:00",
       "title": "Flow Friday Social",
       "host": "flow-taipei",
       "locate": "flow-taipei",
-      "rate": "2S:3B + Zouk room",
+      "startAt": "21:00",
+      "endAt": "00:30",
+      "rate": "4B:2S + Zouk room",
       "types": [
         "salsa on 2",
         "bachata",
         "zouk"
       ],
-      "startAt": "21:00",
-      "endAt": "00:30",
-      "fee": "450 TWD or 1 flow point"
+      "fee": "450 TWD or 1 flow point",
+      "canceled": false,
+      "content": "Buddy Pass, 2 person $600 before 10pm",
+      "note": "",
+      "eventUrl": "",
+      "id": "7778458d-cafb-44c3-b55c-f1def70a908a"
     },
     {
-      "id": "ca5016a6-dfa4-47fe-9694-0f05329dfab9",
-      "date": "2026-02-27T00:00:00.000Z",
-      "content": "",
+      "date": "2026-02-27T00:00:00",
       "title": "Copa friday Social",
       "host": "copa-taiwan",
       "locate": "ba-basement",
-      "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
       "startAt": "21:30",
       "endAt": "00:40",
-      "fee": "300TWD"
+      "rate": "100% Salsa",
+      "types": [
+        "salsa on 2",
+        "salsa on 1"
+      ],
+      "fee": "300TWD",
+      "canceled": false,
+      "content": "",
+      "note": "",
+      "eventUrl": "",
+      "id": "ca5016a6-dfa4-47fe-9694-0f05329dfab9"
+    },
+    {
+      "date": "2026-02-27T00:00:00",
+      "title": "Taipei BKK Night",
+      "host": "meet-kiz-taiwan",
+      "locate": "here-taipei",
+      "startAt": "20:30",
+      "endAt": "23:30",
+      "rate": "Bachata / Kizomba / Konpa",
+      "types": [
+        "bachata",
+        "kizomba"
+      ],
+      "fee": "300 TWD",
+      "canceled": "",
+      "content": "",
+      "note": "20:30-20:50 Konpa 體驗課",
+      "eventUrl": "",
+      "id": "8ab0631c-6afb-44ce-9754-60ccadad0933"
     },
     {
       "date": "2026-02-28T00:00:00",
@@ -14718,21 +14764,23 @@
       "fee": "250TWD (含一杯飲料)"
     },
     {
-      "id": "8e61f5b4-6539-4a4f-bbeb-796b6f9989f6",
-      "date": "2026-03-04T00:00:00.000Z",
-      "content": "",
+      "date": "2026-03-04T00:00:00",
       "title": "La Calle",
       "host": "leo",
       "locate": "the-venue",
-      "rate": "70% Salsa, 30% Chacha, Merengue, Reggaeton, Hiphop, R&B, Bachata",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
       "startAt": "21:30",
       "endAt": "00:30",
+      "rate": "mostly salsa",
+      "types": [
+        "salsa on 2",
+        "salsa on 1"
+      ],
       "fee": "250 TWD",
-      "note": ""
+      "canceled": false,
+      "content": "",
+      "note": "",
+      "eventUrl": "",
+      "id": "8e61f5b4-6539-4a4f-bbeb-796b6f9989f6"
     },
     {
       "id": "905c2174-2b76-4564-9a30-5cdc6bb38bab",
@@ -14782,37 +14830,43 @@
       "note": ""
     },
     {
-      "id": "2eedf75c-ba5f-4222-92f4-bfb8c4ba2d46",
-      "date": "2026-03-06T00:00:00.000Z",
-      "content": "Buddy Pass, 2 person $600 before 10pm",
+      "date": "2026-03-06T00:00:00",
       "title": "Flow Friday Social",
       "host": "flow-taipei",
       "locate": "flow-taipei",
-      "rate": "2S:3B + Zouk room",
+      "startAt": "21:00",
+      "endAt": "00:30",
+      "rate": "4B:2S + Zouk room",
       "types": [
         "salsa on 2",
         "bachata",
         "zouk"
       ],
-      "startAt": "21:00",
-      "endAt": "00:30",
-      "fee": "450 TWD or 1 flow point"
+      "fee": "450 TWD or 1 flow point",
+      "canceled": false,
+      "content": "Buddy Pass, 2 person $600 before 10pm",
+      "note": "",
+      "eventUrl": "",
+      "id": "2eedf75c-ba5f-4222-92f4-bfb8c4ba2d46"
     },
     {
-      "id": "8b6d751d-dbaf-433d-8824-5c0af58a1cc6",
-      "date": "2026-03-06T00:00:00.000Z",
-      "content": "",
+      "date": "2026-03-06T00:00:00",
       "title": "Copa friday Social",
       "host": "copa-taiwan",
       "locate": "ba-basement",
-      "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
       "startAt": "21:30",
       "endAt": "00:40",
-      "fee": "300TWD"
+      "rate": "100% Salsa",
+      "types": [
+        "salsa on 2",
+        "salsa on 1"
+      ],
+      "fee": "300TWD",
+      "canceled": false,
+      "content": "",
+      "note": "",
+      "eventUrl": "",
+      "id": "8b6d751d-dbaf-433d-8824-5c0af58a1cc6"
     },
     {
       "date": "2026-03-07T00:00:00",
@@ -14833,6 +14887,44 @@
       "note": "",
       "eventUrl": "",
       "id": "1453f467-34e1-4683-a5fa-8f4525766203"
+    },
+    {
+      "date": "2026-03-07T00:00:00",
+      "title": "La Happy Hour",
+      "host": "la-salsa-taipei",
+      "locate": "la-salsa-taipei",
+      "startAt": "20:00",
+      "endAt": "00:00",
+      "rate": "Salsa:Bachata 50%:50%",
+      "types": [
+        "salsa on 2",
+        "bachata"
+      ],
+      "fee": "400 TWD",
+      "canceled": "",
+      "content": "",
+      "note": "9pm前入場 兩人同行 一人免費",
+      "eventUrl": "",
+      "id": "40bdd658-8962-49fe-a0a3-ce934af29afd"
+    },
+    {
+      "date": "2026-03-07T00:00:00",
+      "title": "Flow Sunset Salsa",
+      "host": "flow-taipei",
+      "locate": "flow-taipei",
+      "startAt": "15:00",
+      "endAt": "18:00",
+      "rate": "100% Salsa",
+      "types": [
+        "salsa on 2",
+        "salsa on 1"
+      ],
+      "fee": "300 TWD",
+      "canceled": false,
+      "content": "",
+      "note": "",
+      "eventUrl": "",
+      "id": "423eed4c-0d7f-4cfa-bbd6-10a00ca6f42d"
     },
     {
       "date": "2026-03-08T00:00:00",
@@ -14885,21 +14977,23 @@
       "fee": "250TWD (含一杯飲料)"
     },
     {
-      "id": "22cb2839-485b-4313-89d2-ac7119a1e7c9",
-      "date": "2026-03-11T00:00:00.000Z",
-      "content": "",
+      "date": "2026-03-11T00:00:00",
       "title": "La Calle",
       "host": "leo",
       "locate": "the-venue",
-      "rate": "70% Salsa, 30% Chacha, Merengue, Reggaeton, Hiphop, R&B, Bachata",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
       "startAt": "21:30",
       "endAt": "00:30",
+      "rate": "mostly salsa",
+      "types": [
+        "salsa on 2",
+        "salsa on 1"
+      ],
       "fee": "250 TWD",
-      "note": ""
+      "canceled": false,
+      "content": "",
+      "note": "",
+      "eventUrl": "",
+      "id": "22cb2839-485b-4313-89d2-ac7119a1e7c9"
     },
     {
       "id": "9c8c771b-3e3c-4749-879a-b87bdca39f87",
@@ -14968,20 +15062,23 @@
       "id": "7ead0a10-7f8d-4874-86fc-3e849533599f"
     },
     {
-      "id": "c624b984-8014-49fa-a680-8ebde77863ee",
-      "date": "2026-03-13T00:00:00.000Z",
-      "content": "",
+      "date": "2026-03-13T00:00:00",
       "title": "Copa friday Social",
       "host": "copa-taiwan",
       "locate": "ba-basement",
-      "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
       "startAt": "21:30",
       "endAt": "00:40",
-      "fee": "300TWD"
+      "rate": "100% Salsa",
+      "types": [
+        "salsa on 2",
+        "salsa on 1"
+      ],
+      "fee": "300TWD",
+      "canceled": true,
+      "content": "",
+      "note": "",
+      "eventUrl": "",
+      "id": "c624b984-8014-49fa-a680-8ebde77863ee"
     },
     {
       "date": "2026-03-14T00:00:00",
@@ -15004,7 +15101,7 @@
     },
     {
       "date": "2026-03-15T00:00:00",
-      "title": "小年夜Salsa趴踢",
+      "title": "Salsa Party",
       "host": "copa-taiwan",
       "locate": "heart-valley",
       "startAt": "20:15",
@@ -15021,6 +15118,26 @@
       "note": "",
       "eventUrl": "",
       "id": "217fa0e7-29a6-4682-af99-6f0196f245b2"
+    },
+    {
+      "date": "2026-03-15T00:00:00",
+      "title": "Taiwan Latin Smash X SkyCo Party 2026 Spring Edition ",
+      "host": "taiwan-latin-smash",
+      "locate": "skyco-nanjing-fuxing-9f",
+      "startAt": "19:00",
+      "endAt": "00:00",
+      "rate": "Salsa / Bachata",
+      "types": [
+        "salsa on 2",
+        "bachata",
+        "salsa on 1"
+      ],
+      "fee": "TBD",
+      "canceled": false,
+      "content": "",
+      "note": "",
+      "eventUrl": "https://www.facebook.com/events/s/taiwan-latin-smash-x-skyco-par/927204849746669/",
+      "id": "a8b7cd8d-f595-467c-834d-f4c7b1d47004"
     },
     {
       "id": "69b910d6-4f9d-4f46-9c95-fc9df3314f43",
@@ -15055,21 +15172,23 @@
       "fee": "250TWD (含一杯飲料)"
     },
     {
-      "id": "d904c802-a4b1-4a13-9b7c-52a9397792b2",
-      "date": "2026-03-18T00:00:00.000Z",
-      "content": "",
+      "date": "2026-03-18T00:00:00",
       "title": "La Calle",
       "host": "leo",
       "locate": "the-venue",
-      "rate": "70% Salsa, 30% Chacha, Merengue, Reggaeton, Hiphop, R&B, Bachata",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
       "startAt": "21:30",
       "endAt": "00:30",
+      "rate": "mostly salsa",
+      "types": [
+        "salsa on 2",
+        "salsa on 1"
+      ],
       "fee": "250 TWD",
-      "note": ""
+      "canceled": false,
+      "content": "",
+      "note": "",
+      "eventUrl": "",
+      "id": "d904c802-a4b1-4a13-9b7c-52a9397792b2"
     },
     {
       "id": "ebe9b06a-1f8c-4a8e-9ed5-2af4e6bfe440",
@@ -15125,31 +15244,36 @@
       "locate": "flow-taipei",
       "startAt": "21:00",
       "endAt": "00:30",
-      "rate": "Salsa:Bachata 2:6 + 100% zouk Room",
+      "rate": "100% Bachata + 100% zouk Room",
       "types": [
         "bachata",
-        "salsa on 2",
         "zouk"
       ],
       "fee": "450TWD or 1 flow point",
+      "canceled": false,
       "content": "Buddy Pass, 2 person $600 before 10pm",
+      "note": "",
+      "eventUrl": "",
       "id": "7e3990e0-ab93-4791-adce-a1e752e62062"
     },
     {
-      "id": "a9b6796e-170a-4173-898a-492fcf0c6714",
-      "date": "2026-03-20T00:00:00.000Z",
-      "content": "",
+      "date": "2026-03-20T00:00:00",
       "title": "Copa friday Social",
       "host": "copa-taiwan",
       "locate": "ba-basement",
-      "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
       "startAt": "21:30",
       "endAt": "00:40",
-      "fee": "300TWD"
+      "rate": "100% Salsa",
+      "types": [
+        "salsa on 2",
+        "salsa on 1"
+      ],
+      "fee": "300TWD",
+      "canceled": false,
+      "content": "",
+      "note": "",
+      "eventUrl": "",
+      "id": "a9b6796e-170a-4173-898a-492fcf0c6714"
     },
     {
       "date": "2026-03-21T00:00:00",
@@ -15167,6 +15291,25 @@
       "content": "台中最特別的Bachata之夜，限會員參與，音樂100%Bachata！！\n欲了解會員詳情，請洽📞\n手機：0912760531 (Kevin)\n📲 LINE ID：kevindol",
       "note": "19:30-20:15 Bachata Lesson",
       "id": "25827b66-98b6-4785-b2a3-efcbe27c60f2"
+    },
+    {
+      "date": "2026-03-21T00:00:00",
+      "title": "La BA-SA Social",
+      "host": "la-salsa-taipei",
+      "locate": "la-salsa-taipei",
+      "startAt": "20:00",
+      "endAt": "00:00",
+      "rate": "Salsa:Bachata 50%:50%",
+      "types": [
+        "salsa on 2",
+        "bachata"
+      ],
+      "fee": "400 TWD",
+      "canceled": "",
+      "content": "",
+      "note": "",
+      "eventUrl": "",
+      "id": "76617e17-82a1-4627-9798-ce2a75b2e02a"
     },
     {
       "date": "2026-03-22T00:00:00",
@@ -15218,21 +15361,23 @@
       "fee": "250TWD (含一杯飲料)"
     },
     {
-      "id": "37e8a6d7-9afc-457b-9a60-2c2c82f56c1e",
-      "date": "2026-03-25T00:00:00.000Z",
-      "content": "",
+      "date": "2026-03-25T00:00:00",
       "title": "La Calle",
       "host": "leo",
       "locate": "the-venue",
-      "rate": "70% Salsa, 30% Chacha, Merengue, Reggaeton, Hiphop, R&B, Bachata",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
       "startAt": "21:30",
       "endAt": "00:30",
+      "rate": "mostly salsa",
+      "types": [
+        "salsa on 2",
+        "salsa on 1"
+      ],
       "fee": "250 TWD",
-      "note": ""
+      "canceled": false,
+      "content": "",
+      "note": "",
+      "eventUrl": "",
+      "id": "37e8a6d7-9afc-457b-9a60-2c2c82f56c1e"
     },
     {
       "id": "6d34ef98-1859-4ffb-a011-6c9e2e60242a",
@@ -15282,37 +15427,43 @@
       "note": ""
     },
     {
-      "id": "ef8ef213-4547-48e0-9411-4e54a37e3093",
-      "date": "2026-03-27T00:00:00.000Z",
-      "content": "Buddy Pass, 2 person $600 before 10pm",
+      "date": "2026-03-27T00:00:00",
       "title": "Flow Friday Social",
       "host": "flow-taipei",
       "locate": "flow-taipei",
-      "rate": "2S:3B + Zouk room",
+      "startAt": "21:00",
+      "endAt": "00:30",
+      "rate": "4B:2S + Zouk room",
       "types": [
         "salsa on 2",
         "bachata",
         "zouk"
       ],
-      "startAt": "21:00",
-      "endAt": "00:30",
-      "fee": "450 TWD or 1 flow point"
+      "fee": "450 TWD or 1 flow point",
+      "canceled": false,
+      "content": "Buddy Pass, 2 person $600 before 10pm",
+      "note": "",
+      "eventUrl": "",
+      "id": "ef8ef213-4547-48e0-9411-4e54a37e3093"
     },
     {
-      "id": "fdf230c7-9bb5-4294-8782-ea1d3dac60eb",
-      "date": "2026-03-27T00:00:00.000Z",
-      "content": "",
+      "date": "2026-03-27T00:00:00",
       "title": "Copa friday Social",
       "host": "copa-taiwan",
       "locate": "ba-basement",
-      "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
       "startAt": "21:30",
       "endAt": "00:40",
-      "fee": "300TWD"
+      "rate": "100% Salsa",
+      "types": [
+        "salsa on 2",
+        "salsa on 1"
+      ],
+      "fee": "300TWD",
+      "canceled": false,
+      "content": "",
+      "note": "",
+      "eventUrl": "",
+      "id": "fdf230c7-9bb5-4294-8782-ea1d3dac60eb"
     },
     {
       "date": "2026-03-29T00:00:00",
@@ -15365,21 +15516,23 @@
       "fee": "250TWD (含一杯飲料)"
     },
     {
-      "id": "acde2e68-0b5c-4ef1-b72d-430bfd06a86c",
-      "date": "2026-04-01T00:00:00.000Z",
-      "content": "",
+      "date": "2026-04-01T00:00:00",
       "title": "La Calle",
       "host": "leo",
       "locate": "the-venue",
-      "rate": "70% Salsa, 30% Chacha, Merengue, Reggaeton, Hiphop, R&B, Bachata",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
       "startAt": "21:30",
       "endAt": "00:30",
+      "rate": "mostly salsa",
+      "types": [
+        "salsa on 2",
+        "salsa on 1"
+      ],
       "fee": "250 TWD",
-      "note": ""
+      "canceled": false,
+      "content": "",
+      "note": "",
+      "eventUrl": "",
+      "id": "acde2e68-0b5c-4ef1-b72d-430bfd06a86c"
     },
     {
       "id": "92d863e2-2072-4dcc-b17b-4b33135e78cf",
@@ -15429,37 +15582,43 @@
       "note": ""
     },
     {
-      "id": "3fbdc2ed-c8ec-46bb-90d9-f2476d4de7fa",
-      "date": "2026-04-03T00:00:00.000Z",
-      "content": "Buddy Pass, 2 person $600 before 10pm",
+      "date": "2026-04-03T00:00:00",
       "title": "Flow Friday Social",
       "host": "flow-taipei",
       "locate": "flow-taipei",
-      "rate": "2S:3B + Zouk room",
+      "startAt": "21:00",
+      "endAt": "00:30",
+      "rate": "4B:2S + Zouk room",
       "types": [
         "salsa on 2",
         "bachata",
         "zouk"
       ],
-      "startAt": "21:00",
-      "endAt": "00:30",
-      "fee": "450 TWD or 1 flow point"
+      "fee": "450 TWD or 1 flow point",
+      "canceled": false,
+      "content": "Buddy Pass, 2 person $600 before 10pm",
+      "note": "",
+      "eventUrl": "",
+      "id": "3fbdc2ed-c8ec-46bb-90d9-f2476d4de7fa"
     },
     {
-      "id": "aece65f0-c9db-49dd-8cab-ba8f5bba24ec",
-      "date": "2026-04-03T00:00:00.000Z",
-      "content": "",
+      "date": "2026-04-03T00:00:00",
       "title": "Copa friday Social",
       "host": "copa-taiwan",
       "locate": "ba-basement",
-      "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
       "startAt": "21:30",
       "endAt": "00:40",
-      "fee": "300TWD"
+      "rate": "100% Salsa",
+      "types": [
+        "salsa on 2",
+        "salsa on 1"
+      ],
+      "fee": "300TWD",
+      "canceled": false,
+      "content": "",
+      "note": "",
+      "eventUrl": "",
+      "id": "aece65f0-c9db-49dd-8cab-ba8f5bba24ec"
     },
     {
       "id": "6187ccee-c591-4f26-bdd3-c11b5458b184",
@@ -20764,7 +20923,7 @@
       "classes": [
         {
           "type": "salsa",
-          "name": "Salsa Lv1",
+          "name": "Salsa Lv2.1",
           "weekday": "monday",
           "level": "beginner",
           "time": "19:15-20:30",
@@ -20782,12 +20941,20 @@
         },
         {
           "type": "salsa",
-          "name": "Salsa Lv2.2",
-          "weekday": "wednesday",
+          "name": "Spinning techniq & body movement",
+          "weekday": "tuesday",
           "level": "intermediate",
           "time": "19:15-20:30",
           "chosen": false,
           "selected": false
+        },
+        {
+          "weekday": "wednesday",
+          "time": "19:15-20:30",
+          "name": "Salsa Lv3.1",
+          "type": "salsa",
+          "level": "intermediate",
+          "chosen": false
         },
         {
           "type": "salsa",
@@ -20827,7 +20994,7 @@
         },
         {
           "type": "salsa",
-          "name": "Salsa Lv3.1",
+          "name": "Salsa Lv3.2",
           "weekday": "saturday",
           "level": "intermediate",
           "time": "15:00-16:20",
@@ -20837,7 +21004,7 @@
         {
           "weekday": "saturday",
           "type": "salsa",
-          "name": "Salsa Lv2.1",
+          "name": "Salsa Lv2.2",
           "level": "beginner",
           "time": "16:30-17:50",
           "chosen": false,
@@ -20863,10 +21030,18 @@
         },
         {
           "weekday": "sunday",
+          "time": "15:00-16:15",
+          "name": "Dominican Bachata",
+          "type": "bachata",
+          "level": "beginner",
+          "chosen": false
+        },
+        {
+          "weekday": "sunday",
           "type": "bachata",
           "name": "Bachata Lv3",
           "level": "intermediate",
-          "time": "16:30-17:50",
+          "time": "16:30-17:45",
           "chosen": false,
           "selected": false
         }
@@ -21125,119 +21300,161 @@
           "type": "salsa",
           "name": "Salsa Lv2",
           "level": "beginner",
-          "time": "19:20-20:30"
+          "time": "19:20-20:30",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "monday",
           "type": "salsa",
           "name": "Salsa Lv3",
           "level": "intermediate",
-          "time": "19:20-20:30"
+          "time": "19:20-20:30",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "monday",
           "type": "salsa",
           "name": "Salsa Adv.",
           "level": "advanced",
-          "time": "20:30-21:40"
+          "time": "20:30-21:40",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "tuesday",
           "type": "salsa",
-          "name": "Salsa Intro",
+          "name": "Salsa Lv1",
           "level": "beginner",
-          "time": "19:20-20:30"
+          "time": "19:20-20:30",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "tuesday",
           "type": "bachata",
           "name": "Bachata Lv4",
           "level": "intermediate",
-          "time": "19:20-20:30"
+          "time": "19:20-20:30",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "tuesday",
           "type": "bachata",
           "name": "Bachata Adv.",
           "level": "advanced",
-          "time": "20:30-21:40"
+          "time": "20:30-21:40",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "wednesday",
           "type": "salsa",
-          "name": "Salsa Lv1",
+          "name": "Salsa Intro",
           "level": "beginner",
-          "time": "19:20-20:30"
+          "time": "19:20-20:30",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "wednesday",
           "type": "bachata",
           "name": "Bachata Lady Styling",
           "level": "open-lv",
-          "time": "19:20-20:30"
+          "time": "19:20-20:30",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "wednesday",
           "type": "bachata",
           "name": "Bachata Lv2B",
           "level": "beginner",
-          "time": "20:40-22:00"
+          "time": "20:40-22:00",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "thursday",
           "type": "bachata",
           "name": "Bachata Lv2B",
           "level": "beginner",
-          "time": "19:20-20:30"
+          "time": "19:20-20:30",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "thursday",
           "type": "bachata",
           "name": "Bachata Lv3",
           "level": "intermediate",
-          "time": "19:20-20:30"
+          "time": "19:20-20:30",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "thursday",
           "type": "salsa",
           "name": "Salsa Lv1",
           "level": "beginner",
-          "time": "20:30-21:40"
+          "time": "20:30-21:40",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "friday",
           "type": "bachata",
           "name": "Bachata Lv2A",
           "level": "beginner",
-          "time": "19:20-20:30"
+          "time": "19:20-20:30",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "friday",
           "type": "bachata",
           "name": "Bachata Lv1",
           "level": "beginner",
-          "time": "20:30-21:40"
+          "time": "20:30-21:40",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "weekday": "saturday",
+          "time": "13:30-14:40",
+          "name": "Bachata Intro",
+          "type": "bachata",
+          "level": "beginner",
+          "chosen": false
         },
         {
           "weekday": "saturday",
           "type": "salsa",
           "name": "Salsa Shine",
           "level": "open-lv",
-          "time": "14:00-15:00"
+          "time": "14:00-15:00",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "saturday",
           "type": "bachata",
-          "name": "Bachata Intro",
+          "name": "Bachata Lv1",
           "level": "beginner",
-          "time": "15:00-16:10"
+          "time": "15:00-16:10",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "saturday",
           "type": "salsa",
           "level": "beginner",
           "name": "Salsa Intro",
-          "time": "15:20-16:30"
+          "time": "15:20-16:30",
+          "chosen": false,
+          "selected": false
         }
       ],
       "solo": false,
@@ -21811,11 +22028,12 @@
       "hide": false,
       "solo": true,
       "city": "taipei",
-      "thumbnail": "/organizers/noya.png",
-      "content": "Noya 自幼接受舞蹈科班訓練，並在拉丁音樂的環境中長大— 她的父親是知名鼓手小白老師，從小耳濡目染，對節奏與音樂有特別敏銳的感受力。自 2021 年起，Noya深入學習 Salsa 與其文化脈絡，發展出自然流暢、兼具邏輯與能量的教學風格。\n私課，團訓，小班制課程皆可預約，請直接私訊Noya IG預約時間，感謝！",
+      "thumbnail": "data:image/png;base64,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",
+      "content": "Noya 自幼接受舞蹈科班訓練，並在拉丁音樂的環境中長大— 她的父親是知名鼓手小白老師，從小耳濡目染，對節奏與音樂有特別敏銳的感受力。自 2021 年起，Noya深入學習 Salsa 與其文化脈絡，發展出自然流暢、兼具邏輯與能量的教學風格。\n經歷：\n2024 Singapore Dance League 亞洲資格賽 Salsa 業餘女子冠軍（新加坡）\n2024 Berardi Mambo On2 Dancer Program 證書認證舞者（新加坡）\n私課，團訓，小班制課程皆可預約，請直接私訊Noya IG預約時間，感謝！",
       "links": [
         {
-          "type": "instagram"
+          "type": "instagram",
+          "url": "https://www.instagram.com/noyalee?igsh=MTh4MDVwanJ2eXc2ag%3D%3D&utm_source=qr"
         }
       ],
       "classes": [
@@ -21824,7 +22042,25 @@
           "type": "salsa",
           "name": "Salsa Shine",
           "level": "open-lv",
-          "time": "19:30-20:30"
+          "time": "7:30~8:30 pm",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "weekday": "monday",
+          "time": "7:30~8:30 pm",
+          "name": "Salsa Shine（桃園）",
+          "type": "salsa",
+          "level": "beginner",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "weekday": "sunday",
+          "time": "2:00-3:15 pm",
+          "name": "Noya& Jinwei SalsaPartnerwork雙人課（桃園）",
+          "type": "salsa",
+          "level": "beginner"
         }
       ],
       "related": []
@@ -21835,7 +22071,7 @@
       "hide": false,
       "solo": true,
       "city": "taipei",
-      "thumbnail": "/organizers/patty.png",
+      "thumbnail": "https://ik.imagekit.io/8bhpp1r3a/patty_Uyi0CH7cG.png",
       "content": "追尋力與美的旅程中，我持續鍛鍊、磨練成長，淬鍊自我，邁向更美好的自己，成就無限可能！",
       "links": [
         {
@@ -21978,30 +22214,38 @@
         {
           "weekday": "monday",
           "type": "salsa",
-          "name": "Salsa Lv1",
-          "level": "beginner",
-          "time": "19:45-20:45"
+          "name": "Salsa Jr. Team Training",
+          "level": "intermediate",
+          "time": "19:45-20:45",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "monday",
           "type": "salsa",
           "name": "Salsa Team Training",
-          "level": "intermediate",
-          "time": "20:50-22:30"
+          "level": "advanced",
+          "time": "20:50-22:30",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "thursday",
           "type": "salsa",
-          "name": "Salsa Lv1",
+          "name": "Salsa Lv2",
           "level": "beginner",
-          "time": "20:30-21:30"
+          "time": "20:30-21:30",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "saturday",
           "type": "salsa",
           "name": "Salsa Team Training",
           "level": "intermediate",
-          "time": "10:00-11:30"
+          "time": "10:00-11:30",
+          "chosen": false,
+          "selected": false
         }
       ],
       "related": [
