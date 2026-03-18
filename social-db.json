@@ -15192,6 +15192,26 @@
       "id": "7424e145-d4bf-4b09-b088-45cdcac6a750"
     },
     {
+      "date": "2026-03-14T00:00:00",
+      "title": "生日派對X騷莎狂歡夜",
+      "host": "w-social",
+      "locate": "w-social",
+      "startAt": "19:00",
+      "endAt": "22:00",
+      "rate": "SBZ",
+      "types": [
+        "salsa on 2",
+        "bachata",
+        "zouk"
+      ],
+      "fee": "For free",
+      "canceled": false,
+      "content": "19:00 - 19:40【美食開箱 & 暖身交流】\n19:40 - 20:00【破冰時刻：歡樂拉丁舞教學】\n20:00 - 20:50【Salsa 社交舞會時間】\n20:50 - 21:00【全場焦點：壽星 LED火舞大秀】\n21:00 - 21:20【壽星許願、切蛋糕、圈圈舞、拍大合照】\n21:20 - 22:00【自由共舞 & 歡樂收尾】",
+      "note": "【 3/14 ！騷莎生日派對 x 一人一菜 】\nSanti生日包場派對\n邀請大家一起來跳舞、聽音樂、吃美食\n再加碼壽星專屬表演！✨\n\n💰 費用：完全免費 Free！\n📅 3/14 (六) \n      19:00 - 22:00\n📍 臺中市中區中華路一段99號 地下室\nhttps://maps.app.goo.gl/rfTPp8WTNgc9v6ys9?g_st=ic\n（卡利歐蒙 Kariomon Coffee）\n\n🍽️ 一人一菜大集會：大家帶一份自己最愛的食物來，約 2-3 人份的食物或飲料，湊成最狂的百匯大餐！🌮🍕🥗\n\n詳細活動內容👉https://www.facebook.com/share/14VrPuSpSPY/",
+      "eventUrl": "https://www.facebook.com/share/14VrPuSpSPY/",
+      "id": "7601d8f1-0ece-4db9-b211-2f82c3eb96d9"
+    },
+    {
       "date": "2026-03-15T00:00:00",
       "title": "Salsa Party",
       "host": "copa-taiwan",
@@ -15304,19 +15324,22 @@
       "id": "d904c802-a4b1-4a13-9b7c-52a9397792b2"
     },
     {
-      "id": "ebe9b06a-1f8c-4a8e-9ed5-2af4e6bfe440",
-      "date": "2026-03-19T00:00:00.000Z",
-      "content": "",
+      "date": "2026-03-19T00:00:00",
       "title": "Barcade Bachata Night",
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
+      "startAt": "21:00",
+      "endAt": "01:00",
       "rate": "100% Bachata",
       "types": [
         "bachata"
       ],
-      "startAt": "21:00",
-      "endAt": "01:00",
-      "fee": "250TWD (含一杯飲料)"
+      "fee": "300TWD (含一杯飲料)",
+      "canceled": false,
+      "content": "",
+      "note": "",
+      "eventUrl": "",
+      "id": "ebe9b06a-1f8c-4a8e-9ed5-2af4e6bfe440"
     },
     {
       "id": "cad4b045-062a-43fe-b684-5e10dc1507c1",
@@ -15461,6 +15484,44 @@
       "id": "f252a3a4-64eb-4635-8e90-eecf9938e28d"
     },
     {
+      "date": "2026-03-21T00:00:00",
+      "title": "月度騷莎動舞會",
+      "host": "salsaton",
+      "locate": "leaploom",
+      "startAt": "18:30",
+      "endAt": "22:30",
+      "rate": "Salsa / Bachata",
+      "types": [
+        "salsa on 2",
+        "bachata"
+      ],
+      "fee": "400 TWD",
+      "canceled": false,
+      "content": "",
+      "note": "",
+      "eventUrl": "https://www.instagram.com/p/DViQoJjk6pb/?igsh=dWx1b3g0em9mOW1r",
+      "id": "5b906885-ae89-427a-81a0-e077668f01fa"
+    },
+    {
+      "date": "2026-03-21T00:00:00",
+      "title": "Taipei BKK Night",
+      "host": "meet-kiz-taiwan",
+      "locate": "vana-taipei",
+      "startAt": "20:30",
+      "endAt": "23:30",
+      "rate": "Bachata / Kizomba / Konpa",
+      "types": [
+        "bachata",
+        "kizomba"
+      ],
+      "fee": "350 TWD",
+      "canceled": "",
+      "content": "",
+      "note": "",
+      "eventUrl": "",
+      "id": "8adc6d19-4538-4eb5-964b-695022814b26"
+    },
+    {
       "date": "2026-03-22T00:00:00",
       "title": "Bailalo Sunday Social",
       "host": "bailalo-dance-studio",
@@ -15496,6 +15557,26 @@
       "note": "",
       "eventUrl": "",
       "id": "d5d38883-1fc5-4fd5-b9e0-38f347fcf4bb"
+    },
+    {
+      "date": "2026-03-22T00:00:00",
+      "title": "Fiesta del Taco Latin Dance Party @ Tacos n Taps",
+      "host": "ntnu-latin-dance",
+      "locate": "maji-square",
+      "startAt": "17:30",
+      "endAt": "21:00",
+      "rate": "",
+      "types": [
+        "salsa on 1",
+        "bachata",
+        "cuban salsa"
+      ],
+      "fee": "50",
+      "canceled": false,
+      "content": "在MAJI的Tacos n Taps一起過Fiesta del Taco: 跳舞、吃墨西哥菜、聊聊天！",
+      "note": "Cuban salsa, reggaeton, quebradita & more!\nFrozen margaritas buy one get one free",
+      "eventUrl": "https://www.instagram.com/p/DVVSIc8km7k/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "id": "a09a0b89-65a1-4c20-958c-f61a0ade02c6"
     },
     {
       "id": "d7cac097-95a5-49bb-986a-fc1fae61fdb7",
@@ -15549,19 +15630,22 @@
       "id": "37e8a6d7-9afc-457b-9a60-2c2c82f56c1e"
     },
     {
-      "id": "6d34ef98-1859-4ffb-a011-6c9e2e60242a",
-      "date": "2026-03-26T00:00:00.000Z",
-      "content": "",
+      "date": "2026-03-26T00:00:00",
       "title": "Barcade Bachata Night",
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
+      "startAt": "21:00",
+      "endAt": "01:00",
       "rate": "100% Bachata",
       "types": [
         "bachata"
       ],
-      "startAt": "21:00",
-      "endAt": "01:00",
-      "fee": "250TWD (含一杯飲料)"
+      "fee": "300TWD (含一杯飲料)",
+      "canceled": false,
+      "content": "",
+      "note": "",
+      "eventUrl": "",
+      "id": "6d34ef98-1859-4ffb-a011-6c9e2e60242a"
     },
     {
       "id": "fa343428-0649-4957-aa90-c36d804a624a",
@@ -15779,19 +15863,22 @@
       "id": "acde2e68-0b5c-4ef1-b72d-430bfd06a86c"
     },
     {
-      "id": "92d863e2-2072-4dcc-b17b-4b33135e78cf",
-      "date": "2026-04-02T00:00:00.000Z",
-      "content": "",
+      "date": "2026-04-02T00:00:00",
       "title": "Barcade Bachata Night",
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
+      "startAt": "21:00",
+      "endAt": "01:00",
       "rate": "100% Bachata",
       "types": [
         "bachata"
       ],
-      "startAt": "21:00",
-      "endAt": "01:00",
-      "fee": "250TWD (含一杯飲料)"
+      "fee": "300TWD (含一杯飲料)",
+      "canceled": false,
+      "content": "",
+      "note": "",
+      "eventUrl": "",
+      "id": "92d863e2-2072-4dcc-b17b-4b33135e78cf"
     },
     {
       "id": "c5a00f72-2ef6-4d6f-9e69-a2aeb34c92ba",
@@ -15903,6 +15990,25 @@
       "id": "2bec6faa-d6ad-48ab-a07f-a555cae7f203"
     },
     {
+      "date": "2026-04-04T00:00:00",
+      "title": "La Happy Hour",
+      "host": "la-salsa-taipei",
+      "locate": "la-salsa-taipei",
+      "startAt": "20:00",
+      "endAt": "00:00",
+      "rate": "Salsa:Bachata 50%:50%",
+      "types": [
+        "salsa on 2",
+        "bachata"
+      ],
+      "fee": "400 TWD",
+      "canceled": false,
+      "content": "",
+      "note": "9pm前入場 兩人同行 一人免費",
+      "eventUrl": "",
+      "id": "eda54dfd-4a16-46e7-a916-b3e251cad5cd"
+    },
+    {
       "id": "6187ccee-c591-4f26-bdd3-c11b5458b184",
       "date": "2026-04-05T00:00:00.000Z",
       "content": "",
@@ -15970,19 +16076,22 @@
       "note": ""
     },
     {
-      "id": "512bc8c9-d495-4c2f-a279-65e7f6b5eaed",
-      "date": "2026-04-09T00:00:00.000Z",
-      "content": "",
+      "date": "2026-04-09T00:00:00",
       "title": "Barcade Bachata Night",
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
+      "startAt": "21:00",
+      "endAt": "01:00",
       "rate": "100% Bachata",
       "types": [
         "bachata"
       ],
-      "startAt": "21:00",
-      "endAt": "01:00",
-      "fee": "250TWD (含一杯飲料)"
+      "fee": "300TWD (含一杯飲料)",
+      "canceled": false,
+      "content": "",
+      "note": "",
+      "eventUrl": "",
+      "id": "512bc8c9-d495-4c2f-a279-65e7f6b5eaed"
     },
     {
       "id": "aba816d2-c715-4abd-b323-d4f54c6080ab",
@@ -16135,19 +16244,22 @@
       "note": ""
     },
     {
-      "id": "0f691dbd-bb2e-4c52-9750-1ffc3003d92e",
-      "date": "2026-04-16T00:00:00.000Z",
-      "content": "",
+      "date": "2026-04-16T00:00:00",
       "title": "Barcade Bachata Night",
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
+      "startAt": "21:00",
+      "endAt": "01:00",
       "rate": "100% Bachata",
       "types": [
         "bachata"
       ],
-      "startAt": "21:00",
-      "endAt": "01:00",
-      "fee": "250TWD (含一杯飲料)"
+      "fee": "300TWD (含一杯飲料)",
+      "canceled": false,
+      "content": "",
+      "note": "",
+      "eventUrl": "",
+      "id": "0f691dbd-bb2e-4c52-9750-1ffc3003d92e"
     },
     {
       "id": "2d3ae74f-6683-4d9a-8df1-13a352c84670",
@@ -16213,6 +16325,25 @@
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "300TWD"
+    },
+    {
+      "date": "2026-04-18T00:00:00",
+      "title": "La BA-SA Social",
+      "host": "la-salsa-taipei",
+      "locate": "la-salsa-taipei",
+      "startAt": "20:00",
+      "endAt": "00:00",
+      "rate": "Salsa:Bachata 50%:50%",
+      "types": [
+        "salsa on 2",
+        "bachata"
+      ],
+      "fee": "400 TWD",
+      "canceled": false,
+      "content": "",
+      "note": "",
+      "eventUrl": "",
+      "id": "4084884f-9648-428f-bd2e-e876d6ee66e6"
     },
     {
       "date": "2026-04-19T00:00:00",
@@ -16362,6 +16493,44 @@
       "fee": "300TWD"
     },
     {
+      "date": "2026-04-25T00:00:00",
+      "title": "La Bachata Social",
+      "host": "la-salsa-taipei",
+      "locate": "la-salsa-taipei",
+      "startAt": "20:00",
+      "endAt": "00:00",
+      "rate": "Salsa:Bachata 30%:70%",
+      "types": [
+        "salsa on 2",
+        "bachata"
+      ],
+      "fee": "400 TWD",
+      "canceled": false,
+      "content": "",
+      "note": "",
+      "eventUrl": "",
+      "id": "b7815230-8de4-400d-96fe-6b5f5a3d5510"
+    },
+    {
+      "date": "2026-04-26T00:00:00",
+      "title": "iZØUK 4/26 Sunny Side 敦化 20:00~23:30",
+      "host": "finn",
+      "locate": "sunny-side",
+      "startAt": "20:00",
+      "endAt": "23:30",
+      "rate": "100% zouk / lambada",
+      "types": [
+        "zouk",
+        "lambada"
+      ],
+      "fee": "350 TWD",
+      "canceled": false,
+      "content": "👉 English version is below the Chinese version.\n\n✨ iZØUK – 100% Zouk / Lambada Social Party（中文版） ✨\n\n📅 時間：4/26（週日）20:00–23:30\n📍 地點：Sunny Side 敦化\n台北市大安區敦化南路一段205號4樓之6\n⚠️ 注意：實際在建築的 4 樓，但電梯按鈕是「5」樓，請按電梯 5 樓！\n🔗 Google 地圖（建議）：https://www.google.com/maps/search/?api=1&query=Sunny%20Side%20%E6%95%A6%E5%8C%96\n🔗 備用（大樓地址）：https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E6%95%A6%E5%8C%96%E5%8D%97%E8%B7%AF%E4%B8%80%E6%AE%B5205%E8%99%9F\n🎟️ 門票：NT$350\n🎧 DJ：Finn\n\n🕗 20:00–21:00 新手時光\n每首歌之間會有停頓、節奏清楚、速度較慢，\n讓大家在更友善的氛圍中暖身、熟悉舞步。\n大家一起早點到可以跳得更盡興！🥳\n\n💃🕺 希望 iZØUK 成為固定每月舞會，\n讓大家有更多機會相聚跳舞，\n也讓台北的 Zouk / Lambada 社群 更加活躍成長。\n\n🎉 歡迎新手加入，一起享受音樂與舞動！\n\n🙏 如果你喜歡 Zouk / Lambada，\n請幫忙分享活動資訊，讓更多朋友知道。\n謝謝大家 ❤️\n\n=================================\n\n✨ iZØUK – 100% Zouk / Lambada Social Party (English Version) ✨\n\n📅 Date & Time: Sun, Apr 26 · 8:00–11:30 PM\n📍 Venue: Sunny Side Dunhua\n4F-6, No. 205, Sec. 1, Dunhua South Rd., Da’an Dist., Taipei City\n⚠️ Note: The studio is on the building’s 4th floor, but the elevator button says “5F”. Please press 5 in the elevator!\n(Search “Sunny Side 敦化” on Google Maps for the exact location)\n🔗 Google Maps (recommended): https://www.google.com/maps/search/?api=1&query=Sunny%20Side%20%E6%95%A6%E5%8C%96\n🔗 Backup (building address): https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E6%95%A6%E5%8C%96%E5%8D%97%E8%B7%AF%E4%B8%80%E6%AE%B5205%E8%99%9F\n🎟️ Entry: NT$350\n🎧 DJ: Finn\n\n🕗 8:00–9:00 PM – Beginner’s Hour\nSongs won’t be played back-to-back; tempo will be clear and slower,\ncreating a friendly atmosphere for everyone to warm up and get comfortable.\nCome early, dance longer, and enjoy the vibes! 🥳\n\n💃🕺 Our goal is for iZØUK to become a monthly social party,\ngiving everyone more chances to dance together,\nand to keep the Zouk / Lambada community in Taipei growing and thriving.\n\n🎉 Beginners are especially welcome to join and have fun with us!\n\n🙏 If you love Zouk / Lambada,\nplease help share this event so more friends can know about it.\nThank you for supporting the community ❤️",
+      "note": "",
+      "eventUrl": "https://www.facebook.com/share/1PKjYvGg8a/",
+      "id": "ca5956d8-f0a7-45ee-8c59-b078d760d4d4"
+    },
+    {
       "id": "b3625fdd-640c-47b1-9bee-91db8454c877",
       "date": "2026-04-27T00:00:00.000Z",
       "content": "",
@@ -16411,19 +16580,22 @@
       "note": ""
     },
     {
-      "id": "1ca23b4f-c401-4773-9a46-e824f69402f9",
-      "date": "2026-04-30T00:00:00.000Z",
-      "content": "",
+      "date": "2026-04-30T00:00:00",
       "title": "Barcade Bachata Night",
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
+      "startAt": "21:00",
+      "endAt": "01:00",
       "rate": "100% Bachata",
       "types": [
         "bachata"
       ],
-      "startAt": "21:00",
-      "endAt": "01:00",
-      "fee": "250TWD (含一杯飲料)"
+      "fee": "300TWD (含一杯飲料)",
+      "canceled": false,
+      "content": "",
+      "note": "",
+      "eventUrl": "",
+      "id": "1ca23b4f-c401-4773-9a46-e824f69402f9"
     },
     {
       "id": "4adedf60-4d7c-4cd6-a74a-e0947728ceaa",
@@ -16801,6 +16973,25 @@
       "fee": "300TWD"
     },
     {
+      "date": "2026-05-16T00:00:00",
+      "title": "iZØUK  5/16 ODORO 16:00~20:00",
+      "host": "finn",
+      "locate": "ba-basement",
+      "startAt": "16:00",
+      "endAt": "20:00",
+      "rate": "100% zouk / lambada",
+      "types": [
+        "zouk",
+        "lambada"
+      ],
+      "fee": "350 TWD",
+      "canceled": false,
+      "content": "👉 English version is below the Chinese version.\n\n✨ iZØUK Evening – 100% Zouk / Lambada Social Party（中文版） ✨\n\n📅 時間：5/16（週六）16:00–20:00\n📍 地點：ODORO\n105臺北市松山區南京東路三段335巷5號B1\n\n🔗 Google 地圖：https://maps.app.goo.gl/PF7q7VUZmotQNxwE8\n\n🎟️ 門票：NT$350\n🎧 DJ：Finn\n\n🕗 16:00–17:00 新手時光\n每首歌之間會有停頓、節奏清楚、速度較慢，\n讓大家在更友善的氛圍中暖身、熟悉舞步。\n大家一起早點到可以跳得更盡興！🥳\n\n💃🕺 希望 iZØUK 成為固定每月舞會，\n讓大家有更多機會相聚跳舞，\n也讓台北的 Zouk / Lambada 社群 更加活躍成長。\n\n🎉 歡迎新手加入，一起享受音樂與舞動！\n\n🙏 如果你喜歡 Zouk / Lambada，\n請幫忙分享活動資訊，讓更多朋友知道。\n謝謝大家 ❤️\n\n=================================\n\n✨ iZØUK Evening – 100% Zouk / Lambada Social Party (English Version) ✨\n\n📅 Date & Time: Sat, May 16 · 4:00–8:00 PM\n📍 Venue: ODORO\nB1, No. 5, Lane 335, Section 3, Nanjing East Road, Songshan District, Taipei City 105, Taiwan\n\n🔗 Google Maps : https://maps.app.goo.gl/PF7q7VUZmotQNxwE8\n\n🎟️ Entry: NT$350\n🎧 DJ: Finn\n\n🕗 4:00 – 5:00 PM – Beginner’s Hour\nSongs won’t be played back-to-back; tempo will be clear and slower,\ncreating a friendly atmosphere for everyone to warm up and get comfortable.\nCome early, dance longer, and enjoy the vibes! 🥳\n\n💃🕺 Our goal is for iZØUK to become a monthly social party,\ngiving everyone more chances to dance together,\nand to keep the Zouk / Lambada community in Taipei growing and thriving.\n\n🎉 Beginners are especially welcome to join and have fun with us!\n\n🙏 If you love Zouk / Lambada,\nplease help share this event so more friends can know about it.\nThank you for supporting the community ❤️",
+      "note": "",
+      "eventUrl": "https://www.facebook.com/share/18K62EjYBs/",
+      "id": "7985cb5a-865d-4b1e-a2fa-b9ffcb0c6a57"
+    },
+    {
       "date": "2026-05-17T00:00:00",
       "title": "Bailalo Sunday Social",
       "host": "bailalo-dance-studio",
@@ -16946,6 +17137,24 @@
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "300TWD"
+    },
+    {
+      "date": "2026-05-23T00:00:00",
+      "title": "Drop Da Hustl Vol.5",
+      "host": "hustlehustletw",
+      "locate": "flow-taipei",
+      "startAt": "20:00",
+      "endAt": "11:30",
+      "rate": "hustle 100%",
+      "types": [
+        "hustle"
+      ],
+      "fee": "450",
+      "canceled": "",
+      "content": "",
+      "note": "雙人同行 750",
+      "eventUrl": "",
+      "id": "ea36f1ba-04a9-452f-95c8-a24594b51e69"
     },
     {
       "date": "2026-05-24T00:00:00",
@@ -21419,98 +21628,133 @@
           "type": "bachata",
           "name": "Bachata Lv1",
           "level": "beginner",
-          "time": "19:30-20:30"
+          "time": "19:30-20:30",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "monday",
           "type": "bachata",
           "name": "Bachata Lv2",
           "level": "beginner",
-          "time": "20:45-21:45"
+          "time": "20:45-21:45",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "monday",
           "type": "bachata",
           "name": "Bachata Intermediate",
           "level": "intermediate",
-          "time": "20:45-21:45"
+          "time": "20:45-21:45",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "tuesday",
           "type": "salsa",
           "name": "Afro",
           "level": "open-lv",
-          "time": "19:30-20:30"
+          "time": "19:30-20:30",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "tuesday",
           "type": "bachata",
           "name": "Bachata Lv3",
           "level": "intermediate",
-          "time": "19:30-20:30"
+          "time": "19:30-20:30",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "tuesday",
           "type": "bachata",
           "name": "Bachata Solo Styling",
           "level": "open-lv",
-          "time": "20:45-21:45"
+          "time": "20:45-21:45",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "tuesday",
           "type": "salsa",
-          "name": "Salsa Adv.",
-          "level": "advanced",
-          "time": "20:45-21:45"
+          "name": "Salsa Intermediate",
+          "level": "intermediate",
+          "time": "20:45-21:45",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "wednesday",
-          "type": "salsa",
-          "name": "Salsa 初期班 S3",
+          "time": "20:45-21:45",
+          "name": "Lambada Lv1",
+          "type": "lambada",
           "level": "beginner",
-          "time": "19:30-20:30"
+          "chosen": false
         },
         {
           "weekday": "thursday",
           "type": "zouk",
-          "name": "Zouk Lv2.5",
+          "name": "Zouk Intermediate 1.5",
           "level": "intermediate",
-          "time": "19:30-20:30"
+          "time": "19:30-20:30",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "thursday",
           "type": "zouk",
           "name": "Zouk Lv3",
           "level": "intermediate",
-          "time": "19:30-20:30"
+          "time": "19:30-20:30",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "thursday",
           "type": "salsa",
           "name": "Salsa Bodymovement & Footwork Drills",
           "level": "open-lv",
-          "time": "19:30-20:30"
+          "time": "19:30-20:30",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "weekday": "thursday",
+          "time": "20:45-21:45",
+          "name": "Zouk Lv1",
+          "type": "zouk",
+          "level": "beginner",
+          "chosen": false
         },
         {
           "weekday": "thursday",
           "type": "zouk",
-          "name": "Zouk PartnerWork",
+          "name": "Zouk Intermidiate 3",
           "level": "intermediate",
-          "time": "20:45-21:45"
+          "time": "20:45-21:45",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "friday",
           "type": "zouk",
           "name": "Zouk Lv2",
           "level": "beginner",
-          "time": "20:00-21:00"
+          "time": "20:00-21:00",
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "friday",
           "type": "bachata",
           "name": "Bachata Trendy Social Moves",
           "level": "intermediate",
-          "time": "19:30-20:30"
+          "time": "19:30-20:30",
+          "chosen": false,
+          "selected": false
         }
       ],
       "solo": false,
@@ -21621,12 +21865,11 @@
         },
         {
           "weekday": "tuesday",
-          "type": "salsa",
-          "name": "Salsa Lv1",
-          "level": "beginner",
           "time": "19:20-20:30",
-          "chosen": false,
-          "selected": false
+          "name": "Bachata Intro",
+          "type": "bachata",
+          "level": "beginner",
+          "chosen": false
         },
         {
           "weekday": "tuesday",
@@ -21666,8 +21909,8 @@
         },
         {
           "weekday": "wednesday",
-          "type": "bachata",
-          "name": "Bachata Lv2B",
+          "type": "salsa",
+          "name": "Salsa Intro",
           "level": "beginner",
           "time": "20:40-22:00",
           "chosen": false,
@@ -21724,7 +21967,8 @@
           "name": "Bachata Intro",
           "type": "bachata",
           "level": "beginner",
-          "chosen": false
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "saturday",
@@ -21819,10 +22063,20 @@
       "id": "ntnu-latin-dance",
       "name": "NTNU Latin Dance",
       "city": "taipei",
-      "thumbnail": "",
-      "content": "",
+      "thumbnail": "https://ik.imagekit.io/8bhpp1r3a/Logo_white_no_background__neDXl3hpx.PNG",
+      "content": "我們是台師大的拉丁舞社，最近主要跳的是Cuban salsa / Rueda！也可以體驗merengue、urban bachata、cumbia等風格~\n我們成立此社團的目的為提供體驗拉丁美洲文化的機會，而且無論經濟情況給所有學生一個機會來從零學舞蹈\nWe are the NTNU Latin Dance Club--a place to learn Cuban salsa, merengue, urban bachata, cumbia and more!\nWe founded this club to give people an opportunity to experience Latin American culture and allow all students to learn dance regardless of their level and economic situation.",
       "links": [],
-      "classes": [],
+      "classes": [
+        {
+          "weekday": "tuesday",
+          "time": "19:00-21:30pm",
+          "name": "Cuban Salsa & Rueda",
+          "type": "salsa",
+          "level": "intermediate",
+          "chosen": false,
+          "selected": false
+        }
+      ],
       "solo": false,
       "hide": false,
       "related": []
