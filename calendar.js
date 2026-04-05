@@ -100,6 +100,7 @@ function calendarEventAdapter(data) {
     summary: data.title,
     location: data.locateName,
     description: description(),
+    transparency: "transparent",
     start: {
       dateTime: startDateTime.format(),
     },
