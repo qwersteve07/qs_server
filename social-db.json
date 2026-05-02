@@ -7245,6 +7245,18 @@
       "related": []
     },
     {
+      "id": "jeremy",
+      "name": "Jeremy.C",
+      "hide": false,
+      "solo": true,
+      "city": "taipei",
+      "thumbnail": "/organizers/jeremy.png",
+      "content": "",
+      "links": [],
+      "classes": [],
+      "related": []
+    },
+    {
       "id": "leo",
       "name": "Leo",
       "hide": false,
