@@ -6,6 +6,8 @@ import isSameOrAfter from "dayjs/plugin/isSameOrAfter.js";
 import { sortEventsMethod } from "../utils/sortEvents.js";
 import { JSONFilePreset } from "lowdb/node";
 import { socialDanceUsers } from "../social-dance-user.js";
+import googleCalendar from "../calendar.js";
+
 dayjs.extend(isSameOrAfter);
 
 const socialData = { events: [], organizers: [] };
@@ -203,8 +205,19 @@ const createEvent = async (ctx) => {
   }
 
   const body = ctx.request.body;
+
+  const parseBody = JSON.parse(body);
+
+  const calendarEventData = googleCalendar.calendarEventAdapter(parseBody);
+
+  const calendarEventResult = await googleCalendar.createCalendarEvent(
+    calendarEventData,
+    parseBody.area,
+  );
+
   const newData = {
-    ...JSON.parse(body),
+    ...parseBody,
+    calendarEventId: calendarEventResult.id,
     id: uuidv4(),
   };
 
@@ -239,7 +252,17 @@ const updateEvent = async (ctx) => {
     return;
   }
 
-  const result = writeEventsData({ ...JSON.parse(body), id });
+  const parseBody = JSON.parse(body);
+
+  const calendarEventData = googleCalendar.calendarEventAdapter(parseBody);
+
+  await googleCalendar.updateCalendarEvent(
+    target.calendarEventId,
+    calendarEventData,
+    parseBody.area,
+  );
+
+  const result = writeEventsData({ ...parseBody, id });
   ctx.status = 201;
   ctx.body = { result };
 };
@@ -259,6 +282,13 @@ const deleteEvent = async (ctx) => {
     ctx.body = { result: "event not found" };
     return;
   }
+
+  const targetEvent = eventsData.find((event) => event.id === id);
+
+  await googleCalendar.deleteCalendarEvent(
+    targetEvent.calendarEventId,
+    targetEvent.area,
+  );
 
   const result = deleteEventsData(targetIndex);
   ctx.status = 201;
