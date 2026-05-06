@@ -7803,7 +7803,7 @@
         },
         {
           "type": "salsa",
-          "name": "Salsa Advance",
+          "name": "Salsa Lv5",
           "weekday": "monday",
           "level": "advanced",
           "time": "20:40-22:00",
@@ -7825,7 +7825,8 @@
           "name": "Salsa Lv3.1",
           "type": "salsa",
           "level": "intermediate",
-          "chosen": false
+          "chosen": false,
+          "selected": false
         },
         {
           "type": "salsa",
@@ -7857,7 +7858,7 @@
         {
           "weekday": "friday",
           "type": "zouk",
-          "name": "Zouk Team Training",
+          "name": "Zouk Advanced",
           "level": "advanced",
           "time": "20:40-22:00",
           "chosen": false,
@@ -7865,7 +7866,7 @@
         },
         {
           "type": "salsa",
-          "name": "Salsa Lv3.2",
+          "name": "Salsa Lv1",
           "weekday": "saturday",
           "level": "intermediate",
           "time": "15:00-16:20",
@@ -7905,7 +7906,8 @@
           "name": "Dominican Bachata",
           "type": "bachata",
           "level": "beginner",
-          "chosen": false
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "sunday",
@@ -7970,9 +7972,9 @@
         },
         {
           "id": "a86af353-1003-4354-85ec-5eacd13ae107",
-          "thumbnail": "https://ik.imagekit.io/8bhpp1r3a/2026_COPA_Friday__19__NF_MZ3JR9.jpg",
+          "thumbnail": "https://ik.imagekit.io/8bhpp1r3a/copa_taiwan_logo-final-02_hC7KPQ4tU.png",
           "name": "COPA Salsa Friday | Weekly Social Party",
-          "content": "每周五晚上在台北固定舉辦的100% Salsa Party\n100% Salsa social party held every Friday night in Taipei\n\n√ Big room : 100% Salsa Room\n√ Side Room : Beginner-Friendly Zone + Taxi Dancers\n📅EVERY FRIDAY\n📍ODORO\n🎟️$300",
+          "content": "每周五晚上在台北固定舉辦的100% Salsa Party\n100% Salsa social party held every Friday night in Taipei\n\n√ Big room : 100% Salsa Room\n√ Side Room : Beginner-Friendly Zone + Taxi Dancers\n📅EVERY FRIDAY\n🎟️$350\n📍Subject to change PLZ Follow our IG or Line group\nhttps://line.me/ti/g2/xdbD3VtTuYaR0vraolx2rTWvojZEkCPc0F5S0g?utm_source=invitation&utm_medium=link_copy&utm_campaign=default\n",
           "links": []
         }
       ],
@@ -8015,10 +8017,11 @@
         {
           "weekday": "monday",
           "time": "19:30-20:30",
-          "name": "Head Movement Training For Bachata",
+          "name": "Bachata Fusion 單人舞序",
           "type": "bachata",
           "level": "open-lv",
-          "chosen": false
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "monday",
@@ -8040,9 +8043,17 @@
         },
         {
           "weekday": "tuesday",
+          "time": "19:30-20:30",
+          "name": "Salsa con Afro",
           "type": "salsa",
-          "name": "Afro",
           "level": "open-lv",
+          "chosen": false
+        },
+        {
+          "weekday": "tuesday",
+          "type": "salsa",
+          "name": "Salsa Lv1",
+          "level": "beginner",
           "time": "19:30-20:30",
           "chosen": false,
           "selected": false
@@ -8076,12 +8087,28 @@
         },
         {
           "weekday": "wednesday",
+          "time": "19:30-20:30",
+          "name": "Pachanga & Funk專攻班",
+          "type": "salsa",
+          "level": "open-lv",
+          "chosen": false
+        },
+        {
+          "weekday": "wednesday",
           "time": "20:45-21:45",
           "name": "Lambada Lv1",
           "type": "lambada",
           "level": "beginner",
           "chosen": false,
           "selected": false
+        },
+        {
+          "weekday": "wednesday",
+          "time": "20:45-22:15",
+          "name": "Salsa Musicality Training",
+          "type": "salsa",
+          "level": "open-lv",
+          "chosen": false
         },
         {
           "weekday": "thursday",
@@ -8095,7 +8122,7 @@
         {
           "weekday": "thursday",
           "type": "zouk",
-          "name": "Zouk Lv3",
+          "name": "Zouk Lv3.5",
           "level": "intermediate",
           "time": "19:30-20:30",
           "chosen": false,
@@ -8103,46 +8130,28 @@
         },
         {
           "weekday": "thursday",
+          "time": "20:45-21:45",
+          "name": "Zouk Lv1.5",
+          "type": "zouk",
+          "level": "beginner",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "weekday": "thursday",
+          "type": "zouk",
+          "name": "Gui & Paloma Partnerwork",
+          "level": "advanced",
+          "time": "20:45-22:30",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "weekday": "friday",
           "type": "salsa",
-          "name": "Salsa Bodymovement & Footwork Drills",
+          "name": "Salsa Battle Training (Solo)",
           "level": "open-lv",
-          "time": "19:30-20:30",
-          "chosen": false,
-          "selected": false
-        },
-        {
-          "weekday": "thursday",
-          "time": "20:45-21:45",
-          "name": "Zouk Lv1",
-          "type": "zouk",
-          "level": "beginner",
-          "chosen": false,
-          "selected": false
-        },
-        {
-          "weekday": "thursday",
-          "type": "zouk",
-          "name": "Zouk Intermidiate 3",
-          "level": "intermediate",
-          "time": "20:45-21:45",
-          "chosen": false,
-          "selected": false
-        },
-        {
-          "weekday": "friday",
-          "type": "zouk",
-          "name": "Zouk Lv2",
-          "level": "beginner",
-          "time": "20:00-21:00",
-          "chosen": false,
-          "selected": false
-        },
-        {
-          "weekday": "friday",
-          "type": "bachata",
-          "name": "Bachata Trendy Social Moves",
-          "level": "intermediate",
-          "time": "19:30-20:30",
+          "time": "19:30-21:00",
           "chosen": false,
           "selected": false
         }
@@ -8228,8 +8237,8 @@
       "classes": [
         {
           "weekday": "monday",
-          "type": "salsa",
-          "name": "Salsa Lv2",
+          "type": "bachata",
+          "name": "Bachata Intro",
           "level": "beginner",
           "time": "19:20-20:30",
           "chosen": false,
@@ -8259,7 +8268,8 @@
           "name": "Bachata Intro",
           "type": "bachata",
           "level": "beginner",
-          "chosen": false
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "tuesday",
@@ -8282,7 +8292,7 @@
         {
           "weekday": "wednesday",
           "type": "salsa",
-          "name": "Salsa Intro",
+          "name": "Salsa Lv1B",
           "level": "beginner",
           "time": "19:20-20:30",
           "chosen": false,
@@ -8309,7 +8319,7 @@
         {
           "weekday": "thursday",
           "type": "bachata",
-          "name": "Bachata Lv2B",
+          "name": "Bachata Lv3A",
           "level": "beginner",
           "time": "19:20-20:30",
           "chosen": false,
@@ -8318,7 +8328,7 @@
         {
           "weekday": "thursday",
           "type": "bachata",
-          "name": "Bachata Lv3",
+          "name": "Bachata Lv3B",
           "level": "intermediate",
           "time": "19:20-20:30",
           "chosen": false,
@@ -8336,7 +8346,7 @@
         {
           "weekday": "friday",
           "type": "bachata",
-          "name": "Bachata Lv2A",
+          "name": "Bachata Lv2B",
           "level": "beginner",
           "time": "19:20-20:30",
           "chosen": false,
@@ -8345,7 +8355,7 @@
         {
           "weekday": "friday",
           "type": "bachata",
-          "name": "Bachata Lv1",
+          "name": "Bachata Lv2A",
           "level": "beginner",
           "time": "20:30-21:40",
           "chosen": false,
@@ -8354,7 +8364,7 @@
         {
           "weekday": "saturday",
           "time": "13:30-14:40",
-          "name": "Bachata Intro",
+          "name": "Bachata Lv1A",
           "type": "bachata",
           "level": "beginner",
           "chosen": false,
@@ -8372,7 +8382,7 @@
         {
           "weekday": "saturday",
           "type": "bachata",
-          "name": "Bachata Lv1",
+          "name": "Bachata Lv1B",
           "level": "beginner",
           "time": "15:00-16:10",
           "chosen": false,
@@ -8887,11 +8897,16 @@
       "hide": false,
       "solo": true,
       "city": "taipei",
-      "thumbnail": "/organizers/jeremy.png",
-      "content": "",
-      "links": [],
+      "content": "除了是Salsa/Bachata/Chachacha老師、舞者外，同時也是鋼琴樂手以及空手道教練、選手。\n父親為 Bass 樂手姜毓祐Jumbo老師，從小在拉丁與爵士音樂環境中成長，耳濡目染下接觸了鋼琴與舞蹈。\n因此擁有紮實的音樂基礎，對節奏與音樂結構有敏銳的掌握力，身體的肌肉控制與動作精準度要求很高。\n在教學上，擅長把複雜的節奏與動作拆解成簡單好懂的邏輯，幫助你真正聽懂音樂、抓到感覺。",
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/jeremy._.chiang"
+        }
+      ],
       "classes": [],
-      "related": []
+      "related": [],
+      "thumbnail": "https://ik.imagekit.io/8bhpp1r3a/jeremy_VrbMrPs_h.JPG"
     },
     {
       "id": "leo",
