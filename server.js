@@ -18,6 +18,7 @@ const port = 8080;
     "http://social-dance.tw",
     "http://localhost:8000",
     "http://localhost:3000",
+    "http://localhost:5173",
   ];
 
   app
