@@ -11,10 +11,7 @@
       "startAt": "20:00",
       "endAt": "00:00",
       "rate": "Bachata 60 / Salsa 40",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "fee": "300",
       "canceled": false,
       "content": "⚓ 參加軍艦趴的朋友有福了\n出示證明票根皆可享入場優惠200 NT （入場費300NT)",
@@ -33,10 +30,7 @@
       "startAt": "20:00",
       "endAt": "00:00",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "fee": "400 TWD",
       "canceled": false,
       "content": "",
@@ -52,10 +46,7 @@
       "startAt": "19:00",
       "endAt": "23:00",
       "rate": "",
-      "types": [
-        "bachata",
-        "salsa on 2"
-      ],
+      "types": ["bachata", "salsa on 2"],
       "fee": "350",
       "canceled": false,
       "content": "你看過 MLD 台鋁的書香與電影，但你體驗過台鋁小劇場的「拉丁微醺之夜」嗎？\n高雄騷莎動全新聯名企劃 「微光花磚 台鋁拉丁派對」 正式曝光！\n\n這一次，我們要把熱情的 Salsa 與 Bachata 帶進充滿重工業風的台鋁小劇場。抬頭是復古的大齒輪，腳下是絕美的老花磚。在這樣微光的浪漫氛圍裡，不管你是來跳舞、聽音樂，還是單純想拍出電影般的復古大片，這裡都能滿足你！\n\n不會跳舞？完全不用擔心！派對第一小時我們特別安排了「新手歡樂教學」，帶你輕鬆踏出第一步，接著無縫接軌享受整晚的 Social 狂歡！\n",
@@ -75,9 +66,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -94,11 +83,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -118,10 +103,7 @@
       "startAt": "21:30",
       "endAt": "00:30",
       "rate": "90% Salsa",
-      "types": [
-        "salsa on 1",
-        "salsa on 2"
-      ],
+      "types": ["salsa on 1", "salsa on 2"],
       "fee": "250 TWD",
       "canceled": false,
       "content": "",
@@ -138,9 +120,7 @@
       "startAt": "21:00",
       "endAt": "01:00",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "fee": "300TWD (含一杯飲料)",
       "canceled": false,
       "content": "",
@@ -160,9 +140,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -179,10 +157,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -200,10 +175,7 @@
       "startAt": "21:00",
       "endAt": "00:30",
       "rate": "Bachata main room + zouk Room",
-      "types": [
-        "bachata",
-        "zouk"
-      ],
+      "types": ["bachata", "zouk"],
       "fee": "450TWD or 1 flow point",
       "canceled": false,
       "content": "Buddy Pass, 2 person $600 before 10pm",
@@ -223,10 +195,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -246,9 +215,7 @@
       "startAt": "20:00",
       "endAt": "00:00",
       "rate": "hustle 100%",
-      "types": [
-        "hustle"
-      ],
+      "types": ["hustle"],
       "fee": "250",
       "canceled": false,
       "content": "",
@@ -265,10 +232,7 @@
       "startAt": "19:30",
       "endAt": "23:00",
       "rate": "Lambada & Zouk",
-      "types": [
-        "zouk",
-        "lambada"
-      ],
+      "types": ["zouk", "lambada"],
       "fee": "400 TWD",
       "canceled": "",
       "content": "",
@@ -287,11 +251,7 @@
       "startAt": "20:30",
       "endAt": "00:00",
       "rate": "Salsa : Bachata 5:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "fee": "300TWD",
       "canceled": false,
       "content": "",
@@ -311,10 +271,7 @@
       "startAt": "20:00",
       "endAt": "00:00",
       "rate": "",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "fee": "350",
       "canceled": false,
       "content": "",
@@ -337,9 +294,7 @@
       "startAt": "20:00",
       "endAt": "00:00",
       "rate": "bachata 100%",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "fee": "400 TWD",
       "canceled": false,
       "content": "DJ German & DJ Trison",
@@ -359,12 +314,7 @@
       "startAt": "19:20",
       "endAt": "23:30",
       "rate": "S1:B3:K1",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata",
-        "kizomba"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata", "kizomba"],
       "fee": "300",
       "canceled": false,
       "content": "\n（❤️4/12❤️）\n我們特別邀請的Bachata客座師資：Patty, 是台灣舞圈相當盛名的美女老師，這次將為大家帶來一堂40分鐘的Bachata Lady Styling舞蹈教學！ 大家快揪想讓你的Bachata跳起來更美的朋友一起來體驗吧!! Leader也很歡迎來上課唷‼️\n\n*音樂比例：\nSalsa 1: Bachata 3: Kizomba 1\n*時間：\n7:20-8:00 pm Bachata Class by Patty\n8:00-11:30 pm SBK Social\n*費用：\n💲NTD 300，含一堂課程及一杯飲料\n*地點 ：\nBarcade Taiwan 台北市大安區和平東路一段177號B1 ",
@@ -380,12 +330,7 @@
       "startAt": "18:30",
       "endAt": "22:00",
       "rate": "Salsa、Bachata、Kizomba",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata",
-        "kizomba"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata", "kizomba"],
       "fee": "免費",
       "canceled": false,
       "content": "",
@@ -405,10 +350,7 @@
       "startAt": "18:30",
       "endAt": "21:00",
       "rate": "Lambada & Zouk",
-      "types": [
-        "zouk",
-        "lambada"
-      ],
+      "types": ["zouk", "lambada"],
       "fee": "300 TWD",
       "canceled": "",
       "content": "",
@@ -427,9 +369,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -446,11 +386,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -467,10 +403,7 @@
       "host": "leo",
       "locate": "the-venue",
       "rate": "90% Salsa",
-      "types": [
-        "salsa on 1",
-        "salsa on 2"
-      ],
+      "types": ["salsa on 1", "salsa on 2"],
       "startAt": "21:30",
       "endAt": "00:30",
       "fee": "250 TWD",
@@ -486,9 +419,7 @@
       "startAt": "21:00",
       "endAt": "01:00",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "fee": "300TWD (含一杯飲料)",
       "canceled": false,
       "content": "",
@@ -508,9 +439,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -527,10 +456,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -548,11 +474,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -569,10 +491,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -589,10 +508,7 @@
       "startAt": "20:00",
       "endAt": "00:00",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "fee": "400 TWD",
       "canceled": false,
       "content": "",
@@ -612,11 +528,7 @@
       "startAt": "20:00",
       "endAt": "00:00",
       "rate": "Salsa / Bachata",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "fee": "600 TWD",
       "canceled": false,
       "content": "",
@@ -636,9 +548,7 @@
       "startAt": "19:30",
       "endAt": "23:00",
       "rate": "Mostly Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "fee": "初次體驗400TWD（含一杯飲料），加入會員另有優惠",
       "canceled": false,
       "content": "台中最特別的Bachata之夜，限會員參與，音樂100%Bachata！！\n欲了解會員詳情，請洽📞\n手機：0912760531 (Kevin)\n📲 LINE ID：kevindol",
@@ -658,9 +568,7 @@
       "startAt": "15:00",
       "endAt": "19:30",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "fee": "450 TWD or 1 flow point",
       "canceled": false,
       "content": "Buddy Pass, 2 person $600 before 16:00",
@@ -680,10 +588,7 @@
       "startAt": "19:00",
       "endAt": "22:30",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "fee": "400 TWD",
       "canceled": "",
       "content": "",
@@ -702,11 +607,7 @@
       "startAt": "13:00",
       "endAt": "17:00",
       "rate": "Salsa / Bachata",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "fee": "600 TWD",
       "canceled": false,
       "content": "",
@@ -729,9 +630,7 @@
       "startAt": "20:30",
       "endAt": "22:30",
       "rate": "Lambada 100%",
-      "types": [
-        "lambada"
-      ],
+      "types": ["lambada"],
       "fee": "250 ",
       "canceled": false,
       "content": "",
@@ -748,9 +647,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -767,11 +664,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -788,9 +681,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -807,9 +698,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -826,10 +715,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -847,11 +733,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -868,10 +750,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -891,9 +770,7 @@
       "startAt": "20:00",
       "endAt": "00:00",
       "rate": "hustle 100%",
-      "types": [
-        "hustle"
-      ],
+      "types": ["hustle"],
       "fee": "250",
       "canceled": false,
       "content": "",
@@ -910,10 +787,7 @@
       "startAt": "20:00",
       "endAt": "00:00",
       "rate": "Salsa:Bachata 30%:70%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "fee": "400 TWD",
       "canceled": false,
       "content": "",
@@ -933,11 +807,7 @@
       "startAt": "20:30",
       "endAt": "23:30",
       "rate": "Salsa / Bachata, Salsa 略多",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "fee": "350 TWD",
       "canceled": false,
       "content": "活動須知：場地為室內木地板，懇請朋友們帶室內專用舞鞋使用;萬一沒有，也拜託您“另外”準備一雙清潔過鞋底的，一起維護場地活動品質與安全！你懂的！感激！跳舞是真愛～\n活動說明：\n＊免費供應開水、限量茶飲與小點心。\n＊場地販售淡酒飲與氣泡飲料，禁外食外飲。自備外飲酌收開瓶清潔費。\n＊請配合舞會禮儀邀舞，也體諒他人想暫停的休息時間。\n＊舞會中請勿直接教學或招生廣告行為打擾。\n＊歡迎各項藝文合作宣傳請先洽詢主辦方協助。\n＊請共同愛護舞者專用彈性舞蹈木地板，請帶室內鞋或先清潔舞鞋以便室內使用。\n＊請共同維護場地活動品質，美好的氣氛玩得更開心。\n＊地址為重慶路99號五樓之二。請電梯直上五樓、毋須諮詢管理員、公共空間時請降低聲量。",
@@ -960,9 +830,7 @@
       "startAt": "18:30",
       "endAt": "21:00",
       "rate": "Salsa 100%",
-      "types": [
-        "salsa on 2"
-      ],
+      "types": ["salsa on 2"],
       "fee": "300 TWD",
       "canceled": false,
       "content": "",
@@ -982,10 +850,7 @@
       "startAt": "15:00",
       "endAt": "17:00",
       "rate": "Zouk lambada",
-      "types": [
-        "zouk",
-        "lambada"
-      ],
+      "types": ["zouk", "lambada"],
       "fee": "350",
       "canceled": false,
       "content": "",
@@ -1002,10 +867,7 @@
       "startAt": "20:00",
       "endAt": "23:30",
       "rate": "100% zouk / lambada",
-      "types": [
-        "zouk",
-        "lambada"
-      ],
+      "types": ["zouk", "lambada"],
       "fee": "350 TWD",
       "canceled": false,
       "content": "👉 English version is below the Chinese version.\n\n✨ iZØUK – 100% Zouk / Lambada Social Party（中文版） ✨\n\n📅 時間：4/26（週日）20:00–23:30\n📍 地點：Sunny Side 敦化\n台北市大安區敦化南路一段205號4樓之6\n⚠️ 注意：實際在建築的 4 樓，但電梯按鈕是「5」樓，請按電梯 5 樓！\n🔗 Google 地圖（建議）：https://www.google.com/maps/search/?api=1&query=Sunny%20Side%20%E6%95%A6%E5%8C%96\n🔗 備用（大樓地址）：https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E6%95%A6%E5%8C%96%E5%8D%97%E8%B7%AF%E4%B8%80%E6%AE%B5205%E8%99%9F\n🎟️ 門票：NT$350\n🎧 DJ：Finn\n\n🕗 20:00–21:00 新手時光\n每首歌之間會有停頓、節奏清楚、速度較慢，\n讓大家在更友善的氛圍中暖身、熟悉舞步。\n大家一起早點到可以跳得更盡興！🥳\n\n💃🕺 希望 iZØUK 成為固定每月舞會，\n讓大家有更多機會相聚跳舞，\n也讓台北的 Zouk / Lambada 社群 更加活躍成長。\n\n🎉 歡迎新手加入，一起享受音樂與舞動！\n\n🙏 如果你喜歡 Zouk / Lambada，\n請幫忙分享活動資訊，讓更多朋友知道。\n謝謝大家 ❤️\n\n=================================\n\n✨ iZØUK – 100% Zouk / Lambada Social Party (English Version) ✨\n\n📅 Date & Time: Sun, Apr 26 · 8:00–11:30 PM\n📍 Venue: Sunny Side Dunhua\n4F-6, No. 205, Sec. 1, Dunhua South Rd., Da’an Dist., Taipei City\n⚠️ Note: The studio is on the building’s 4th floor, but the elevator button says “5F”. Please press 5 in the elevator!\n(Search “Sunny Side 敦化” on Google Maps for the exact location)\n🔗 Google Maps (recommended): https://www.google.com/maps/search/?api=1&query=Sunny%20Side%20%E6%95%A6%E5%8C%96\n🔗 Backup (building address): https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E6%95%A6%E5%8C%96%E5%8D%97%E8%B7%AF%E4%B8%80%E6%AE%B5205%E8%99%9F\n🎟️ Entry: NT$350\n🎧 DJ: Finn\n\n🕗 8:00–9:00 PM – Beginner’s Hour\nSongs won’t be played back-to-back; tempo will be clear and slower,\ncreating a friendly atmosphere for everyone to warm up and get comfortable.\nCome early, dance longer, and enjoy the vibes! 🥳\n\n💃🕺 Our goal is for iZØUK to become a monthly social party,\ngiving everyone more chances to dance together,\nand to keep the Zouk / Lambada community in Taipei growing and thriving.\n\n🎉 Beginners are especially welcome to join and have fun with us!\n\n🙏 If you love Zouk / Lambada,\nplease help share this event so more friends can know about it.\nThank you for supporting the community ❤️",
@@ -1025,10 +887,7 @@
       "startAt": "19:00",
       "endAt": "23:00",
       "rate": "Salsa 2 / Bachata 4",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "fee": "400 TWD",
       "canceled": false,
       "content": "",
@@ -1051,12 +910,7 @@
       "startAt": "19:20",
       "endAt": "23:30",
       "rate": "S1:B3:K1",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata",
-        "kizomba"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata", "kizomba"],
       "fee": "300",
       "canceled": false,
       "content": "（❤️4/26❤️ ）\n我們特別邀請的Salsa客座師資：Jeremy, Salsa小王子，是台灣舞圈資深但最年輕的Salsa Bachata舞者，這次將為大家帶來Salsa Shine 單人律動教學‼️ 想讓你的Salsa跳起來跟小王子一樣帥嗎？ 一起來體驗吧!!\n\n*音樂比例：\nSalsa 1: Bachata 3: Kizomba 1\n*時間：\n7:20-8:00 pm  Salsa Class by Jeremy\n8:00-11:30 pm SBK Social\n*費用：\n💲NTD 300，含一堂課程及一杯飲料\n*地點 ：\nBarcade Taiwan 台北市大安區和平東路一段177號B1 ",
@@ -1073,9 +927,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -1092,11 +944,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -1113,9 +961,7 @@
       "startAt": "21:00",
       "endAt": "01:00",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "fee": "300TWD (含一杯飲料)",
       "canceled": false,
       "content": "",
@@ -1135,9 +981,7 @@
       "startAt": "21:00",
       "endAt": "01:30",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "fee": "Buy Tickets on Website!",
       "canceled": false,
       "content": "",
@@ -1157,10 +1001,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -1178,9 +1019,7 @@
       "startAt": "21:00",
       "endAt": "03:00",
       "rate": "zouk 100%",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "fee": "Get Tickets on Website!",
       "canceled": false,
       "content": "",
@@ -1203,11 +1042,7 @@
       "startAt": "21:00",
       "endAt": "00:30",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "fee": "450 TWD or 1 flow point",
       "canceled": true,
       "content": "Buddy Pass, 2 person $600 before 10pm",
@@ -1226,10 +1061,7 @@
       "startAt": "21:30",
       "endAt": "00:40",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "fee": "350TWD",
       "canceled": false,
       "content": "",
@@ -1248,11 +1080,7 @@
       "startAt": "20:30",
       "endAt": "23:30",
       "rate": "",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "fee": "350",
       "canceled": false,
       "content": "地點：台中市北屯區太原路三段425號1樓\n\nDJ：Bill\nNext Event：June 13 粽子Party",
@@ -1268,9 +1096,7 @@
       "startAt": "21:00",
       "endAt": "03:00",
       "rate": "zouk 100%",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "fee": "Get Tickets on Website!",
       "canceled": false,
       "content": "",
@@ -1293,11 +1119,7 @@
       "startAt": "20:30",
       "endAt": "00:00",
       "rate": "Salsa : Bachata 5:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "fee": "300TWD",
       "canceled": false,
       "content": "",
@@ -1317,9 +1139,7 @@
       "startAt": "20:00",
       "endAt": "00:00",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "fee": "400",
       "canceled": false,
       "content": "",
@@ -1338,9 +1158,7 @@
       "startAt": "18:30",
       "endAt": "21:00",
       "rate": "Salsa 100%",
-      "types": [
-        "salsa on 2"
-      ],
+      "types": ["salsa on 2"],
       "fee": "300 TWD",
       "canceled": false,
       "content": "",
@@ -1357,9 +1175,7 @@
       "startAt": "21:00",
       "endAt": "03:00",
       "rate": "zouk 100%",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "fee": "Get Tickets on Website!",
       "canceled": false,
       "content": "",
@@ -1379,12 +1195,7 @@
       "host": "dance-salsa-under-sky",
       "locate": "maji-square",
       "rate": "Salsa、Bachata、Kizomba",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata",
-        "kizomba"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata", "kizomba"],
       "startAt": "18:30",
       "endAt": "22:00",
       "fee": "免費",
@@ -1429,9 +1240,7 @@
       "startAt": "22:00",
       "endAt": "02:00",
       "rate": "zouk 100%",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "fee": "",
       "canceled": false,
       "content": "",
@@ -1450,9 +1259,7 @@
       "startAt": "19:00",
       "endAt": "22:00",
       "rate": "lambada 100%",
-      "types": [
-        "lambada"
-      ],
+      "types": ["lambada"],
       "fee": "450",
       "canceled": false,
       "content": "",
@@ -1469,11 +1276,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -1490,9 +1293,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -1509,9 +1310,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -1528,10 +1327,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -1549,10 +1345,7 @@
       "startAt": "21:00",
       "endAt": "00:30",
       "rate": "Bachata main room + zouk Room",
-      "types": [
-        "bachata",
-        "zouk"
-      ],
+      "types": ["bachata", "zouk"],
       "fee": "450TWD or 1 flow point",
       "canceled": false,
       "content": "Buddy Pass, 2 person $600 before 10pm",
@@ -1572,10 +1365,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -1595,9 +1385,7 @@
       "startAt": "18:30",
       "endAt": "21:00",
       "rate": "Salsa 100%",
-      "types": [
-        "salsa on 2"
-      ],
+      "types": ["salsa on 2"],
       "fee": "300 TWD",
       "canceled": "",
       "content": "",
@@ -1613,9 +1401,7 @@
       "startAt": "14:00",
       "endAt": "02:00",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "fee": "TBD",
       "canceled": "",
       "content": "",
@@ -1637,10 +1423,7 @@
       "startAt": "20:00",
       "endAt": "00:00",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "fee": "400 TWD",
       "canceled": false,
       "content": "",
@@ -1660,10 +1443,7 @@
       "startAt": "20:00",
       "endAt": "00:00",
       "rate": "Salsa 2 / Bachata 4",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "fee": "400 TWD",
       "canceled": false,
       "content": "主題: 花花派對\n除了衣服是花朵的圖案以外，頭上、身上也可以配有花朵造型的飾品唷！！\n能帶鮮花來的就真的太讚了",
@@ -1680,9 +1460,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -1699,11 +1477,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -1720,9 +1494,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -1739,9 +1511,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -1758,10 +1528,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -1779,11 +1546,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -1803,10 +1566,7 @@
       "startAt": "21:30",
       "endAt": "00:40",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "fee": "350TWD",
       "canceled": true,
       "content": "",
@@ -1825,10 +1585,7 @@
       "startAt": "21:00",
       "endAt": "00:00",
       "rate": "",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "fee": "At door 500",
       "canceled": false,
       "content": "",
@@ -1844,9 +1601,7 @@
       "startAt": "19:30",
       "endAt": "23:00",
       "rate": "Mostly Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "fee": "初次體驗400TWD（含一杯飲料），加入會員另有優惠",
       "canceled": false,
       "content": "台中最特別的Bachata之夜，限會員參與，音樂100%Bachata！！\n欲了解會員詳情，請洽📞\n手機：0912760531 (Kevin)\n📲 LINE ID：kevindol",
@@ -1869,10 +1624,7 @@
       "startAt": "20:00",
       "endAt": "00:00",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "fee": "400 TWD",
       "canceled": false,
       "content": "",
@@ -1892,10 +1644,7 @@
       "startAt": "20:00",
       "endAt": "23:30",
       "rate": "100% zouk / lambada",
-      "types": [
-        "zouk",
-        "lambada"
-      ],
+      "types": ["zouk", "lambada"],
       "fee": "350 TWD",
       "canceled": false,
       "content": "👉 English version is below the Chinese version.\n\n✨ iZØUK Evening – 100% Zouk / Lambada Social Party（中文版） ✨\n\n📅 時間：5/17（週日）20:00–23:30\n📍 地點：Sunny Side 敦化\n台北市大安區敦化南路一段205號4樓之6\n⚠️ 注意：實際在建築的 4 樓，但電梯按鈕是「5」樓，請按電梯 5 樓！\n🔗 Google 地圖（建議）：https://www.google.com/maps/search/?api=1&query=Sunny%20Side%20%E6%95%A6%E5%8C%96\n🔗 備用（大樓地址）：https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E6%95%A6%E5%8C%96%E5%8D%97%E8%B7%AF%E4%B8%80%E6%AE%B5205%E8%99%9F\n\n🎟️ 門票：NT$350\n🎧 DJ：Finn\n\n🕗 20:00–21:00 新手時光\n每首歌之間會有停頓、節奏清楚、速度較慢，\n讓大家在更友善的氛圍中暖身、熟悉舞步。\n大家一起早點到可以跳得更盡興！🥳\n\n💃🕺 希望 iZØUK 成為固定每月舞會，\n讓大家有更多機會相聚跳舞，\n也讓台北的 Zouk / Lambada 社群 更加活躍成長。\n\n🎉 歡迎新手加入，一起享受音樂與舞動！\n\n🙏 如果你喜歡 Zouk / Lambada，\n請幫忙分享活動資訊，讓更多朋友知道。\n謝謝大家 ❤️\n\n=================================\n\n✨ iZØUK Evening – 100% Zouk / Lambada Social Party (English Version) ✨\n\n📅 Date & Time: Sun, May 17 · 8:00–11:30 PM\n📍 Venue: Sunny Side Dunhua\n4F-6, No. 205, Sec. 1, Dunhua South Rd., Da’an Dist., Taipei City\n⚠️ Note: The studio is on the building’s 4th floor, but the elevator button says “5F”. Please press 5 in the elevator!\n(Search “Sunny Side 敦化” on Google Maps for the exact location)\n🔗 Google Maps (recommended): https://www.google.com/maps/search/?api=1&query=Sunny%20Side%20%E6%95%A6%E5%8C%96\n🔗 Backup (building address): https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E6%95%A6%E5%8C%96%E5%8D%97%E8%B7%AF%E4%B8%80%E6%AE%B5205%E8%99%9F\n\n🎟️ Entry: NT$350\n🎧 DJ: Finn\n\n🕗 8:00 – 9:00 PM – Beginner’s Hour\nSongs won’t be played back-to-back; tempo will be clear and slower,\ncreating a friendly atmosphere for everyone to warm up and get comfortable.\nCome early, dance longer, and enjoy the vibes! 🥳\n\n💃🕺 Our goal is for iZØUK to become a monthly social party,\ngiving everyone more chances to dance together,\nand to keep the Zouk / Lambada community in Taipei growing and thriving.\n\n🎉 Beginners are especially welcome to join and have fun with us!\n\n🙏 If you love Zouk / Lambada,\nplease help share this event so more friends can know about it.\nThank you for supporting the community ❤️",
@@ -1914,10 +1663,7 @@
       "startAt": "19:00",
       "endAt": "22:30",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "fee": "500 TWD",
       "canceled": "",
       "content": "",
@@ -1933,9 +1679,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -1952,11 +1696,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -1973,9 +1713,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -1992,9 +1730,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -2011,10 +1747,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -2032,11 +1765,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -2056,10 +1785,7 @@
       "startAt": "21:30",
       "endAt": "00:40",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "fee": "350TWD",
       "canceled": false,
       "content": "",
@@ -2075,9 +1801,7 @@
       "startAt": "20:00",
       "endAt": "11:30",
       "rate": "hustle 100%",
-      "types": [
-        "hustle"
-      ],
+      "types": ["hustle"],
       "fee": "450",
       "canceled": "",
       "content": "",
@@ -2100,11 +1824,7 @@
       "startAt": "20:30",
       "endAt": "23:30",
       "rate": "Salsa / Bachata, Salsa 略多",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "fee": "350 TWD",
       "canceled": false,
       "content": "活動須知：場地為室內木地板，懇請朋友們帶室內專用舞鞋使用;萬一沒有，也拜託您“另外”準備一雙清潔過鞋底的，一起維護場地活動品質與安全！你懂的！感激！跳舞是真愛～\n活動說明：\n＊免費供應開水、限量茶飲與小點心。\n＊場地販售淡酒飲與氣泡飲料，禁外食外飲。自備外飲酌收開瓶清潔費。\n＊請配合舞會禮儀邀舞，也體諒他人想暫停的休息時間。\n＊舞會中請勿直接教學或招生廣告行為打擾。\n＊歡迎各項藝文合作宣傳請先洽詢主辦方協助。\n＊請共同愛護舞者專用彈性舞蹈木地板，請帶室內鞋或先清潔舞鞋以便室內使用。\n＊請共同維護場地活動品質，美好的氣氛玩得更開心。\n＊地址為重慶路99號五樓之二。請電梯直上五樓、毋須諮詢管理員、公共空間時請降低聲量。",
@@ -2124,10 +1844,7 @@
       "startAt": "20:00",
       "endAt": "00:00",
       "rate": "Salsa:Bachata 30%:70%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "fee": "400 TWD",
       "canceled": false,
       "content": "",
@@ -2144,10 +1861,7 @@
       "startAt": "18:30",
       "endAt": "09:00",
       "rate": "Lambada & Zouk",
-      "types": [
-        "zouk",
-        "lambada"
-      ],
+      "types": ["zouk", "lambada"],
       "fee": "300 TWD",
       "canceled": "",
       "content": "",
@@ -2169,10 +1883,7 @@
       "startAt": "21:00",
       "endAt": "00:00",
       "rate": "Salsa / Bachata",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "fee": "450 TWD",
       "canceled": false,
       "content": "",
@@ -2214,9 +1925,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -2233,11 +1942,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -2254,9 +1959,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -2273,9 +1976,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -2292,10 +1993,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -2313,11 +2011,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -2337,10 +2031,7 @@
       "startAt": "21:30",
       "endAt": "00:40",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "fee": "350TWD",
       "canceled": false,
       "content": "",
@@ -2359,11 +2050,7 @@
       "startAt": "19:00",
       "endAt": "22:00",
       "rate": "Salsa : Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "fee": "Workshop 200元 / Social Party 400元 ",
       "canceled": false,
       "content": "16:00~16:45，Salsa體驗教學\n16:45~17:45，戶外舞會\n地點：秋紅谷「活動平台區」\n地址：台中市朝富路30號\n\n18:00~18:50，Salsa Workshop(單人+雙人)\n19:00~22:00，Salsa Bachata Social Party\n活動地點：心之谷Heart Valley (秋紅谷室內區域)",
@@ -2382,9 +2069,7 @@
       "startAt": "18:30",
       "endAt": "21:00",
       "rate": "Salsa 100%",
-      "types": [
-        "salsa on 2"
-      ],
+      "types": ["salsa on 2"],
       "fee": "300 TWD",
       "canceled": false,
       "content": "",
@@ -2404,10 +2089,7 @@
       "startAt": "20:00",
       "endAt": "00:00",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "fee": "400 TWD",
       "canceled": false,
       "content": "",
@@ -2423,9 +2105,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -2442,11 +2122,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -2463,9 +2139,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -2482,9 +2156,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -2501,10 +2173,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -2522,11 +2191,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -2543,10 +2208,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -2563,10 +2225,7 @@
       "startAt": "19:30",
       "endAt": "23:00",
       "rate": "Lambada & Zouk",
-      "types": [
-        "zouk",
-        "lambada"
-      ],
+      "types": ["zouk", "lambada"],
       "fee": "400 TWD",
       "canceled": "",
       "content": "",
@@ -2588,10 +2247,7 @@
       "startAt": "20:00",
       "endAt": "00:00",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "fee": "400 TWD",
       "canceled": false,
       "content": "",
@@ -2608,10 +2264,7 @@
       "startAt": "18:30",
       "endAt": "21:00",
       "rate": "Lambada & Zouk",
-      "types": [
-        "zouk",
-        "lambada"
-      ],
+      "types": ["zouk", "lambada"],
       "fee": "300 TWD",
       "canceled": "",
       "content": "",
@@ -2630,12 +2283,7 @@
       "host": "dance-salsa-under-sky",
       "locate": "maji-square",
       "rate": "Salsa、Bachata、Kizomba",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata",
-        "kizomba"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata", "kizomba"],
       "startAt": "18:30",
       "endAt": "22:00",
       "fee": "免費",
@@ -2678,9 +2326,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -2697,11 +2343,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -2718,9 +2360,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -2737,9 +2377,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -2756,10 +2394,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -2777,10 +2412,7 @@
       "startAt": "21:00",
       "endAt": "00:30",
       "rate": "Bachata main room + zouk Room",
-      "types": [
-        "bachata",
-        "zouk"
-      ],
+      "types": ["bachata", "zouk"],
       "fee": "450TWD or 1 flow point",
       "canceled": false,
       "content": "Buddy Pass, 2 person $600 before 10pm",
@@ -2800,10 +2432,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -2823,9 +2452,7 @@
       "startAt": "18:30",
       "endAt": "21:00",
       "rate": "Salsa 100%",
-      "types": [
-        "salsa on 2"
-      ],
+      "types": ["salsa on 2"],
       "fee": "300 TWD",
       "canceled": false,
       "content": "",
@@ -2845,10 +2472,7 @@
       "startAt": "20:00",
       "endAt": "00:00",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "fee": "400 TWD",
       "canceled": false,
       "content": "",
@@ -2865,10 +2489,7 @@
       "startAt": "19:00",
       "endAt": "22:30",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "fee": "400 TWD",
       "canceled": "",
       "content": "",
@@ -2890,10 +2511,7 @@
       "startAt": "20:00",
       "endAt": "23:30",
       "rate": "zouk / lambada",
-      "types": [
-        "zouk",
-        "lambada"
-      ],
+      "types": ["zouk", "lambada"],
       "fee": "350 TWD",
       "canceled": false,
       "content": "👉 English version is below the Chinese version.\n\n✨ iZØUK – 100% Zouk / Lambada Social Party（中文版） ✨\n\n📅 時間：6/14（週日）20:00–23:30\n📍 地點：Sunny Side 敦化\n台北市大安區敦化南路一段205號4樓之6\n⚠️ 注意：實際在建築的 4 樓，但電梯按鈕是「5」樓，請按電梯 5 樓！\n🔗 Google 地圖（建議）：https://www.google.com/maps/search/?api=1&query=Sunny%20Side%20%E6%95%A6%E5%8C%96\n🔗 備用（大樓地址）：https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E6%95%A6%E5%8C%96%E5%8D%97%E8%B7%AF%E4%B8%80%E6%AE%B5205%E8%99%9F\n🎟️ 門票：NT$350\n🎧 DJ：Finn\n\n🕗 20:00–21:00 新手時光\n每首歌之間會有停頓、節奏清楚、速度較慢，\n讓大家在更友善的氛圍中暖身、熟悉舞步。\n大家一起早點到可以跳得更盡興！🥳\n\n💃🕺 希望 iZØUK 成為固定每月舞會，\n讓大家有更多機會相聚跳舞，\n也讓台北的 Zouk / Lambada 社群 更加活躍成長。\n\n🎉 歡迎新手加入，一起享受音樂與舞動！\n\n🙏 如果你喜歡 Zouk / Lambada，\n請幫忙分享活動資訊，讓更多朋友知道。\n謝謝大家 ❤️\n\n=================================\n\n✨ iZØUK – 100% Zouk / Lambada Social Party (English Version) ✨\n\n📅 Date & Time: Sun, Jun 14 · 8:00–11:30 PM\n📍 Venue: Sunny Side Dunhua\n4F-6, No. 205, Sec. 1, Dunhua South Rd., Da’an Dist., Taipei City\n⚠️ Note: The studio is on the building’s 4th floor, but the elevator button says “5F”. Please press 5 in the elevator!\n(Search “Sunny Side 敦化” on Google Maps for the exact location)\n🔗 Google Maps (recommended): https://www.google.com/maps/search/?api=1&query=Sunny%20Side%20%E6%95%A6%E5%8C%96\n🔗 Backup (building address): https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E6%95%A6%E5%8C%96%E5%8D%97%E8%B7%AF%E4%B8%80%E6%AE%B5205%E8%99%9F\n🎟️ Entry: NT$350\n🎧 DJ: Finn\n\n🕗 8:00–9:00 PM – Beginner’s Hour\nSongs won’t be played back-to-back; tempo will be clear and slower,\ncreating a friendly atmosphere for everyone to warm up and get comfortable.\nCome early, dance longer, and enjoy the vibes! 🥳\n\n💃🕺 Our goal is for iZØUK to become a monthly social party,\ngiving everyone more chances to dance together,\nand to keep the Zouk / Lambada community in Taipei growing and thriving.\n\n🎉 Beginners are especially welcome to join and have fun with us!\n\n🙏 If you love Zouk / Lambada,\nplease help share this event so more friends can know about it.\nThank you for supporting the community ❤️",
@@ -2910,9 +2528,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -2929,11 +2545,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -2950,9 +2562,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -2969,9 +2579,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -2988,10 +2596,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -3009,11 +2614,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -3030,10 +2631,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -3050,9 +2648,7 @@
       "startAt": "19:30",
       "endAt": "23:00",
       "rate": "Mostly Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "fee": "初次體驗400TWD（含一杯飲料），加入會員另有優惠",
       "canceled": false,
       "content": "台中最特別的Bachata之夜，限會員參與，音樂100%Bachata！！\n欲了解會員詳情，請洽📞\n手機：0912760531 (Kevin)\n📲 LINE ID：kevindol",
@@ -3075,9 +2671,7 @@
       "startAt": "18:30",
       "endAt": "21:00",
       "rate": "Salsa 100%",
-      "types": [
-        "salsa on 2"
-      ],
+      "types": ["salsa on 2"],
       "fee": "300 TWD",
       "canceled": false,
       "content": "",
@@ -3120,9 +2714,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -3139,11 +2731,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -3160,9 +2748,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -3179,9 +2765,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -3198,10 +2782,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -3219,11 +2800,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -3240,10 +2817,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -3260,9 +2834,7 @@
       "startAt": "15:00",
       "endAt": "19:30",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "fee": "450 TWD or 1 flow point",
       "canceled": false,
       "content": "Buddy Pass, 2 person $600 before 16:00",
@@ -3285,9 +2857,7 @@
       "startAt": "18:30",
       "endAt": "21:00",
       "rate": "Salsa 100%",
-      "types": [
-        "salsa on 2"
-      ],
+      "types": ["salsa on 2"],
       "fee": "300 TWD",
       "canceled": false,
       "content": "",
@@ -3307,10 +2877,7 @@
       "startAt": "20:00",
       "endAt": "00:00",
       "rate": "Salsa:Bachata 30%:70%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "fee": "400 TWD",
       "canceled": false,
       "content": "",
@@ -3327,9 +2894,7 @@
       "startAt": "18:30",
       "endAt": "21:00",
       "rate": "Salsa 100%",
-      "types": [
-        "salsa on 2"
-      ],
+      "types": ["salsa on 2"],
       "fee": "300 TWD",
       "canceled": "",
       "content": "",
@@ -3348,9 +2913,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -3367,11 +2930,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -3388,9 +2947,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -3407,9 +2964,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -3426,10 +2981,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -3447,11 +2999,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -3468,10 +3016,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -3491,9 +3036,7 @@
       "startAt": "18:30",
       "endAt": "21:00",
       "rate": "Salsa 100%",
-      "types": [
-        "salsa on 2"
-      ],
+      "types": ["salsa on 2"],
       "fee": "300 TWD",
       "canceled": false,
       "content": "",
@@ -3510,12 +3053,7 @@
       "host": "dance-salsa-under-sky",
       "locate": "maji-square",
       "rate": "Salsa、Bachata、Kizomba",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata",
-        "kizomba"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata", "kizomba"],
       "startAt": "18:30",
       "endAt": "22:00",
       "fee": "免費",
@@ -3532,9 +3070,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -3551,11 +3087,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -3572,9 +3104,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -3591,9 +3121,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -3610,10 +3138,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -3631,10 +3156,7 @@
       "startAt": "21:00",
       "endAt": "00:30",
       "rate": "Bachata main room + zouk Room",
-      "types": [
-        "bachata",
-        "zouk"
-      ],
+      "types": ["bachata", "zouk"],
       "fee": "450TWD or 1 flow point",
       "canceled": false,
       "content": "Buddy Pass, 2 person $600 before 10pm",
@@ -3654,10 +3176,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -3677,9 +3196,7 @@
       "startAt": "18:30",
       "endAt": "21:00",
       "rate": "Salsa 100%",
-      "types": [
-        "salsa on 2"
-      ],
+      "types": ["salsa on 2"],
       "fee": "300 TWD",
       "canceled": false,
       "content": "",
@@ -3696,9 +3213,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -3715,11 +3230,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -3736,9 +3247,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -3755,9 +3264,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -3774,10 +3281,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -3795,11 +3299,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -3816,10 +3316,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -3836,9 +3333,7 @@
       "startAt": "19:30",
       "endAt": "23:00",
       "rate": "Mostly Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "fee": "初次體驗400TWD（含一杯飲料），加入會員另有優惠",
       "canceled": false,
       "content": "台中最特別的Bachata之夜，限會員參與，音樂100%Bachata！！\n欲了解會員詳情，請洽📞\n手機：0912760531 (Kevin)\n📲 LINE ID：kevindol",
@@ -3861,9 +3356,7 @@
       "startAt": "18:30",
       "endAt": "21:00",
       "rate": "Salsa 100%",
-      "types": [
-        "salsa on 2"
-      ],
+      "types": ["salsa on 2"],
       "fee": "300 TWD",
       "canceled": false,
       "content": "",
@@ -3880,9 +3373,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -3899,11 +3390,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -3920,9 +3407,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -3939,9 +3424,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -3958,10 +3441,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -3979,11 +3459,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -4000,10 +3476,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -4023,9 +3496,7 @@
       "startAt": "18:30",
       "endAt": "21:00",
       "rate": "Salsa 100%",
-      "types": [
-        "salsa on 2"
-      ],
+      "types": ["salsa on 2"],
       "fee": "300 TWD",
       "canceled": false,
       "content": "",
@@ -4042,9 +3513,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -4061,11 +3530,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -4082,10 +3547,7 @@
       "host": "leo",
       "locate": "the-venue",
       "rate": "90% Salsa",
-      "types": [
-        "salsa on 1",
-        "salsa on 2"
-      ],
+      "types": ["salsa on 1", "salsa on 2"],
       "startAt": "21:30",
       "endAt": "00:30",
       "fee": "250 TWD",
@@ -4101,9 +3563,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -4120,9 +3580,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -4139,10 +3597,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -4160,11 +3615,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -4181,10 +3632,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -4201,12 +3649,7 @@
       "host": "dance-salsa-under-sky",
       "locate": "maji-square",
       "rate": "Salsa、Bachata、Kizomba",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata",
-        "kizomba"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata", "kizomba"],
       "startAt": "18:30",
       "endAt": "22:00",
       "fee": "免費",
@@ -4223,9 +3666,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -4242,11 +3683,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -4263,10 +3700,7 @@
       "host": "leo",
       "locate": "the-venue",
       "rate": "90% Salsa",
-      "types": [
-        "salsa on 1",
-        "salsa on 2"
-      ],
+      "types": ["salsa on 1", "salsa on 2"],
       "startAt": "21:30",
       "endAt": "00:30",
       "fee": "250 TWD",
@@ -4282,9 +3716,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -4301,9 +3733,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -4320,10 +3750,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -4341,11 +3768,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -4362,10 +3785,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -4382,9 +3802,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -4401,11 +3819,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -4422,10 +3836,7 @@
       "host": "leo",
       "locate": "the-venue",
       "rate": "90% Salsa",
-      "types": [
-        "salsa on 1",
-        "salsa on 2"
-      ],
+      "types": ["salsa on 1", "salsa on 2"],
       "startAt": "21:30",
       "endAt": "00:30",
       "fee": "250 TWD",
@@ -4441,9 +3852,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -4460,9 +3869,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -4479,10 +3886,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -4500,10 +3904,7 @@
       "startAt": "21:00",
       "endAt": "00:30",
       "rate": "Bachata main room + zouk Room",
-      "types": [
-        "bachata",
-        "zouk"
-      ],
+      "types": ["bachata", "zouk"],
       "fee": "450TWD or 1 flow point",
       "canceled": false,
       "content": "Buddy Pass, 2 person $600 before 10pm",
@@ -4523,10 +3924,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -4543,9 +3941,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -4562,11 +3958,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -4583,10 +3975,7 @@
       "host": "leo",
       "locate": "the-venue",
       "rate": "90% Salsa",
-      "types": [
-        "salsa on 1",
-        "salsa on 2"
-      ],
+      "types": ["salsa on 1", "salsa on 2"],
       "startAt": "21:30",
       "endAt": "00:30",
       "fee": "250 TWD",
@@ -4602,9 +3991,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -4621,9 +4008,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -4640,10 +4025,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -4661,11 +4043,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -4682,10 +4060,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -4702,9 +4077,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -4721,11 +4094,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -4742,10 +4111,7 @@
       "host": "leo",
       "locate": "the-venue",
       "rate": "90% Salsa",
-      "types": [
-        "salsa on 1",
-        "salsa on 2"
-      ],
+      "types": ["salsa on 1", "salsa on 2"],
       "startAt": "21:30",
       "endAt": "00:30",
       "fee": "250 TWD",
@@ -4761,9 +4127,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -4780,9 +4144,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -4799,10 +4161,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -4820,11 +4179,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -4841,10 +4196,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -4861,9 +4213,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -4880,11 +4230,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -4901,10 +4247,7 @@
       "host": "leo",
       "locate": "the-venue",
       "rate": "90% Salsa",
-      "types": [
-        "salsa on 1",
-        "salsa on 2"
-      ],
+      "types": ["salsa on 1", "salsa on 2"],
       "startAt": "21:30",
       "endAt": "00:30",
       "fee": "250 TWD",
@@ -4920,9 +4263,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -4939,9 +4280,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -4958,10 +4297,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -4979,11 +4315,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -5000,10 +4332,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -5020,12 +4349,7 @@
       "host": "dance-salsa-under-sky",
       "locate": "maji-square",
       "rate": "Salsa、Bachata、Kizomba",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata",
-        "kizomba"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata", "kizomba"],
       "startAt": "18:30",
       "endAt": "22:00",
       "fee": "免費",
@@ -5042,9 +4366,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -5061,11 +4383,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -5082,10 +4400,7 @@
       "host": "leo",
       "locate": "the-venue",
       "rate": "90% Salsa",
-      "types": [
-        "salsa on 1",
-        "salsa on 2"
-      ],
+      "types": ["salsa on 1", "salsa on 2"],
       "startAt": "21:30",
       "endAt": "00:30",
       "fee": "250 TWD",
@@ -5101,9 +4416,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -5120,9 +4433,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -5139,10 +4450,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -5160,10 +4468,7 @@
       "startAt": "21:00",
       "endAt": "00:30",
       "rate": "Bachata main room + zouk Room",
-      "types": [
-        "bachata",
-        "zouk"
-      ],
+      "types": ["bachata", "zouk"],
       "fee": "450TWD or 1 flow point",
       "canceled": false,
       "content": "Buddy Pass, 2 person $600 before 10pm",
@@ -5183,10 +4488,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -5203,9 +4505,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -5222,11 +4522,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -5243,10 +4539,7 @@
       "host": "leo",
       "locate": "the-venue",
       "rate": "90% Salsa",
-      "types": [
-        "salsa on 1",
-        "salsa on 2"
-      ],
+      "types": ["salsa on 1", "salsa on 2"],
       "startAt": "21:30",
       "endAt": "00:30",
       "fee": "250 TWD",
@@ -5262,9 +4555,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -5281,9 +4572,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -5300,10 +4589,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -5321,11 +4607,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -5342,10 +4624,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -5362,9 +4641,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -5381,11 +4658,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -5402,10 +4675,7 @@
       "host": "leo",
       "locate": "the-venue",
       "rate": "90% Salsa",
-      "types": [
-        "salsa on 1",
-        "salsa on 2"
-      ],
+      "types": ["salsa on 1", "salsa on 2"],
       "startAt": "21:30",
       "endAt": "00:30",
       "fee": "250 TWD",
@@ -5421,9 +4691,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -5440,9 +4708,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -5459,10 +4725,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -5480,11 +4743,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -5501,10 +4760,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -5521,9 +4777,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -5540,11 +4794,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -5561,10 +4811,7 @@
       "host": "leo",
       "locate": "the-venue",
       "rate": "90% Salsa",
-      "types": [
-        "salsa on 1",
-        "salsa on 2"
-      ],
+      "types": ["salsa on 1", "salsa on 2"],
       "startAt": "21:30",
       "endAt": "00:30",
       "fee": "250 TWD",
@@ -5580,9 +4827,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -5599,9 +4844,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -5618,10 +4861,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -5639,11 +4879,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -5660,10 +4896,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -5680,12 +4913,7 @@
       "host": "dance-salsa-under-sky",
       "locate": "maji-square",
       "rate": "Salsa、Bachata、Kizomba",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata",
-        "kizomba"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata", "kizomba"],
       "startAt": "18:30",
       "endAt": "22:00",
       "fee": "免費",
@@ -5702,9 +4930,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -5721,11 +4947,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -5742,10 +4964,7 @@
       "host": "leo",
       "locate": "the-venue",
       "rate": "90% Salsa",
-      "types": [
-        "salsa on 1",
-        "salsa on 2"
-      ],
+      "types": ["salsa on 1", "salsa on 2"],
       "startAt": "21:30",
       "endAt": "00:30",
       "fee": "250 TWD",
@@ -5761,9 +4980,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -5780,9 +4997,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -5799,10 +5014,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -5820,10 +5032,7 @@
       "startAt": "21:00",
       "endAt": "00:30",
       "rate": "Bachata main room + zouk Room",
-      "types": [
-        "bachata",
-        "zouk"
-      ],
+      "types": ["bachata", "zouk"],
       "fee": "450TWD or 1 flow point",
       "canceled": false,
       "content": "Buddy Pass, 2 person $600 before 10pm",
@@ -5843,10 +5052,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -5863,9 +5069,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -5882,11 +5086,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -5903,10 +5103,7 @@
       "host": "leo",
       "locate": "the-venue",
       "rate": "90% Salsa",
-      "types": [
-        "salsa on 1",
-        "salsa on 2"
-      ],
+      "types": ["salsa on 1", "salsa on 2"],
       "startAt": "21:30",
       "endAt": "00:30",
       "fee": "250 TWD",
@@ -5922,9 +5119,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -5941,9 +5136,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -5960,10 +5153,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -5981,11 +5171,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -6002,10 +5188,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -6022,9 +5205,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -6041,11 +5222,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -6062,10 +5239,7 @@
       "host": "leo",
       "locate": "the-venue",
       "rate": "90% Salsa",
-      "types": [
-        "salsa on 1",
-        "salsa on 2"
-      ],
+      "types": ["salsa on 1", "salsa on 2"],
       "startAt": "21:30",
       "endAt": "00:30",
       "fee": "250 TWD",
@@ -6081,9 +5255,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -6100,9 +5272,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -6119,10 +5289,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -6140,11 +5307,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -6161,10 +5324,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -6181,9 +5341,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -6200,11 +5358,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -6221,10 +5375,7 @@
       "host": "leo",
       "locate": "the-venue",
       "rate": "90% Salsa",
-      "types": [
-        "salsa on 1",
-        "salsa on 2"
-      ],
+      "types": ["salsa on 1", "salsa on 2"],
       "startAt": "21:30",
       "endAt": "00:30",
       "fee": "250 TWD",
@@ -6240,9 +5391,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -6259,9 +5408,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -6278,10 +5425,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -6299,11 +5443,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -6320,10 +5460,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -6340,12 +5477,7 @@
       "host": "dance-salsa-under-sky",
       "locate": "maji-square",
       "rate": "Salsa、Bachata、Kizomba",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata",
-        "kizomba"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata", "kizomba"],
       "startAt": "18:30",
       "endAt": "22:00",
       "fee": "免費",
@@ -6362,9 +5494,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -6381,11 +5511,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -6402,10 +5528,7 @@
       "host": "leo",
       "locate": "the-venue",
       "rate": "90% Salsa",
-      "types": [
-        "salsa on 1",
-        "salsa on 2"
-      ],
+      "types": ["salsa on 1", "salsa on 2"],
       "startAt": "21:30",
       "endAt": "00:30",
       "fee": "250 TWD",
@@ -6421,9 +5544,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -6440,9 +5561,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -6459,10 +5578,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -6480,11 +5596,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -6501,10 +5613,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -6521,9 +5630,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -6540,11 +5647,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -6561,10 +5664,7 @@
       "host": "leo",
       "locate": "the-venue",
       "rate": "90% Salsa",
-      "types": [
-        "salsa on 1",
-        "salsa on 2"
-      ],
+      "types": ["salsa on 1", "salsa on 2"],
       "startAt": "21:30",
       "endAt": "00:30",
       "fee": "250 TWD",
@@ -6580,9 +5680,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -6599,9 +5697,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -6618,10 +5714,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -6639,10 +5732,7 @@
       "startAt": "21:00",
       "endAt": "00:30",
       "rate": "Bachata main room + zouk Room",
-      "types": [
-        "bachata",
-        "zouk"
-      ],
+      "types": ["bachata", "zouk"],
       "fee": "450TWD or 1 flow point",
       "canceled": false,
       "content": "Buddy Pass, 2 person $600 before 10pm",
@@ -6662,10 +5752,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -6682,9 +5769,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -6701,11 +5786,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -6722,10 +5803,7 @@
       "host": "leo",
       "locate": "the-venue",
       "rate": "90% Salsa",
-      "types": [
-        "salsa on 1",
-        "salsa on 2"
-      ],
+      "types": ["salsa on 1", "salsa on 2"],
       "startAt": "21:30",
       "endAt": "00:30",
       "fee": "250 TWD",
@@ -6741,9 +5819,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -6760,9 +5836,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -6779,10 +5853,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -6800,11 +5871,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -6821,10 +5888,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -6841,9 +5905,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -6860,11 +5922,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -6881,10 +5939,7 @@
       "host": "leo",
       "locate": "the-venue",
       "rate": "90% Salsa",
-      "types": [
-        "salsa on 1",
-        "salsa on 2"
-      ],
+      "types": ["salsa on 1", "salsa on 2"],
       "startAt": "21:30",
       "endAt": "00:30",
       "fee": "250 TWD",
@@ -6900,9 +5955,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -6919,9 +5972,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -6938,10 +5989,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -6959,11 +6007,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -6980,10 +6024,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -7000,9 +6041,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -7019,11 +6058,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -7040,10 +6075,7 @@
       "host": "leo",
       "locate": "the-venue",
       "rate": "90% Salsa",
-      "types": [
-        "salsa on 1",
-        "salsa on 2"
-      ],
+      "types": ["salsa on 1", "salsa on 2"],
       "startAt": "21:30",
       "endAt": "00:30",
       "fee": "250 TWD",
@@ -7059,9 +6091,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -7078,9 +6108,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -7097,10 +6125,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -7118,11 +6143,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -7139,10 +6160,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -7159,12 +6177,7 @@
       "host": "dance-salsa-under-sky",
       "locate": "maji-square",
       "rate": "Salsa、Bachata、Kizomba",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata",
-        "kizomba"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata", "kizomba"],
       "startAt": "18:30",
       "endAt": "22:00",
       "fee": "免費",
@@ -7181,9 +6194,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -7200,11 +6211,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -7221,10 +6228,7 @@
       "host": "leo",
       "locate": "the-venue",
       "rate": "90% Salsa",
-      "types": [
-        "salsa on 1",
-        "salsa on 2"
-      ],
+      "types": ["salsa on 1", "salsa on 2"],
       "startAt": "21:30",
       "endAt": "00:30",
       "fee": "250 TWD",
@@ -7240,9 +6244,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -7259,9 +6261,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -7278,10 +6278,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -7299,10 +6296,7 @@
       "startAt": "21:00",
       "endAt": "00:30",
       "rate": "Bachata main room + zouk Room",
-      "types": [
-        "bachata",
-        "zouk"
-      ],
+      "types": ["bachata", "zouk"],
       "fee": "450TWD or 1 flow point",
       "canceled": false,
       "content": "Buddy Pass, 2 person $600 before 10pm",
@@ -7322,10 +6316,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -7342,9 +6333,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -7361,11 +6350,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -7382,10 +6367,7 @@
       "host": "leo",
       "locate": "the-venue",
       "rate": "90% Salsa",
-      "types": [
-        "salsa on 1",
-        "salsa on 2"
-      ],
+      "types": ["salsa on 1", "salsa on 2"],
       "startAt": "21:30",
       "endAt": "00:30",
       "fee": "250 TWD",
@@ -7401,9 +6383,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -7420,9 +6400,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -7439,10 +6417,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -7460,11 +6435,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -7481,10 +6452,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -7501,9 +6469,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -7520,11 +6486,7 @@
       "host": "brass-monkey",
       "locate": "brass-monkey",
       "rate": "Salsa:Bachata 3:2",
-      "types": [
-        "salsa on 1",
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 1", "salsa on 2", "bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "250TWD (含一杯飲料)",
@@ -7541,10 +6503,7 @@
       "host": "leo",
       "locate": "the-venue",
       "rate": "90% Salsa",
-      "types": [
-        "salsa on 1",
-        "salsa on 2"
-      ],
+      "types": ["salsa on 1", "salsa on 2"],
       "startAt": "21:30",
       "endAt": "00:30",
       "fee": "250 TWD",
@@ -7560,9 +6519,7 @@
       "host": "bachata-taiwan",
       "locate": "barcade-taiwan",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "21:00",
       "endAt": "01:00",
       "fee": "300TWD (含一杯飲料)",
@@ -7579,9 +6536,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Zouk",
-      "types": [
-        "zouk"
-      ],
+      "types": ["zouk"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -7598,10 +6553,7 @@
       "host": "bailalo-dance-studio",
       "locate": "bailalo-dance-studio",
       "rate": "Salsa:Bachata 50%:50%",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "20:40",
       "endAt": "22:00",
       "fee": "free",
@@ -7619,11 +6571,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "2S:3B + Zouk room",
-      "types": [
-        "salsa on 2",
-        "bachata",
-        "zouk"
-      ],
+      "types": ["salsa on 2", "bachata", "zouk"],
       "startAt": "21:00",
       "endAt": "00:30",
       "fee": "450 TWD or 1 flow point",
@@ -7640,10 +6588,7 @@
       "host": "copa-taiwan",
       "locate": "hd-studio",
       "rate": "100% Salsa Room + 100% Bachata Room",
-      "types": [
-        "salsa on 2",
-        "bachata"
-      ],
+      "types": ["salsa on 2", "bachata"],
       "startAt": "21:30",
       "endAt": "00:40",
       "fee": "350TWD",
@@ -7660,9 +6605,7 @@
       "host": "flow-taipei",
       "locate": "flow-taipei",
       "rate": "100% Bachata",
-      "types": [
-        "bachata"
-      ],
+      "types": ["bachata"],
       "startAt": "22:00",
       "endAt": "23:30",
       "fee": "250TWD or 0.5 flow point(當日上課學生免費)",
@@ -8906,6 +7849,33 @@
       "related": []
     },
     {
+      "id": "matangi",
+      "name": "Matangi",
+      "hide": false,
+      "solo": true,
+      "city": "taipei",
+      "thumbnail": "",
+      "content": "Matangi Swaminathan\nInternational Salsa Dancer, Teacher, Choreographer & Team Director\n\nI’m Matangi Swaminathan, a passionate dancer based in Asia. I’ve had the privilege of training under renowned maestros worldwide. With over 5 years of teaching experience in Salsa, I’m thrilled to start regular classes in Taipei!\nPerformance Highlights\n•  Founder of Mambo Movement , a team that trains and performs across Asia and internationally.\n•  Director of Tania Cannarsa’s performance teams for several years.\n\nTeaching & Mentoring\n\nI’m excited to share my passion for dance with students. I’m dedicated to promoting and teaching proper techniques to help dancers of all levels grow and improve their skills. With a background in Education, I focus on structuring my classes in a way that allows students a safe space to learn, practice, and develop at their own pace. I focus on details that make classes interactive and fun, prioritizing a supportive community that values technique, creativity, and enjoyment. Let’s Mambo !",
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/noyalee?igsh=MTh4MDVwanJ2eXc2ag%3D%3D&utm_source=qr"
+        }
+      ],
+      "classes": [
+        {
+          "weekday": "saturday",
+          "type": "salsa",
+          "name": "Salsa",
+          "level": "open-lv",
+          "time": "4:00~5:00 pm",
+          "chosen": false,
+          "selected": false
+        }
+      ],
+      "related": []
+    },
+    {
       "id": "noya",
       "name": "Noya",
       "hide": false,
@@ -9257,10 +8227,7 @@
       "classes": [
         {
           "weekday": "monday",
-          "type": [
-            "salsa",
-            "bachata"
-          ],
+          "type": ["salsa", "bachata"],
           "name": "Sasla / Bachata Partnerwork Lv3(舞科輪換)",
           "time": "20:30-21:30",
           "level": "intermediate"
@@ -9317,60 +8284,42 @@
       "classes": [
         {
           "weekday": "tuesday",
-          "type": [
-            "salsa",
-            "bachata"
-          ],
+          "type": ["salsa", "bachata"],
           "name": "Salsa & Bachata",
           "time": "14:00-16:00",
           "level": "beginner"
         },
         {
           "weekday": "tuesday",
-          "type": [
-            "salsa",
-            "bachata"
-          ],
+          "type": ["salsa", "bachata"],
           "name": "Salsa & Bachata",
           "time": "18:30-20:30",
           "level": "beginner"
         },
         {
           "weekday": "wednesday",
-          "type": [
-            "salsa",
-            "bachata"
-          ],
+          "type": ["salsa", "bachata"],
           "name": "Salsa & Bachata",
           "time": "19:00-21:00",
           "level": "beginner"
         },
         {
           "weekday": "thursday",
-          "type": [
-            "salsa",
-            "bachata"
-          ],
+          "type": ["salsa", "bachata"],
           "name": "Salsa & Bachata",
           "time": "14:00-16:00",
           "level": "beginner"
         },
         {
           "weekday": "thursday",
-          "type": [
-            "salsa",
-            "bachata"
-          ],
+          "type": ["salsa", "bachata"],
           "name": "Salsa & Bachata",
           "time": "18:30-20:30",
           "level": "beginner"
         },
         {
           "weekday": "friday",
-          "type": [
-            "salsa",
-            "bachata"
-          ],
+          "type": ["salsa", "bachata"],
           "name": "Salsa & Bachata",
           "time": "19:00-21:00",
           "level": "beginner"
