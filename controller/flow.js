@@ -11,10 +11,11 @@ const fetchSiteSchedule = async (ctx) => {
     // from server
     const { loginCookie } = ctx.request.body;
 
-    await axios
+    const fetchClassTableHtml = async (dateOffset)=>{
+      return await axios
       .post(
         "https://flowtaipei.com/php/personcheckinclasstables.php",
-        { pagetype: "listall" },
+        { pagetype: "listall",date_offset: dateOffset },
         {
           headers: {
             "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
@@ -22,19 +23,24 @@ const fetchSiteSchedule = async (ctx) => {
           },
         }
       )
-      .then((res) => {
-        ctx.status = 201;
-        ctx.body = { result: res.data };
-      })
-      .catch((error) => {
-        console.error("Error:", error);
-      });
+      .then((res) => res.data);
+    }
+
+    return await Promise.all([fetchClassTableHtml(0),fetchClassTableHtml(7),fetchClassTableHtml(14),fetchClassTableHtml(21),fetchClassTableHtml(28),fetchClassTableHtml(35)]).then(result=>{
+      const htmlString = result[0].concat(result[1]).concat(result[2]).concat(result[3]).concat(result[4]).concat(result[5])
+      ctx.status = 201;
+      ctx.body = { result: htmlString };
+    })
+    .catch((error) => {
+      console.error("Error:", error);
+    });
   } else {
     // crawler use
-    return await axios
+    const fetchClassTableHtml = async (dateOffset)=>{
+      return await axios
       .post(
         "https://flowtaipei.com/php/personcheckinclasstables.php",
-        { pagetype: "listall" },
+        { pagetype: "listall",date_offset: dateOffset },
         {
           headers: {
             "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
@@ -42,6 +48,11 @@ const fetchSiteSchedule = async (ctx) => {
         }
       )
       .then((res) => res.data);
+    }
+    return await Promise.all([fetchClassTableHtml(0),fetchClassTableHtml(7),fetchClassTableHtml(14),fetchClassTableHtml(21),fetchClassTableHtml(28),fetchClassTableHtml(35)]).then(result=>{
+      return result[0].concat(result[1]).concat(result[2]).concat(result[3]).concat(result[4]).concat(result[5])
+    })
+    
   }
 };
 

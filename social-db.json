@@ -581,6 +581,25 @@
       "calendarEventId": "dmjasqn5but37j8peg89k4gt0k"
     },
     {
+      "date": "2026-04-18T00:00:00",
+      "title": "La BA-SA Social",
+      "host": "la-salsa-taipei",
+      "locate": "la-salsa-taipei",
+      "startAt": "20:00",
+      "endAt": "00:00",
+      "rate": "Salsa:Bachata 50%:50%",
+      "types": [
+        "salsa on 2",
+        "bachata"
+      ],
+      "fee": "400 TWD",
+      "canceled": false,
+      "content": "",
+      "note": "",
+      "eventUrl": "",
+      "id": "4084884f-9648-428f-bd2e-e876d6ee66e6"
+    },
+    {
       "date": "2026-04-19T00:00:00",
       "title": "Bailalo Sunday Social",
       "host": "bailalo-dance-studio",
@@ -918,6 +937,44 @@
       "eventUrl": "",
       "calendarEventId": "45ltmbqbslt502278e4lkajt54",
       "id": "7f6b88da-8b84-488e-9edc-dc676ed68b46"
+    },
+    {
+      "date": "2026-04-25T00:00:00",
+      "title": "La Bachata Social",
+      "host": "la-salsa-taipei",
+      "locate": "la-salsa-taipei",
+      "startAt": "20:00",
+      "endAt": "00:00",
+      "rate": "Salsa:Bachata 30%:70%",
+      "types": [
+        "salsa on 2",
+        "bachata"
+      ],
+      "fee": "400 TWD",
+      "canceled": false,
+      "content": "",
+      "note": "",
+      "eventUrl": "",
+      "id": "b7815230-8de4-400d-96fe-6b5f5a3d5510"
+    },
+    {
+      "date": "2026-04-26T00:00:00",
+      "title": "iZØUK 4/26 Sunny Side 敦化 20:00~23:30",
+      "host": "finn",
+      "locate": "sunny-side",
+      "startAt": "20:00",
+      "endAt": "23:30",
+      "rate": "100% zouk / lambada",
+      "types": [
+        "zouk",
+        "lambada"
+      ],
+      "fee": "350 TWD",
+      "canceled": false,
+      "content": "👉 English version is below the Chinese version.\n\n✨ iZØUK – 100% Zouk / Lambada Social Party（中文版） ✨\n\n📅 時間：4/26（週日）20:00–23:30\n📍 地點：Sunny Side 敦化\n台北市大安區敦化南路一段205號4樓之6\n⚠️ 注意：實際在建築的 4 樓，但電梯按鈕是「5」樓，請按電梯 5 樓！\n🔗 Google 地圖（建議）：https://www.google.com/maps/search/?api=1&query=Sunny%20Side%20%E6%95%A6%E5%8C%96\n🔗 備用（大樓地址）：https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E6%95%A6%E5%8C%96%E5%8D%97%E8%B7%AF%E4%B8%80%E6%AE%B5205%E8%99%9F\n🎟️ 門票：NT$350\n🎧 DJ：Finn\n\n🕗 20:00–21:00 新手時光\n每首歌之間會有停頓、節奏清楚、速度較慢，\n讓大家在更友善的氛圍中暖身、熟悉舞步。\n大家一起早點到可以跳得更盡興！🥳\n\n💃🕺 希望 iZØUK 成為固定每月舞會，\n讓大家有更多機會相聚跳舞，\n也讓台北的 Zouk / Lambada 社群 更加活躍成長。\n\n🎉 歡迎新手加入，一起享受音樂與舞動！\n\n🙏 如果你喜歡 Zouk / Lambada，\n請幫忙分享活動資訊，讓更多朋友知道。\n謝謝大家 ❤️\n\n=================================\n\n✨ iZØUK – 100% Zouk / Lambada Social Party (English Version) ✨\n\n📅 Date & Time: Sun, Apr 26 · 8:00–11:30 PM\n📍 Venue: Sunny Side Dunhua\n4F-6, No. 205, Sec. 1, Dunhua South Rd., Da’an Dist., Taipei City\n⚠️ Note: The studio is on the building’s 4th floor, but the elevator button says “5F”. Please press 5 in the elevator!\n(Search “Sunny Side 敦化” on Google Maps for the exact location)\n🔗 Google Maps (recommended): https://www.google.com/maps/search/?api=1&query=Sunny%20Side%20%E6%95%A6%E5%8C%96\n🔗 Backup (building address): https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E6%95%A6%E5%8C%96%E5%8D%97%E8%B7%AF%E4%B8%80%E6%AE%B5205%E8%99%9F\n🎟️ Entry: NT$350\n🎧 DJ: Finn\n\n🕗 8:00–9:00 PM – Beginner’s Hour\nSongs won’t be played back-to-back; tempo will be clear and slower,\ncreating a friendly atmosphere for everyone to warm up and get comfortable.\nCome early, dance longer, and enjoy the vibes! 🥳\n\n💃🕺 Our goal is for iZØUK to become a monthly social party,\ngiving everyone more chances to dance together,\nand to keep the Zouk / Lambada community in Taipei growing and thriving.\n\n🎉 Beginners are especially welcome to join and have fun with us!\n\n🙏 If you love Zouk / Lambada,\nplease help share this event so more friends can know about it.\nThank you for supporting the community ❤️",
+      "note": "",
+      "eventUrl": "https://www.facebook.com/share/1PKjYvGg8a/",
+      "id": "ca5956d8-f0a7-45ee-8c59-b078d760d4d4"
     },
     {
       "id": "b3625fdd-640c-47b1-9bee-91db8454c877",
@@ -1653,6 +1710,25 @@
       "id": "7985cb5a-865d-4b1e-a2fa-b9ffcb0c6a57"
     },
     {
+      "date": "2026-05-16T00:00:00",
+      "title": "iZØUK  5/16 ODORO 16:00~20:00",
+      "host": "finn",
+      "locate": "ba-basement",
+      "startAt": "16:00",
+      "endAt": "20:00",
+      "rate": "100% zouk / lambada",
+      "types": [
+        "zouk",
+        "lambada"
+      ],
+      "fee": "350 TWD",
+      "canceled": false,
+      "content": "👉 English version is below the Chinese version.\n\n✨ iZØUK Evening – 100% Zouk / Lambada Social Party（中文版） ✨\n\n📅 時間：5/16（週六）16:00–20:00\n📍 地點：ODORO\n105臺北市松山區南京東路三段335巷5號B1\n\n🔗 Google 地圖：https://maps.app.goo.gl/PF7q7VUZmotQNxwE8\n\n🎟️ 門票：NT$350\n🎧 DJ：Finn\n\n🕗 16:00–17:00 新手時光\n每首歌之間會有停頓、節奏清楚、速度較慢，\n讓大家在更友善的氛圍中暖身、熟悉舞步。\n大家一起早點到可以跳得更盡興！🥳\n\n💃🕺 希望 iZØUK 成為固定每月舞會，\n讓大家有更多機會相聚跳舞，\n也讓台北的 Zouk / Lambada 社群 更加活躍成長。\n\n🎉 歡迎新手加入，一起享受音樂與舞動！\n\n🙏 如果你喜歡 Zouk / Lambada，\n請幫忙分享活動資訊，讓更多朋友知道。\n謝謝大家 ❤️\n\n=================================\n\n✨ iZØUK Evening – 100% Zouk / Lambada Social Party (English Version) ✨\n\n📅 Date & Time: Sat, May 16 · 4:00–8:00 PM\n📍 Venue: ODORO\nB1, No. 5, Lane 335, Section 3, Nanjing East Road, Songshan District, Taipei City 105, Taiwan\n\n🔗 Google Maps : https://maps.app.goo.gl/PF7q7VUZmotQNxwE8\n\n🎟️ Entry: NT$350\n🎧 DJ: Finn\n\n🕗 4:00 – 5:00 PM – Beginner’s Hour\nSongs won’t be played back-to-back; tempo will be clear and slower,\ncreating a friendly atmosphere for everyone to warm up and get comfortable.\nCome early, dance longer, and enjoy the vibes! 🥳\n\n💃🕺 Our goal is for iZØUK to become a monthly social party,\ngiving everyone more chances to dance together,\nand to keep the Zouk / Lambada community in Taipei growing and thriving.\n\n🎉 Beginners are especially welcome to join and have fun with us!\n\n🙏 If you love Zouk / Lambada,\nplease help share this event so more friends can know about it.\nThank you for supporting the community ❤️",
+      "note": "",
+      "eventUrl": "https://www.facebook.com/share/18K62EjYBs/",
+      "id": "7985cb5a-865d-4b1e-a2fa-b9ffcb0c6a57"
+    },
+    {
       "date": "2026-05-17T00:00:00",
       "title": "Bailalo Sunday Social",
       "host": "bailalo-dance-studio",
@@ -1852,6 +1928,24 @@
       "eventUrl": "",
       "calendarEventId": "9luu6pa047andccfjqhoq3a048",
       "id": "69805731-c934-4709-8147-eed29eca25e2"
+    },
+    {
+      "date": "2026-05-23T00:00:00",
+      "title": "Drop Da Hustl Vol.5",
+      "host": "hustlehustletw",
+      "locate": "flow-taipei",
+      "startAt": "20:00",
+      "endAt": "11:30",
+      "rate": "hustle 100%",
+      "types": [
+        "hustle"
+      ],
+      "fee": "450",
+      "canceled": "",
+      "content": "",
+      "note": "雙人同行 750",
+      "eventUrl": "",
+      "id": "ea36f1ba-04a9-452f-95c8-a24594b51e69"
     },
     {
       "date": "2026-05-24T00:00:00",
@@ -6652,7 +6746,7 @@
         },
         {
           "type": "salsa",
-          "name": "Salsa Advance",
+          "name": "Salsa Lv5",
           "weekday": "monday",
           "level": "advanced",
           "time": "20:40-22:00",
@@ -6674,7 +6768,8 @@
           "name": "Salsa Lv3.1",
           "type": "salsa",
           "level": "intermediate",
-          "chosen": false
+          "chosen": false,
+          "selected": false
         },
         {
           "type": "salsa",
@@ -6706,7 +6801,7 @@
         {
           "weekday": "friday",
           "type": "zouk",
-          "name": "Zouk Team Training",
+          "name": "Zouk Advanced",
           "level": "advanced",
           "time": "20:40-22:00",
           "chosen": false,
@@ -6714,7 +6809,7 @@
         },
         {
           "type": "salsa",
-          "name": "Salsa Lv3.2",
+          "name": "Salsa Lv1",
           "weekday": "saturday",
           "level": "intermediate",
           "time": "15:00-16:20",
@@ -6754,7 +6849,8 @@
           "name": "Dominican Bachata",
           "type": "bachata",
           "level": "beginner",
-          "chosen": false
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "sunday",
@@ -6819,9 +6915,9 @@
         },
         {
           "id": "a86af353-1003-4354-85ec-5eacd13ae107",
-          "thumbnail": "https://ik.imagekit.io/8bhpp1r3a/2026_COPA_Friday__19__NF_MZ3JR9.jpg",
+          "thumbnail": "https://ik.imagekit.io/8bhpp1r3a/copa_taiwan_logo-final-02_hC7KPQ4tU.png",
           "name": "COPA Salsa Friday | Weekly Social Party",
-          "content": "每周五晚上在台北固定舉辦的100% Salsa Party\n100% Salsa social party held every Friday night in Taipei\n\n√ Big room : 100% Salsa Room\n√ Side Room : Beginner-Friendly Zone + Taxi Dancers\n📅EVERY FRIDAY\n📍ODORO\n🎟️$300",
+          "content": "每周五晚上在台北固定舉辦的100% Salsa Party\n100% Salsa social party held every Friday night in Taipei\n\n√ Big room : 100% Salsa Room\n√ Side Room : Beginner-Friendly Zone + Taxi Dancers\n📅EVERY FRIDAY\n🎟️$350\n📍Subject to change PLZ Follow our IG or Line group\nhttps://line.me/ti/g2/xdbD3VtTuYaR0vraolx2rTWvojZEkCPc0F5S0g?utm_source=invitation&utm_medium=link_copy&utm_campaign=default\n",
           "links": []
         }
       ],
@@ -6864,10 +6960,11 @@
         {
           "weekday": "monday",
           "time": "19:30-20:30",
-          "name": "Head Movement Training For Bachata",
+          "name": "Bachata Fusion 單人舞序",
           "type": "bachata",
           "level": "open-lv",
-          "chosen": false
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "monday",
@@ -6889,9 +6986,17 @@
         },
         {
           "weekday": "tuesday",
+          "time": "19:30-20:30",
+          "name": "Salsa con Afro",
           "type": "salsa",
-          "name": "Afro",
           "level": "open-lv",
+          "chosen": false
+        },
+        {
+          "weekday": "tuesday",
+          "type": "salsa",
+          "name": "Salsa Lv1",
+          "level": "beginner",
           "time": "19:30-20:30",
           "chosen": false,
           "selected": false
@@ -6925,12 +7030,28 @@
         },
         {
           "weekday": "wednesday",
+          "time": "19:30-20:30",
+          "name": "Pachanga & Funk專攻班",
+          "type": "salsa",
+          "level": "open-lv",
+          "chosen": false
+        },
+        {
+          "weekday": "wednesday",
           "time": "20:45-21:45",
           "name": "Lambada Lv1",
           "type": "lambada",
           "level": "beginner",
           "chosen": false,
           "selected": false
+        },
+        {
+          "weekday": "wednesday",
+          "time": "20:45-22:15",
+          "name": "Salsa Musicality Training",
+          "type": "salsa",
+          "level": "open-lv",
+          "chosen": false
         },
         {
           "weekday": "thursday",
@@ -6944,7 +7065,7 @@
         {
           "weekday": "thursday",
           "type": "zouk",
-          "name": "Zouk Lv3",
+          "name": "Zouk Lv3.5",
           "level": "intermediate",
           "time": "19:30-20:30",
           "chosen": false,
@@ -6952,46 +7073,28 @@
         },
         {
           "weekday": "thursday",
+          "time": "20:45-21:45",
+          "name": "Zouk Lv1.5",
+          "type": "zouk",
+          "level": "beginner",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "weekday": "thursday",
+          "type": "zouk",
+          "name": "Gui & Paloma Partnerwork",
+          "level": "advanced",
+          "time": "20:45-22:30",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "weekday": "friday",
           "type": "salsa",
-          "name": "Salsa Bodymovement & Footwork Drills",
+          "name": "Salsa Battle Training (Solo)",
           "level": "open-lv",
-          "time": "19:30-20:30",
-          "chosen": false,
-          "selected": false
-        },
-        {
-          "weekday": "thursday",
-          "time": "20:45-21:45",
-          "name": "Zouk Lv1",
-          "type": "zouk",
-          "level": "beginner",
-          "chosen": false,
-          "selected": false
-        },
-        {
-          "weekday": "thursday",
-          "type": "zouk",
-          "name": "Zouk Intermidiate 3",
-          "level": "intermediate",
-          "time": "20:45-21:45",
-          "chosen": false,
-          "selected": false
-        },
-        {
-          "weekday": "friday",
-          "type": "zouk",
-          "name": "Zouk Lv2",
-          "level": "beginner",
-          "time": "20:00-21:00",
-          "chosen": false,
-          "selected": false
-        },
-        {
-          "weekday": "friday",
-          "type": "bachata",
-          "name": "Bachata Trendy Social Moves",
-          "level": "intermediate",
-          "time": "19:30-20:30",
+          "time": "19:30-21:00",
           "chosen": false,
           "selected": false
         }
@@ -7077,8 +7180,8 @@
       "classes": [
         {
           "weekday": "monday",
-          "type": "salsa",
-          "name": "Salsa Lv2",
+          "type": "bachata",
+          "name": "Bachata Intro",
           "level": "beginner",
           "time": "19:20-20:30",
           "chosen": false,
@@ -7108,7 +7211,8 @@
           "name": "Bachata Intro",
           "type": "bachata",
           "level": "beginner",
-          "chosen": false
+          "chosen": false,
+          "selected": false
         },
         {
           "weekday": "tuesday",
@@ -7131,7 +7235,7 @@
         {
           "weekday": "wednesday",
           "type": "salsa",
-          "name": "Salsa Intro",
+          "name": "Salsa Lv1B",
           "level": "beginner",
           "time": "19:20-20:30",
           "chosen": false,
@@ -7158,7 +7262,7 @@
         {
           "weekday": "thursday",
           "type": "bachata",
-          "name": "Bachata Lv2B",
+          "name": "Bachata Lv3A",
           "level": "beginner",
           "time": "19:20-20:30",
           "chosen": false,
@@ -7167,7 +7271,7 @@
         {
           "weekday": "thursday",
           "type": "bachata",
-          "name": "Bachata Lv3",
+          "name": "Bachata Lv3B",
           "level": "intermediate",
           "time": "19:20-20:30",
           "chosen": false,
@@ -7185,7 +7289,7 @@
         {
           "weekday": "friday",
           "type": "bachata",
-          "name": "Bachata Lv2A",
+          "name": "Bachata Lv2B",
           "level": "beginner",
           "time": "19:20-20:30",
           "chosen": false,
@@ -7194,7 +7298,7 @@
         {
           "weekday": "friday",
           "type": "bachata",
-          "name": "Bachata Lv1",
+          "name": "Bachata Lv2A",
           "level": "beginner",
           "time": "20:30-21:40",
           "chosen": false,
@@ -7203,7 +7307,7 @@
         {
           "weekday": "saturday",
           "time": "13:30-14:40",
-          "name": "Bachata Intro",
+          "name": "Bachata Lv1A",
           "type": "bachata",
           "level": "beginner",
           "chosen": false,
@@ -7221,7 +7325,7 @@
         {
           "weekday": "saturday",
           "type": "bachata",
-          "name": "Bachata Lv1",
+          "name": "Bachata Lv1B",
           "level": "beginner",
           "time": "15:00-16:10",
           "chosen": false,
@@ -7736,11 +7840,16 @@
       "hide": false,
       "solo": true,
       "city": "taipei",
-      "thumbnail": "/organizers/jeremy.png",
-      "content": "",
-      "links": [],
+      "content": "除了是Salsa/Bachata/Chachacha老師、舞者外，同時也是鋼琴樂手以及空手道教練、選手。\n父親為 Bass 樂手姜毓祐Jumbo老師，從小在拉丁與爵士音樂環境中成長，耳濡目染下接觸了鋼琴與舞蹈。\n因此擁有紮實的音樂基礎，對節奏與音樂結構有敏銳的掌握力，身體的肌肉控制與動作精準度要求很高。\n在教學上，擅長把複雜的節奏與動作拆解成簡單好懂的邏輯，幫助你真正聽懂音樂、抓到感覺。",
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/jeremy._.chiang"
+        }
+      ],
       "classes": [],
-      "related": []
+      "related": [],
+      "thumbnail": "https://ik.imagekit.io/8bhpp1r3a/jeremy_VrbMrPs_h.JPG"
     },
     {
       "id": "leo",
