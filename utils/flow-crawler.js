@@ -46,6 +46,8 @@ function parseWithCheerio(html) {
                 return "bachata";
               } else if (title.toLowerCase().includes("zouk")) {
                 return "zouk";
+              } else if (title.toLowerCase().includes("lambada")) {
+                return "lambada";
               } else {
                 return "salsa";
               }
